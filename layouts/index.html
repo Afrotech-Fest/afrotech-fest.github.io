@@ -14,11 +14,9 @@
         </header>
 
         <div class="container-fluid">
-            <div class="row" id="home"> {{ partial "home.html" . }}
+            <div class="row" id="home"> {{ partial "home.html" . }} {{ range where .Site.Pages "Section" "=" "sections" }}
 
             </div>
-
-            {{ range where .Site.Pages "Section" "=" "sections" }}
             <div class="row" id="{{ .Params.slug }}">
                 <div class="col-xs-12 col-lg-7 pl-50 pb-50 mt-10 stack">
                     {{ .Content }} {{ if isset .Params "id" }} {{ partial .Params.id . }} {{ end }}
