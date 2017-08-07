@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://afrotechfest.co.uk"
 languageCode = "en"
 title = "AfroTech Fest"
 theme = "hugo-universal-theme"
@@ -9,13 +9,23 @@ defaultContentLanguage = "en"
 # Main menu
 
 [[menu.main]]
-    name = "About"
+    name = "ABOUT THE FESTIVAL"
     url  = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Meet The Team"
+    name = "WHO IS IT FOR"
+    url  = "/#who-its-for"
+    weight = 1
+
+[[menu.main]]
+    name = "TEAM"
     url  = "/#team"
+    weight = 1
+
+[[menu.main]]
+    name = "SUBMIT PROPOSALS"
+    url  = "/#proposals"
     weight = 1
 
 # Top bar social links menu
@@ -39,7 +49,7 @@ defaultContentLanguage = "en"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
@@ -49,7 +59,7 @@ defaultContentLanguage = "en"
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    title = "AFROTECH FEST"
+    subtitle = "A two-day festival by and for black people of African and Caribbean heritage."
     link_url = "#"
-    link_text = "Check other homepages"
+    link_text = "Read more"
