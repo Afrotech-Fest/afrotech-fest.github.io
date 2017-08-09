@@ -3,10 +3,10 @@ title: "Submit"
 slug: "submit"
 date: 2017-08-09T12:08:27+01:00
 id: "submit"
-weight: 3
+weight: 4
 ---
 
-# Submit a proposal
+# SUBMIT A PROPOSAL
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
 nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi

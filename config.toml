@@ -9,43 +9,29 @@ defaultContentLanguage = "en"
 # Main menu
 
 [[menu.main]]
-<<<<<<< HEAD
-    name = "ABOUT THE FESTIVAL"
-    url  = "/"
+    name = "Home"
+    url  = "/#"
     weight = 1
 
 [[menu.main]]
-    name = "WHO IS IT FOR"
-    url  = "/#who-its-for"
-    weight = 1
-
-[[menu.main]]
-    name = "TEAM"
-=======
     name = "About the Festival"
     url  = "/#about"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     name = "Who is it for"
     url  = "/#who"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "Submit a proposal"
     url  = "/#submit"
-    weight = 3
-
-[[menu.main]]
-    name = "Team"
->>>>>>> 231a6b28d84f44f0099f2bb5f8eb63ff3b06b26d
-    url  = "/#team"
     weight = 4
 
 [[menu.main]]
-    name = "SUBMIT PROPOSALS"
-    url  = "/#proposals"
-    weight = 1
+    name = "Team"
+    url  = "/#team"
+    weight = 5
 
 # Top bar social links menu
 
@@ -83,7 +69,7 @@ defaultContentLanguage = "en"
 [params.see_more]
     enable = false
     icon = "fa fa-file-code-o"
-    title = "AFROTECH FEST"
-    subtitle = "A two-day festival by and for black people of African and Caribbean heritage."
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
     link_url = "#"
-    link_text = "Read more"
+    link_text = "Check other homepages"

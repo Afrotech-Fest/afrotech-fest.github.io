@@ -6,9 +6,6 @@ id: "venue"
 weight: 6
 ---
 
-# The Venue
+# THE VENUE
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi
-enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis
-nisl ut aliquip ex ea commodo consequat.
+Rich Mix London is an independent art’s venue in East London. They are committed to delivering excellent art to increasing and increasingly diverse audiences. Rich Mix have provided their venue free of charge for the festival over the two days.

@@ -2,10 +2,10 @@
 title: "Who"
 slug: "who"
 date: 2017-08-09T12:08:23+01:00
-weight: 2
+weight: 3
 ---
 
-# Who is it for?
+# WHO IS IT FOR?
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
 tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
