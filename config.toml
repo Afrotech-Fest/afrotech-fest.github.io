@@ -9,14 +9,24 @@ defaultContentLanguage = "en"
 # Main menu
 
 [[menu.main]]
-    name = "About"
-    url  = "/"
+    name = "About the Festival"
+    url  = "/#about"
     weight = 1
 
 [[menu.main]]
-    name = "Meet The Team"
+    name = "Who is it for"
+    url  = "/#who"
+    weight = 2
+
+[[menu.main]]
+    name = "Submit a proposal"
+    url  = "/#submit"
+    weight = 3
+
+[[menu.main]]
+    name = "Team"
     url  = "/#team"
-    weight = 1
+    weight = 4
 
 # Top bar social links menu
 
@@ -38,8 +48,13 @@ defaultContentLanguage = "en"
     url = "mailto:your@email.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
+[params]
+    email = "test@example.com"
+    latitude = 51.5243842
+    longitude = -0.0730965
+
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
@@ -47,7 +62,7 @@ defaultContentLanguage = "en"
       """
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
