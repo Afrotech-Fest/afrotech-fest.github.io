@@ -1,6 +1,6 @@
 baseurl = "http://afrotechfest.co.uk"
 languageCode = "en"
-title = "AfroTech Fest"
+title = "Afrotech Fest"
 theme = "hugo-universal-theme"
 defaultContentLanguage = "en"
 
@@ -8,10 +8,6 @@ defaultContentLanguage = "en"
 
 # Main menu
 
-[[menu.main]]
-    name = "Home"
-    url  = "/#"
-    weight = 1
 
 [[menu.main]]
     name = "About the Festival"
