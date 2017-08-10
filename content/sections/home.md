@@ -5,7 +5,7 @@ slug: "home"
 weight: 1
 ---
 
-<img src="img/aft-logo-white.png" width="200px">
+<img src="img/aft-logo-white.png" width="300px">
 
 
 ### 26 – 27 January, 2018
