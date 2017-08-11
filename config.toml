@@ -69,3 +69,9 @@ defaultContentLanguage = "en"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
     link_url = "#"
     link_text = "Check other homepages"
+
+
+[params.sponsors]
+    enable = true
+    title = "Our Sponsors"
+    subtitle = ""
