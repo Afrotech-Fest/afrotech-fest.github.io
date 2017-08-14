@@ -4,6 +4,7 @@ title = "Afrotech Fest"
 theme = "hugo-universal-theme"
 defaultContentLanguage = "en"
 
+
 [menu]
 
 # Main menu
@@ -12,22 +13,22 @@ defaultContentLanguage = "en"
 [[menu.main]]
     name = "About the Festival"
     url  = "/#about"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "Who is it for"
     url  = "/#who"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Submit a proposal"
     url  = "/#submit"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "Team"
     url  = "/#team"
-    weight = 5
+    weight = 4
 
 # Top bar social links menu
 
@@ -53,6 +54,10 @@ defaultContentLanguage = "en"
     email = "test@example.com"
     latitude = 51.5243842
     longitude = -0.0730965
+    copyright = "&copy; 2017 Afrotech Fest. Made with &#10084; in London"
+    defaultKeywords = ["tech", "tech fest", "afrotech fest", "diversity in tech", "black techies"]
+
+
 
 [params.topbar]
     enable = false

@@ -20,4 +20,4 @@ sent luptatum zzril delenit.
 {{< figure src="/img/pattern-4.svg" title="" class="pattern pattern-4" width="200px">}}
 
 
-<img src="img/pattern-3.svg" class="pattern pattern-3" width="200px">
+<img src="img/pattern-3.svg" class="pattern pattern-3" width="250px">
