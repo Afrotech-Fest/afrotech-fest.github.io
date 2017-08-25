@@ -8,6 +8,6 @@ weight: 7
 
 ## THE VENUE
 
-Rich Mix London is an independent art’s venue in East London. They are committed to delivering excellent art to increasing and increasingly diverse audiences. Rich Mix have provided their venue free of charge for the festival over the two days.
+Richmix is an independent arts venue in the heart of the East London. It was established in 2004 and has gone on to become one of the largest and most relevant arts venues in the capital. Rich Mix is spread over five floors, is fully accessible, contains three cinemas, flexible performance spaces and plenty of room for a big ideas festival like ours.
 
 ### [INSERT IMAGES OF VENUE]
