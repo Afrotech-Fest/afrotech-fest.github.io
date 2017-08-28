@@ -80,3 +80,9 @@ defaultContentLanguage = "en"
     enable = true
     title = "Our Sponsors"
     subtitle = ""
+
+
+[params.team]
+    enable = true
+    title = "Our team"
+    subtitle = ""

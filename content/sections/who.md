@@ -7,20 +7,7 @@ weight: 3
 
 ## WHO IS IT FOR?
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
-quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con-
-sequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie conse-
-quat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignis-
-sim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+AfroTech Fest is a place for black African and Caribbean people interested in technology. We take our motto “Join us and find your people,” to heart. Therefore we are actively engaged in connecting people like us, so that we can build a technological future that is for us. AfroTech fest is for black geeks, techies, weirdos and nerds, for anyone who has noticed that they are the only black face in the room, for anyone who has ever wondered “Why is my technology white?” and, crucially, for anyone who has ever felt too nervous to come and learn about this stuff. Feel familiar? Then AfroTech Fest is for you. 
 
-Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod
-tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam,
-quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, 
-quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo con-
-sequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie conse-
-quat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignis-
-sim qui blandit praesent luptatum zzril delenit.
+[Content needs work]

@@ -1,0 +1,36 @@
+{{ if gt (len .Site.Data.team) 0 }}
+
+<section class="">
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-12">
+                <ul class="owl-carousel customers">
+                    {{ range .Site.Data.team }}
+                    <li class="item team" title="{{ .name }}">
+                        {{ if .url }}
+                        <a href="{{ .url }}" target="_blank">
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                        </a>
+                        {{ else }}
+                        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" /> {{ end }}
+                        <div class="col-md-6">
+                        <p class="text-center team-caption">
+                                Lola is a trusts and foundations fundraiser. 
+                                She has worked in the charity sector on and off (mostly on) since, aged 13. 
+                                She is passionate about black people coming together to share skills, 
+                                knowledge and love.
+                                
+                        </p>
+                        <div>
+                    </li>
+                    {{ end }}
+                </ul>
+
+                <!-- /.owl-carousel -->
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
