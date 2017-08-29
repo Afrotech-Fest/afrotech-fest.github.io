@@ -14,7 +14,9 @@
         </header>
 
         <div class="container-fluid">
-            <div class="row  fade-in" id="home"> {{ partial "home.html" . }} {{ range where .Site.Pages "Section" "=" "sections" }}
+            <div class="row" id="home">                 
+                <div class="">
+                    {{ partial "home.html" . }} {{ range where .Site.Pages "Section" "=" "sections" }}</div>
 
             </div>
             <div class="row" id="{{ .Params.slug }}">
