@@ -29,7 +29,7 @@ h2 {
 } */
 
 a {
-    color: #4FF0D6;
+    color: #F83C7A;
 }
 
 a:hover {
@@ -68,10 +68,6 @@ div > .home-header {
     min-height: 700px;
 }
 
-.visuals {
-    overflow: hidden;
-    
-}
 
 .visuals-canvas {
     top: 0;
@@ -85,7 +81,7 @@ div > .home-header {
 
 .svg-container {
     width: 100%;
-    position: relative;
+    position: relative;    
     
 } 
 
@@ -272,6 +268,7 @@ background-color: #fff;
     max-width: 3rem;
     top: 430px;
     right: 400px;
+    
 }
 
 .pattern-10 {
@@ -292,6 +289,8 @@ background-color: #fff;
     max-width: 13%;
     top: -10px;
     left: 580px;
+    animation: pulse 2s infinite ease-in normal;    
+    
 }
 
 
@@ -441,3 +440,11 @@ background-color: #fff;
 .sponsors .item img:hover {
  
 }
+
+#map {
+    height: 500px;
+}
+
+
+ 
+  

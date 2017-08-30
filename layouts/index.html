@@ -25,7 +25,7 @@
         </div>
 
         <div class="row" id="{{ .Params.slug }}">
-            <div class="col-xs-12 col-lg-7 pl-50 pb-50 mt-10 stack">
+            <div class="col-xs-12 col-lg-8 pl-50 pb-50 mt-10 stack">
                 {{ .Content }} {{ if isset .Params "id" }} {{ partial .Params.id . }} {{ end }}
             </div>
             {{ end }}

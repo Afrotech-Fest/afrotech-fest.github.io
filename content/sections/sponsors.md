@@ -13,4 +13,4 @@ We would love you to get involved if you are interested in inspiring young peopl
 For more information about sponsorship, download our [sponsorship pack](www.example.com).
 
 
-#### CURRENT SPONSORS AND SUPPORTERS
+#### FESTIVAL SPONSORS
