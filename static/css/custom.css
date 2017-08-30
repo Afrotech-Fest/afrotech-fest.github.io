@@ -269,6 +269,7 @@ background-color: #fff;
     top: 430px;
     right: 400px;
     
+    
 }
 
 .pattern-10 {
@@ -292,7 +293,6 @@ background-color: #fff;
     animation: pulse 2s infinite ease-in normal;    
     
 }
-
 
 .pattern-36 {
     width: 60%;
@@ -352,6 +352,19 @@ background-color: #fff;
     border-color: #fff;
 }
 
+button.read-more {
+    background-color: transparent;
+    border: 1px solid white;
+    font-size: 1.3em;
+    padding: 10px 20px;
+    margin-top: 8%;
+    color: white;
+
+}
+
+button.read-more:hover {
+    animation: pulse 1s ease-in-out normal;
+}
 .stack {
     z-index: 1;
 }

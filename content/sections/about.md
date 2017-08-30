@@ -25,6 +25,8 @@ weight: 2
                             max-width: 40rem;
                             top: 450px;
                             right: -500px;
+                            animation: pulse 5s infinite ease-in-out normal;
+
                         }
                 </style>
                 </object>
