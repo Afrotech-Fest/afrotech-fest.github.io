@@ -3,7 +3,7 @@ title: "Venue"
 slug: "venue"
 date: 2017-08-09T12:08:36+01:00
 id: "venue"
-weight: 7
+weight: 5
 ---
 
 ## THE VENUE

@@ -8,27 +8,28 @@
     <div id="all">
 
         <header>
-
-            {{ partial "top.html" . }} {{ partial "nav.html" . }}
-
-        </header>
-
-        <div class="container-fluid">
-            <div class="row" id="home">                 
+            <div class="row">
                 <div class="">
-                    {{ partial "home.html" . }} {{ range where .Site.Pages "Section" "=" "sections" }}</div>
 
-            </div>
-            <div class="row" id="{{ .Params.slug }}">
-                <div class="col-xs-12 col-lg-7 pl-50 pb-50 mt-10 stack">
-                    {{ .Content }} {{ if isset .Params "id" }} {{ partial .Params.id . }} {{ end }}
+                    {{ partial "nav.html" . }}
                 </div>
             </div>
-            {{ end }}
+        </header>
+
+
+        <div class="row" id="home">
+            <div class="col-xs-12">
+                {{ partial "home.html" . }} {{ range where .Site.Pages "Section" "=" "sections" }}</div>
+
         </div>
 
-        {{ partial "footer.html" . }}
 
+        <div class="row" id="{{ .Params.slug }}">
+            <div class="col-xs-12 col-lg-7 pl-50 pb-50 mt-10 stack">
+                {{ .Content }} {{ if isset .Params "id" }} {{ partial .Params.id . }} {{ end }}
+            </div>
+            {{ end }} {{ partial "footer.html" . }}
+        </div>
     </div>
     <!-- /#all -->
 

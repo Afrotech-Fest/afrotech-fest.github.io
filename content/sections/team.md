@@ -2,7 +2,7 @@
 title: "Team"
 slug: "team"
 date: 2017-08-09T12:08:33+01:00
-weight: 5
+weight: 6
 id: "team"
 
 ---

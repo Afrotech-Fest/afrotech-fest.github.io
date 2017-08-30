@@ -30,6 +30,11 @@ defaultContentLanguage = "en"
     url  = "/#team"
     weight = 4
 
+    [[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 5
+
 # Top bar social links menu
 
 [[menu.topbar]]
