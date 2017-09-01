@@ -7,7 +7,7 @@ id: "team"
 
 ---
 
-<div class="svg-container">
+<!-- <div class="svg-container">
         <div class="visuals-canvas">
                    <object class="patterns pattern-29" data="img/svg-patterns/pattern-29.svg" type="image/svg+xml">
                 <style>
@@ -39,7 +39,7 @@ id: "team"
                 </style>
                 </object>
         </div>
-</div>
+</div> -->
 
 ## THE TEAM
 

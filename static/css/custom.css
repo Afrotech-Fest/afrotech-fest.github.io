@@ -8,7 +8,6 @@
 body {
     font-size: 16px;
     background-color: white;    
-    overflow-x: hidden; 
     
 }
 
@@ -54,7 +53,7 @@ a:hover {
 
 }
 
-div > .home-header {
+.home-header {
     margin-top: 3.777rem;
     animation: fadein 1s ease-in normal;    
     }
@@ -248,7 +247,7 @@ background-color: #fff;
     margin-top: 1%;
 }
 
-.pattern-1 {
+/* .pattern-1 {
     max-width: 15%;
     top: -75px;
     left: 0;
@@ -332,7 +331,7 @@ background-color: #fff;
 
 .pattern-36 {
     animation: rotate 3s infinite linear alternate-reverse;    
-}
+} */
 
 @-webkit-keyframes rotate {
     from {
@@ -393,9 +392,7 @@ button.read-more {
 button.read-more:hover {
     animation: pulse 1s ease-in-out normal;
 }
-.stack {
-    z-index: 1;
-}
+
 
 .pull-right i {
     margin-left: 20px;

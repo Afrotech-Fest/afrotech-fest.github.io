@@ -5,7 +5,7 @@ slug: "about"
 weight: 2
 ---
 
-<div class="svg-container">
+<!-- <div class="svg-container">
         <div class="visuals-canvas">
                 <object class="patterns pattern-14" data="img/svg-patterns/pattern-14.svg" type="image/svg+xml">
                 <style>
@@ -31,7 +31,7 @@ weight: 2
                 </style>
                 </object>
         </div>
-</div>
+</div> -->
 
 ## ABOUT THE FESTIVAL
 
