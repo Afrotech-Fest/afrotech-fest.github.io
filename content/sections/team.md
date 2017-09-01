@@ -29,7 +29,6 @@ id: "team"
                         }
                 </style>
                 </object>
-                <img src="img/svg-patterns/pattern-31.svg" class="patterns pattern-31">
                 <object class="patterns pattern-35" data="img/svg-patterns/pattern-35.svg" type="image/svg+xml">
                 <style>
                     .pattern-35 {

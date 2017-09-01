@@ -358,7 +358,6 @@ background-color: #fff;
 
 .btn-template-main {
     background: #F83C7A;
-    background: rgba(248, 60, 122, 1);
     box-sizing: border-box;
     color: #FFFFFF !important;
     font-size: 1.2rem;
@@ -488,5 +487,6 @@ button.read-more:hover {
 }
 
 
- 
-  
+.owl-theme .owl-controls .owl-page span{
+    background-color: #F83C7A !important;
+}
