@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/sections/about/</loc>
+    <lastmod>2017-08-09T12:08:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/sections/who/</loc>
+    <lastmod>2017-08-09T12:08:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/sections/submit/</loc>
+    <lastmod>2017-08-09T12:08:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/sections/venue/</loc>
+    <lastmod>2017-08-09T12:08:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/sections/sponsors/</loc>
+    <lastmod>2017-08-09T12:53:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/sections/team/</loc>
+    <lastmod>2017-08-09T12:08:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/sections/contact/</loc>
+    <lastmod>2017-08-09T12:58:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/sections/footer/</loc>
+    <lastmod>2017-08-09T12:08:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/sections/home/</loc>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/</loc>
+    <lastmod>2017-08-09T12:08:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/sections/</loc>
+    <lastmod>2017-08-09T12:08:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://afrotechfest.co.uk/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
