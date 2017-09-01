@@ -1,3 +1,4 @@
+baseurl = "http://afrotechfest.co.uk"
 languageCode = "en"
 title = "Afrotech Fest"
 defaultContentLanguage = "en"
