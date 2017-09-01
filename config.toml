@@ -1,8 +1,6 @@
 baseurl = "http://afrotechfest.co.uk"
 languageCode = "en"
 title = "Afrotech Fest"
-themesDir: "themes"
-theme = "hugo-universal-theme"
 defaultContentLanguage = "en"
 
 
