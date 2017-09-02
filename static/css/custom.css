@@ -322,6 +322,16 @@ background-color: #fff;
     left: 250px;
 }
 
+
+
+.pattern-36 {
+    width: 60%;
+    max-width: 15rem;
+    top: 430px;
+    left: 250px;
+    animation: rotate 3s infinite linear alternate-reverse;     
+}
+
 .pattern-42 {
     max-width: 13%;
     top: 0;
@@ -330,15 +340,23 @@ background-color: #fff;
     
 }
 
-.pattern-36 {
-    width: 60%;
-    max-width: 15rem;
-    top: 430px;
-    left: 250px;
+.pattern-43 {
+    max-width: 10%;
+    top: 0;
+    left: 580px;
+    
 }
 
-.pattern-36 {
-    animation: rotate 3s infinite linear alternate-reverse;    
+.pattern-44 {
+    max-width: 5%;
+    top: 400px;
+    left: 1000px;
+}
+
+.pattern-45 {
+    max-width: 12%;
+    top: 900px;
+    left: 1000px;
 }
 
 @-webkit-keyframes rotate {
