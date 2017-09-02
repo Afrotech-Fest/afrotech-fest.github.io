@@ -31,7 +31,7 @@ a {
     color: #F83C7A;
 }
 
-a:hover {
+a:hover, a:focus {
     color: #F68D5D;
 }
 
@@ -137,12 +137,12 @@ a:hover {
     margin-right: 20px;
 }
 
-.navbar ul.nav>li>a:hover {
+.navbar ul.nav>li>a:hover, .navbar ul.nav>li>a:focus {
     color: #ffffff;
 
 }
 
-.navbar ul.nav>li>a:hover:after { 
+.navbar ul.nav>li>a:hover:after, .navbar ul.nav>li>a:focus:after { 
     transform: scaleX(1);
 }
 
@@ -369,12 +369,14 @@ background-color: #fff;
     border-color: #F83C7A;
 }
 
-.btn-template-main:hover {
+.btn-template-main:hover, 
+.btn-template-main:focus {
     background: #F68D5D;
     border-color: #F68D5D;
 }
 
-.navbar-buttons .btn-template-main:hover {
+.navbar-buttons .btn-template-main:hover, 
+.navbar-buttons .btn-template-main:focus {
     background: #E51F6B !important;
     border-color: #fff;
 }
@@ -389,7 +391,8 @@ button.read-more {
 
 }
 
-button.read-more:hover {
+button.read-more:hover,
+button.read-more:focus {
     animation: pulse 1s ease-in-out normal;
 }
 
@@ -399,7 +402,7 @@ button.read-more:hover {
     color: #F83C7A;
 }
 
-.pull-right i:hover {
+.pull-right i:hover, .pull-right i:focus {
     margin-left: 20px;
     color: #4FF0D6;
 }
@@ -458,7 +461,8 @@ button.read-more:hover {
     transition: all 0.2s ease-out;
 }
 
-.testimonials .item img:hover {
+.testimonials .item img:hover, 
+.testimonials .item img:focus {
     max-width: auto;
     filter: none;
     -webkit-filter: none;
