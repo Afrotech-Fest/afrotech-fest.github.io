@@ -3,9 +3,10 @@
     color: #0f0 !important;
     outline: solid #f00 1px !important;
   }  */
-   
-   
-body {
+
+  
+  
+  body {
     font-size: 16px;
     background-color: white;    
     
@@ -67,7 +68,6 @@ a:hover, a:focus {
     min-height: 700px;
 }
 
-
 .visuals-canvas {
     top: 0;
     right: 0;
@@ -85,35 +85,35 @@ a:hover, a:focus {
         padding-bottom: 100%; 
         vertical-align: middle; 
         overflow: hidden; 
+        min-height: 800px;
     
 } 
 
  .patterns {
 	display: inline-block;
-	position: absolute;
-	top: 0;
-    left: 0;
-}
+    position: absolute;
+ }
 
 
 
 .logo {
+    display: inline-block;    
     margin-top: 1%;
+    max-width: 50%;
 }
 
 .home-header h3 {
-    font-family: "Source Sans Pro";    
-    font-size: 2.6rem;
-    line-height: 0.5;
+    font-family: "Source Sans Pro";
+    font-weight: 400; 
+    color: #ffffff;
+    
 }
 
-.home-header h4 {
+p.lead {
     margin-top: 30px;
-    font-weight: 300;
-    font-size: 1.65em;
     font-family: "Source Sans Pro";
     letter-spacing: 1px;
-    width: 50%;
+    color: #ffffff;
 }
 
  
@@ -394,7 +394,6 @@ button.read-more {
     border: 1px solid white;
     font-size: 1.3em;
     padding: 10px 20px;
-    margin-top: 8%;
     color: white;
 
 }
