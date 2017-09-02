@@ -16,5 +16,3 @@ General enquiries can be sent to info@afrotechfest.co.uk or debs@afrotechfest.co
 [ACCESSIBILITY AND INCLUSION](https://www.example.com)
 
 [FAQs](https://www.example.com)
-
-

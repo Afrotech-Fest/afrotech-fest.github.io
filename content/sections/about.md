@@ -4,7 +4,6 @@ date: 2017-08-09T12:08:19+01:00
 slug: "about"
 weight: 2
 ---
-
 <!-- <div class="svg-container">
         <div class="visuals-canvas">
                 <object class="patterns pattern-14" data="img/svg-patterns/pattern-14.svg" type="image/svg+xml">
