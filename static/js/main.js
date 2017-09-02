@@ -1,5 +1,8 @@
 
 //Accessible smooth scrolling courtesy https://css-tricks.com/snippets/jquery/smooth-scrolling/
+
+var headerHeight = $("header .navbar").height();
+
 // Select all links with hashes
 $('a[href*="#"]')
 // Remove links that don't actually link to anything
@@ -20,7 +23,7 @@ $('a[href*="#"]')
       // Only prevent default if animation is actually gonna happen
       event.preventDefault();
       $('html, body').animate({
-        scrollTop: target.offset().top
+        scrollTop: target.offset().top - headerHeight
       }, 850, function() {
         // Callback after animation
         // Must change focus!
