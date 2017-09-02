@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 372.18 306.67">
+    <defs>
+        <linearGradient id="New_Gradient_Swatch_1" x1="2011.27" x2="2308.05" y1="-1831.36" y2="-1831.36" gradientTransform="translate(-2011.27 1979.75)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e0ed3a"/>
+            <stop offset="1" stop-color="#4ff0d6"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient" x1="2108.52" x2="2303.44" y1="-1699.03" y2="-1699.03" gradientTransform="translate(-1931.26 1908.23)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#0ceaea"/>
+            <stop offset="0.5" stop-color="#20e2b1"/>
+            <stop offset="1" stop-color="#29ffc5"/>
+        </linearGradient>
+    </defs>
+    <title>
+        pattern-1.1
+    </title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <circle cx="148.39" cy="148.39" r="148.39" style="fill:url(#New_Gradient_Swatch_1)" transform="translate(-61.46 148.39) rotate(-45)"/>
+            <circle cx="274.72" cy="209.21" r="97.46" style="fill:url(#linear-gradient)" transform="translate(-67.47 255.53) rotate(-45)"/>
+        </g>
+    </g>
+</svg>

@@ -257,62 +257,51 @@ background-color: #fff;
 .pattern-1 {
     max-width: 15%;
     top: 0;
-    left: 0;
+    left: 470px;
 }
 
 
 .pattern-2 {
-    max-width: 15%;
-    top: -10px;
-    left: 1200px;
+    max-width: 25%;
+    top: 600px;
+    left: -10px;
 
 }
 
-.pattern-3 {
-    max-width: 15%;
-    top: 617px;
-    left: 610px;
-}
 
 .pattern-4 {
-    max-width: 2%;
-    top: -80px;
-    left: 550px;
+    max-width: 10%;
+    top: 500px;
+    left: 1200px;
 }
 
 .pattern-5 {
-    max-width: 2%;
-    top: 430px;
-    right: 100px;
+    max-width: 30%;
+    top: 200px;
+    left: 100px;
+    
 }
 
 .pattern-6 {
-    max-width: 6%;
-    top: 550px;
-    left: -10px;
+    max-width: 30%;
+    top: 200px;
+    right: 40px;
+    z-index: -2;
+    animation: pulse 2s infinite ease-in normal;    
+    
 }
 
-.pattern-7 {
-    width: 60%;
-    max-width: 8rem;
-    top: 250px;
-    right: 150px;
+.pattern-8 {
+    max-width: 2%;
+    top: 10px;
+    left: 200px;
+
 }
 
 .pattern-9 {
-    width: 60%;
-    max-width: 3rem;
-    top: 430px;
-    right: 400px;
-    
-    
-}
-
-.pattern-10 {
-    width: 60%;
-    max-width: 25rem;
-    top: 0;
-    left: 0;
+    max-width: 5%;
+    top: 700px;
+    left: 700px;
 }
 
 .pattern-13 {
@@ -340,12 +329,6 @@ background-color: #fff;
     
 }
 
-.pattern-43 {
-    max-width: 10%;
-    top: 0;
-    left: 580px;
-    
-}
 
 .pattern-44 {
     max-width: 5%;
@@ -354,7 +337,7 @@ background-color: #fff;
 }
 
 .pattern-45 {
-    max-width: 12%;
+    max-width: 5%;
     top: 900px;
     left: 1000px;
 }
