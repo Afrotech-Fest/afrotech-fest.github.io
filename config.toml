@@ -55,7 +55,7 @@ defaultContentLanguage = "en"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
-    email = "test@example.com"
+    email = "debs@afrotechfest.co.uk"
     latitude = 51.5243842
     longitude = -0.0730965
     copyright = "&copy; 2017 Afrotech Fest. Made with &#10084; in London"
