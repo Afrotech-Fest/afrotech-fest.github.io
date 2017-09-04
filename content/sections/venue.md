@@ -1,8 +1,8 @@
 ---
 title: "Venue"
 slug: "venue"
-date: 2017-08-09T12:08:36+01:00
 id: "venue"
+date: 2017-08-09T12:08:36+01:00
 weight: 5
 ---
 

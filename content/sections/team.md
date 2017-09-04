@@ -1,10 +1,9 @@
 ---
 title: "Team"
 slug: "team"
+id: "team"
 date: 2017-08-09T12:08:33+01:00
 weight: 6
-id: "team"
-
 ---
 
 <!-- <div class="svg-container">

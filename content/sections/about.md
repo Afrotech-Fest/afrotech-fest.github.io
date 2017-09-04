@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2017-08-09T12:08:19+01:00
 slug: "about"
+date: 2017-08-09T12:08:19+01:00
 weight: 2
 ---
 <!-- <div class="svg-container">

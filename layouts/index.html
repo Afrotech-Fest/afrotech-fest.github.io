@@ -39,14 +39,15 @@
                     {{ range where .Site.Pages "Section" "=" "sections" }}
                     <div class="row" id="{{ .Params.slug }}">
                         <div class="col-xs-12 col-lg-7 pl-50 pb-50 mt-10 stack">
-                            {{ .Content }} {{ if isset .Params "id" }} {{ partial .Params.id . }} {{ end }}
+                            {{ .Content }} {{ if isset .Params "id" }} {{ partial .Params.id . }}
+                                                        
+                            {{ end }}
                         </div>
                     </div>
                     {{ end }}
-            </div>
-                {{ partial "footer.html" . }}
+            </div>            
         </div>
-            
+        
         <!-- /#all -->
 
         {{ partial "scripts.html" . }}
