@@ -38,5 +38,5 @@ Afrotech Fest is a two-day tech and digital festival by and for black people of 
  
 The festival is a response to the underrepresentation of black people in the technology industry – especially those who are marginalised in additional ways – as well technology conferences being too expensive for many to attend. We want to create a tech festival that is intentionally diverse and inclusive of those often excluded.
 
-For more information about the festival download our [information pack](www.example.com).
+For more information about the festival download our [information pack](https://drive.google.com/open?id=0B3whBCs7yUf1S01oNl92S1RMVVU).
 
