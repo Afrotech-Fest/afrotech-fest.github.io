@@ -285,6 +285,7 @@ div h2:first-child {
     width: 100%;
     padding-bottom: 5%;
     vertical-align: top;
+    overflow: hidden;
 }
 
 .pattern-4 {
@@ -298,11 +299,11 @@ div h2:first-child {
 }
 
 .pattern-16 {
-    display: block;
+    display: inline-block;
     position: absolute;
     padding-top: 5%;
     padding-bottom: 5%;
-    left: 70%;
+    left: 65%;
     width: 35%;
     min-width: 30%;
 }
