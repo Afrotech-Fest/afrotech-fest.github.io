@@ -6,7 +6,7 @@ weight: 3
 ---
 
 <div class="row">
-<div class="col-xs-12 col-md-9 mt-10">
+<div class="col-xs-12 col-md-9 mt-10 stack">
 
 <h2>WHO IS IT FOR?</h2>
 
@@ -22,5 +22,17 @@ weight: 3
 <br>
 
 <p>[Content on affordability, diversity and priority tickets, kids go free, etc]</p>
+</div>
+</div>
+
+
+<div class="svgcontainer">
+
+<div class="pattern-33">
+<img src="img/svg-patterns/pattern-33.svg" width="100%">
+</div>
+
+<div class="pattern-36">
+<img src="img/svg-patterns/pattern-36.svg" width="100%">
 </div>
 </div>

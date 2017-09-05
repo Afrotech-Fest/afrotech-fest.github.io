@@ -35,6 +35,10 @@ and youth track]</p>
 <img src="img/svg-patterns/pattern-1.4.svg" width="100%">
 </div>
 
+<div class="pattern-6-2">
+<img src="img/svg-patterns/pattern-1.6.svg" width="100%">
+</div>
+
 <div class="pattern-16">
 <img src="img/svg-patterns/pattern-16.svg" width="100%">
 </div>

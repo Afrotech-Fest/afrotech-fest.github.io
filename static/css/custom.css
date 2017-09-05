@@ -36,6 +36,10 @@ a:hover, a:focus {
     color: #F68D5D;
 }
 
+.stack {
+    z-index: 1;
+}
+
 #home {
     color: #fff;
     height:100vh;
@@ -332,6 +336,35 @@ div h2:first-child {
     
 }
 
+.pattern-6-2 {
+    display: inline-block;
+    position: absolute;
+    padding-bottom: 10%;
+    left:-30%;
+    min-width: 35%;
+    
+}
+
+
+
+.pattern-33 {
+    display: inline-block;
+    position: absolute;
+    padding-bottom: 10%;
+    left:40%;
+    min-width: 15%;
+    top: 30%;
+}
+
+.pattern-36 {
+    display: inline-block;
+    position: absolute;
+    padding-bottom: 10%;
+    left:70%;
+    min-width: 15%;
+    top: 70%;
+}
+
 .pattern-8 {
     max-width: 2%;
     top: 10px;
@@ -354,13 +387,6 @@ div h2:first-child {
 
 
 
-.pattern-36 {
-    width: 60%;
-    max-width: 15rem;
-    top: 430px;
-    left: 250px;
-    animation: rotate 3s infinite linear alternate-reverse;     
-}
 
 .pattern-42 {
     max-width: 13%;
