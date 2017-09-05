@@ -4,39 +4,32 @@ slug: "about"
 date: 2017-08-09T12:08:19+01:00
 weight: 2
 ---
-<!-- <div class="svg-container">
-        <div class="visuals-canvas">
-                <object class="patterns pattern-14" data="img/svg-patterns/pattern-14.svg" type="image/svg+xml">
-                <style>
-                    .pattern-14 {
-                            width: 60%;
-                            max-width: 12rem;
-                            top: 250px;
-                            right: -50px;
-                            z-index: -1;
-                        }
-                </style>
-                </object>
-                <object class="patterns pattern-16" data="img/svg-patterns/pattern-16.svg" type="image/svg+xml">
-                <style>
-                    .pattern-16 {
-                            width: 60%;
-                            max-width: 40rem;
-                            top: 450px;
-                            right: -500px;
-                            animation: pulse 5s infinite ease-in-out normal;
-
-                        }
-                </style>
-                </object>
-        </div>
-</div> -->
 
 ## ABOUT THE FESTIVAL
 
 Afrotech Fest is a two-day tech and digital festival by and for black people of African and Caribbean heritage. The&nbsp;festival won’t replicate models for tech events, festivals and conferences that currently exist. It will instead explore where technology meets the arts, history, news, activism and representation. Afrotech Fest provides a space where people across a variety of backgrounds can imagine a future that’s free of the problems of the&nbsp;present.  
  
 The festival is a response to the underrepresentation of black people in the technology industry – especially those who are marginalised in additional ways – as well technology conferences being too expensive for many to attend. We want to create a tech festival that is intentionally diverse and inclusive of those often excluded.
+<br>
+<br>
+
+
+#### WHAT TO EXPECT
+
+[Info on general programme, digital installations and youth track]
+
+Our youth track allows you to travel in many lanes, why not try making a speaker at our making station, or showing your own inventions at our tech fair or even taking part in a workshop and learning how to code your own game? We have all types of kits to get stuck in with so for the little techies you can use play dough and make your monster really roar and for the teenagers looking for more of a challenge, you can get to grips with our soldering projects. 
 
 For more information about the festival download our [information pack](https://drive.google.com/open?id=0B3whBCs7yUf1S01oNl92S1RMVVU).
+
+<div class="svgcontainer">
+<div class="pattern-4">
+<img src="img/svg-patterns/pattern-1.4.svg" width="100%">
+</div>
+
+<div class="pattern-16">
+<img src="img/svg-patterns/pattern-16.svg" width="100%">
+</div>
+
+</div>
 

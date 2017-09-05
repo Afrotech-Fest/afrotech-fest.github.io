@@ -12,8 +12,6 @@
                 {{ partial "nav.html" . }}
 
             </header>
-
-
             
 
             <div class="container-fluid">
@@ -26,18 +24,18 @@
                                 <object type="image/svg+xml" class="patterns pattern-6" data="img/svg-patterns/pattern-1.6.svg" width="100%"></object>
                                 <object type="image/svg+xml" class="patterns pattern-6-1" data="img/svg-patterns/pattern-1.6.svg" width="100%"></object>                                
                                 
-                                
-                                
                                                             
                         </div>
                         {{ partial "home.html" . }}
                 </div>
+
             </div>
 
             <div class="container-fluid">
                     {{ range where .Site.Pages "Section" "=" "sections" }}
                     <div class="row" id="{{ .Params.slug }}">
-                        <div class="col-xs-12 col-lg-7 pl-50 pb-50 mt-10 stack">
+                        
+                        <div class="col-xs-12 col-lg-10 pl-50 pb-50 mt-10 stack">
                             {{ .Content }} {{ if isset .Params "id" }} {{ partial .Params.id . }}
                                                         
                             {{ end }}

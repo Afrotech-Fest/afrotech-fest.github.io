@@ -39,6 +39,7 @@ a:hover, a:focus {
 #home {
     color: #fff;
     height:100vh;
+    height: 100%;
     min-height: 800px;
     /* padding-bottom:20em;   */
     /* background: -moz-linear-gradient(0% 50% 0deg, rgba(255, 81, 47, 1) 0%, rgba(221, 36, 118, 1) 100%);
@@ -91,8 +92,12 @@ a:hover, a:focus {
 } 
 
  .patterns {
-	display: inline-block;
-    position: absolute;
+	/* display: inline-block;
+    position: absolute; */
+
+    height:0;
+    padding-top:63.63%; /* 350px/550px */
+    position: relative;
  }
 
 
@@ -255,6 +260,10 @@ background-color: #fff;
     margin-top: 1%;
 }
 
+div h2:first-child {
+    padding-top: 40px;
+}
+
 .pattern-1 {
     max-width: 15%;
     top: 0;
@@ -270,12 +279,31 @@ background-color: #fff;
 }
 
 
+
+.svgcontainer {
+    width: 100%;
+    padding-bottom: 5%;
+    vertical-align: top;
+}
+
 .pattern-4 {
-    max-width: 10%;
-    top: 500px;
-    left: 1200px;
-    z-index: 10;
-    
+    display: block;
+    position: absolute;
+    top: 25%;
+    left: 80%;
+    z-index: -1;
+    min-width: 15%;
+    opacity: 0.7;
+}
+
+.pattern-16 {
+    display: block;
+    position: absolute;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    left: 6%;
+    width: 35%;
+    min-width: 30%;
 }
 
 .pattern-5 {
