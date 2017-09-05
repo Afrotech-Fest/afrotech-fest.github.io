@@ -13,3 +13,9 @@ AfroTech Fest is a place for black African and Caribbean people interested in te
 [Content needs work, add something about newbies, all skill levels in all areas of design and development]
 
 
+### Tickets information
+
+<br>
+<br>
+
+[Content on affordability, diversity and priority tickets, kids go free, etc]
