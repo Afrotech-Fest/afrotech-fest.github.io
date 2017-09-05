@@ -35,7 +35,7 @@
                     {{ range where .Site.Pages "Section" "=" "sections" }}
                     <div class="row" id="{{ .Params.slug }}">
                         
-                        <div class="col-xs-12 col-lg-10 pl-50 pb-50 mt-10 stack">
+                        <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10">
                             {{ .Content }} {{ if isset .Params "id" }} {{ partial .Params.id . }}
                                                         
                             {{ end }}

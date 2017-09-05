@@ -7,16 +7,16 @@ weight: 2
 
 ## ABOUT THE FESTIVAL
 
-Afrotech Fest is a two-day tech and digital festival by and for black people of African and Caribbean heritage. The&nbsp;festival won’t replicate models for tech events, festivals and conferences that currently exist. It will instead explore where technology meets the arts, history, news, activism and representation. Afrotech Fest provides a space where people across a variety of backgrounds can imagine a future that’s free of the problems of the&nbsp;present.  
- 
-The festival is a response to the underrepresentation of black people in the technology industry – especially those who are marginalised in additional ways – as well technology conferences being too expensive for many to attend. We want to create a tech festival that is intentionally diverse and inclusive of those often excluded.
+Afrotech Fest is a two-day tech and digital festival by and for black people of African and Caribbean heritage. The&nbsp;festival won’t replicate models for tech events, festivals and conferences that currently exist. It will instead explore where technology meets the arts, history, news, activism and representation. Afrotech Fest provides a space where people across a variety of backgrounds can imagine a future that’s free of the problems of the&nbsp; present.  
 <br>
 <br>
 
 
 #### WHAT TO EXPECT
 
-[Info on general programme, digital installations and youth track]
+[Info on general programme, <br>
+digital installations <br>
+and youth track]<br>
 
 Our youth track allows you to travel in many lanes, why not try making a speaker at our making station, or showing your own inventions at our tech fair or even taking part in a workshop and learning how to code your own game? We have all types of kits to get stuck in with so for the little techies you can use play dough and make your monster really roar and for the teenagers looking for more of a challenge, you can get to grips with our soldering projects. 
 
