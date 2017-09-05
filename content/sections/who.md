@@ -5,17 +5,22 @@ date: 2017-08-09T12:08:23+01:00
 weight: 3
 ---
 
-## WHO IS IT FOR?
+<div class="row">
+<div class="col-xs-12 col-md-9 mt-10">
 
-AfroTech Fest is a place for black African and Caribbean people interested in technology. We take our motto “Join us and find your people,” to heart. Therefore we are actively engaged in connecting people like us, so that we can build a technological future that is for us. AfroTech fest is for black geeks, techies, weirdos and nerds, for anyone who has noticed that they are the only black face in the room, for anyone who has ever wondered “Why is my technology white?” and, crucially, for anyone who has ever felt too nervous to come and learn about this stuff. Feel familiar? Then AfroTech Fest is for you. 
+<h2>WHO IS IT FOR?</h2>
+
+<p>AfroTech Fest is a place for black African and Caribbean people interested in technology. We take our motto “Join us and find your people,” to heart. Therefore we are actively engaged in connecting people like us, so that we can build a technological future that is for us. AfroTech fest is for black geeks, techies, weirdos and nerds, for anyone who has noticed that they are the only black face in the room, for anyone who has ever wondered “Why is my technology white?” and, crucially, for anyone who has ever felt too nervous to come and learn about this stuff. Feel familiar? Then AfroTech Fest is for you.</p>
 
 
-[Content needs work, add something about newbies, all skill levels in all areas of design and development]
+<p>[Content needs work, add something about newbies, all skill levels in all areas of design and development]</p>
 
 
-### Tickets information
+<h3> Tickets information</h3>
 
 <br>
 <br>
 
-[Content on affordability, diversity and priority tickets, kids go free, etc]
+<p>[Content on affordability, diversity and priority tickets, kids go free, etc]</p>
+</div>
+</div>

@@ -40,7 +40,12 @@ weight: 6
         </div>
 </div> -->
 
-## THE TEAM
+<div class="row">
+<div class="col-xs-12 col-md-9 mt-10">
 
-We’re a team of activists, artists, techies and community leaders who are focused on black communities in the UK. Afrotech Fest seeks to bring together these strands, specifically serving black people and creating conversations and connections beyond ‘networking’ or bending to fit into the current industries and climate.
+<h2> THE TEAM</h2>
 
+<p>We’re a team of activists, artists, techies and community leaders who are focused on black communities in the UK. Afrotech Fest seeks to bring together these strands, specifically serving black people and creating conversations and connections beyond ‘networking’ or bending to fit into the current industries and climate.</p>
+
+</div>
+</div>

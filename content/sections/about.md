@@ -5,22 +5,30 @@ date: 2017-08-09T12:08:19+01:00
 weight: 2
 ---
 
-## ABOUT THE FESTIVAL
+<div class="row">
+<div class="col-xs-12 col-md-9 mt-10">
+<h2> ABOUT THE FESTIVAL</h2>
 
-Afrotech Fest is a two-day tech and digital festival by and for black people of African and Caribbean heritage. The&nbsp;festival won’t replicate models for tech events, festivals and conferences that currently exist. It will instead explore where technology meets the arts, history, news, activism and representation. Afrotech Fest provides a space where people across a variety of backgrounds can imagine a future that’s free of the problems of the&nbsp; present.  
+<p>Afrotech Fest is a two-day tech and digital festival by and for black people of African and Caribbean heritage. The&nbsp;festival won’t replicate models for tech events, festivals and conferences that currently exist. It will instead explore where technology meets the arts, history, news, activism and representation. Afrotech Fest provides a space where people across a variety of backgrounds can imagine a future that’s free of the problems of the&nbsp; present.</p>
 <br>
 <br>
 
 
-#### WHAT TO EXPECT
+<h4> WHAT TO EXPECT </h4>
 
-[Info on general programme, <br>
-digital installations <br>
-and youth track]<br>
+<p>[Info on general programme,<br>
+digital installations<br>
+and youth track]</p>
 
-Our youth track allows you to travel in many lanes, why not try making a speaker at our making station, or showing your own inventions at our tech fair or even taking part in a workshop and learning how to code your own game? We have all types of kits to get stuck in with so for the little techies you can use play dough and make your monster really roar and for the teenagers looking for more of a challenge, you can get to grips with our soldering projects. 
+<p>Our youth track allows you to travel in many lanes, why not try making a speaker at our making station, or showing your own inventions at our tech fair or even taking part in a workshop and learning how to code your own game? We have all types of kits to get stuck in with so for the little techies you can use play dough and make your monster really roar and for the teenagers looking for more of a challenge, you can get to grips with our soldering projects.</p>
 
-For more information about the festival download our [information pack](https://drive.google.com/open?id=0B3whBCs7yUf1S01oNl92S1RMVVU).
+<p>For more information about the festival download our <a>[information pack]</a>.</p>
+
+
+
+</div>
+
+</div>
 
 <div class="svgcontainer">
 <div class="pattern-4">
@@ -30,6 +38,4 @@ For more information about the festival download our [information pack](https://
 <div class="pattern-16">
 <img src="img/svg-patterns/pattern-16.svg" width="100%">
 </div>
-
 </div>
-

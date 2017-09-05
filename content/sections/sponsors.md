@@ -6,13 +6,17 @@ date: 2017-08-09T12:53:53+01:00
 weight: 6
 ---
 
-## SPONSORSHIP
+<div class="row">
+<div class="col-xs-12 col-md-9 mt-10">
+<h2> SPONSORSHIP</h2>
 
-We would love you to get involved if you are interested in inspiring young people to develop an interest in making things and problem-solving, or in helping create a space to address issues of access in tech industries for black peoples of all ages and abilities in the UK. Supporting our work is a great way to show your commitment to marginalised communities, and for you to access a wealth of talent.
+<p>We would love you to get involved if you are interested in inspiring young people to develop an interest in making things and problem-solving, or in helping create a space to address issues of access in tech industries for black peoples of all ages and abilities in the UK. Supporting our work is a great way to show your commitment to marginalised communities, and for you to access a wealth of talent.</p>
 
-For more information about sponsorship, download our [sponsorship pack](www.example.com).
-
-
-#### FESTIVAL SPONSORS
+<p>For more information about sponsorship, download our <a>[sponsorship pack]</a>.</p>
 
 
+<h4> FESTIVAL SPONSORS</h4>
+
+
+</div>
+</div>

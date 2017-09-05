@@ -301,8 +301,7 @@ div h2:first-child {
 .pattern-16 {
     display: inline-block;
     position: absolute;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 10%;
     left: 65%;
     width: 35%;
     min-width: 30%;
