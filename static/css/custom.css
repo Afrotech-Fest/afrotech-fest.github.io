@@ -39,7 +39,6 @@ a:hover, a:focus {
 #home {
     color: #fff;
     height:100vh;
-    height: 100%;
     min-height: 800px;
     /* padding-bottom:20em;   */
     /* background: -moz-linear-gradient(0% 50% 0deg, rgba(255, 81, 47, 1) 0%, rgba(221, 36, 118, 1) 100%);
@@ -68,6 +67,8 @@ a:hover, a:focus {
 
 #about, #who, #submit, #team, #venue, #sponsors {
     min-height: 700px;
+    height: 100%;
+    
 }
 
 .visuals-canvas {
