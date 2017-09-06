@@ -1,47 +1,30 @@
-        
- <footer>
+<footer>
 
-                <img src="../img/aft-text.svg" width="250px">
-
-                <!-- /.col-md-4 -->
-
-                {{ if isset .Site.Params "address" }}
-                <div class="col-md-8 col-sm-12">
-
-                    <h4>code of conduct</h4>
-
-                    {{ .Site.Params.address | markdownify }}
-
-                    <a href="/contact" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
-
-                    <hr class="hidden-md hidden-lg hidden-sm">
-
-                </div>
-                <!-- /.col-md-4 -->
-                {{ end }}
-
-                <!-- /.container -->
-            </footer>
-
-        <!-- /#footer -->
-
-        <!-- *** FOOTER END *** -->
-
-        <!-- *** COPYRIGHT ***
-_________________________________________________________ -->
-        <div id="copyright">
-            <div class="col-xs-12">
-                {{ if isset .Site.Params "copyright" }}
-                <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
-                {{ end }}
-                <p class="pull-right">
-                    <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
-                    <i class="fa fa-instagram fa-2x" aria-hidden="true"></i>
+    <img src="../img/aft-text.svg" width="250px">
 
 
-                </p>
-            </div>
+    <!-- /.container -->
+</footer>
 
-<!-- /#copyright -->
+<!-- /#footer -->
 
-<!-- *** COPYRIGHT END *** -->
+<!-- *** FOOTER END *** -->
+
+<!-- *** COPYRIGHT ***
+        _________________________________________________________ -->
+<div id="copyright">
+    <div class="col-xs-12">
+        {{ if isset .Site.Params "copyright" }}
+        <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+        {{ end }}
+        <p class="pull-right">
+            <a><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+            <a><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+            <a><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+
+        </p>
+    </div>
+
+    <!-- /#copyright -->
+
+    <!-- *** COPYRIGHT END *** -->

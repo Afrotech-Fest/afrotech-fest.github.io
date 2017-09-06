@@ -251,6 +251,9 @@ background-color: #fff;
 #footer,
 #copyright {
     background-color: #061A25;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    
 }
 
 .pl-50 {
@@ -562,7 +565,7 @@ button.read-more:focus {
 }
 
 #map {
-    height: 500px;
+    height: 600px;
 }
 
 
