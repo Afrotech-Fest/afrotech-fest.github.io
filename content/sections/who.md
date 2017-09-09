@@ -10,10 +10,10 @@ weight: 3
 
 <h2>WHO IS IT FOR?</h2>
 
-<p>AfroTech Fest is a place for black African and Caribbean people interested in technology. We take our motto “Join us and find your people,” to heart. Therefore we are actively engaged in connecting people like us, so that we can build a technological future that is for us. AfroTech fest is for black geeks, techies, weirdos and nerds, for anyone who has noticed that they are the only black face in the room, for anyone who has ever wondered “Why is my technology white?” and, crucially, for anyone who has ever felt too nervous to come and learn about this stuff. Feel familiar? Then AfroTech Fest is for you.</p>
+<p>Afrotech Fest is a place for black African and Caribbean people interested in technology. We take our motto “Join us and find your people,” to heart. We’re excited about the exceptional work that can come from black people coming together, particularly those who are non-conforming and are often excluded. As a result, we are actively engaged in connecting black people from all walks of life, so that we can build a technological future that is for us.</p>
 
 
-<p>[Content needs work, add something about newbies, all skill levels in all areas of design and development]</p>
+<p>We look forward to welcoming you, whatever your age, gender, class or ability. Whether you’ve never written a line of code or regularly contribute to a huge project, Afrotech Fest is for you. </p>
 
 
 <h3> Tickets information</h3>
