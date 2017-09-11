@@ -78,6 +78,7 @@ a:hover, a:focus {
 }
 
 .svg-container {
+    overflow: hidden;
     position: absolute;
     top: 0;
     left: 0;
