@@ -122,6 +122,10 @@ p.lead {
     color: #ffffff;
 }
 
+.alert-success {
+    color: #fff;
+    background-color: #F68D5D;
+}
  
 h4 {
     margin: 40px 0 0 0;
