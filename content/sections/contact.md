@@ -16,7 +16,7 @@ weight: 7
 
 <p><a href="coc">CODE OF CONDUCT</a></p>
 
-<p><a>[ACCESSIBILITY AND INCLUSION]</a></p>
+<p><a href="accessibility">ACCESSIBILITY AND INCLUSION</a></p>
 
 <p><a href="faqs">FAQs</a></p>
 

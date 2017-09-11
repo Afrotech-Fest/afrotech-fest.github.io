@@ -21,7 +21,7 @@ weight: 3
 accessible as possible. As such, all children will attend for free (up to the age of 18),
 and unwaged/low waged will be entitled to concession tickets.</p>
 
-<p>For more information on who this festival festival is for read our <a href="/faqs">FAQs</a>.</p>
+<p>For more information on who this festival festival is for read our <a href="faqs">FAQs</a>.</p>
 </div>
 </div>
 
