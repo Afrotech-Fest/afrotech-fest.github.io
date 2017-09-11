@@ -29,7 +29,7 @@ a:hover, a:focus {
 }
 
 .stack {
-    z-index: 1;
+    z-index: 2;
 }
 
 #home {
@@ -305,7 +305,6 @@ div h2:first-child {
     top: 200px;
     left: 100px;
     
-    
 }
 
 .pattern-6 {
@@ -331,7 +330,6 @@ div h2:first-child {
 .pattern-6-2 {
     display: inline-block;
     position: absolute;
-    padding-bottom: 10%;
     left:-30%;
     min-width: 35%;
     
@@ -340,7 +338,6 @@ div h2:first-child {
 .pattern-33 {
     display: inline-block;
     position: absolute;
-    padding-bottom: 10%;
     left:40%;
     min-width: 15%;
     top: 30%;
@@ -349,7 +346,6 @@ div h2:first-child {
 .pattern-36 {
     display: inline-block;
     position: absolute;
-    padding-bottom: 10%;
     left:70%;
     min-width: 15%;
     top: 70%;
@@ -396,6 +392,41 @@ div h2:first-child {
     top: 900px;
     left: 1000px;
 }
+
+
+
+.pattern-28 {
+    display: inline-block;
+    position: absolute;
+    right:0%;
+    min-width: 20%;
+}
+
+.pattern-14 {
+    display: inline-block;
+    position: absolute;
+    left: 60%;
+    top: 60%;
+    min-width: 20%;
+}
+
+.pattern-31 {
+    display: inline-block;
+    position: absolute;
+    left: 70%;
+    top: 90%;
+    min-width: 10%;
+}
+
+.pattern-33 {
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    min-width: 10%;
+}
+
+
 
 @-webkit-keyframes rotate {
     from {

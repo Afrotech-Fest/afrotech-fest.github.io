@@ -6,6 +6,16 @@ date: 2017-08-09T12:08:27+01:00
 weight: 4
 ---
 
+<div class="svgcontent">
+<div class="pattern-14">
+<img src="img/svg-patterns/pattern-1.5.svg" width="100%">
+</div>
+
+<div class="pattern-28">
+<img src="img/svg-patterns/pattern-28.svg" width="100%">
+</div>
+</div>
+
 <div class="row">
 <div class="col-xs-12 col-md-9 mt-10">
 
@@ -17,4 +27,6 @@ weight: 4
 
 <p>[Add some information on submission deadlines.]</p>
 </div>
+
 </div>
+

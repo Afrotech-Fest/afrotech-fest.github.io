@@ -6,39 +6,17 @@ date: 2017-08-09T12:08:33+01:00
 weight: 6
 ---
 
-<!-- <div class="svg-container">
-        <div class="visuals-canvas">
-                   <object class="patterns pattern-29" data="img/svg-patterns/pattern-29.svg" type="image/svg+xml">
-                <style>
-                    .pattern-29 {
-                            max-width: 30rem;
-                            top: -17px;
-                            right: -200px;
-                            z-index: -1;
-                        }
-                </style>
-                </object>
-            <object class="patterns pattern-31" data="img/svg-patterns/pattern-31.svg" type="image/svg+xml">
-                <style>
-                    .pattern-31 {
-                            max-width: 30rem;
-                            top: 130px;
-                            right: -500px;
-                            z-index: -1;
-                        }
-                </style>
-                </object>
-                <object class="patterns pattern-35" data="img/svg-patterns/pattern-35.svg" type="image/svg+xml">
-                <style>
-                    .pattern-35 {
-                            max-width: 40rem;
-                            top: 250px;
-                            right: -300px;
-                        }
-                </style>
-                </object>
-        </div>
-</div> -->
+<div class="svgcontent">
+<div class="pattern-31">
+<img src="img/svg-patterns/pattern-31.svg" width="100%">
+</div>
+
+<div class="pattern-33">
+<img src="img/svg-patterns/pattern-33.svg" width="100%">
+</div>
+
+
+</div>
 
 <div class="row">
 <div class="col-xs-12 col-md-9 mt-10">
