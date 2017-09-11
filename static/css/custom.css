@@ -126,6 +126,10 @@ p.lead {
     color: #fff;
     background-color: #F68D5D;
 }
+
+textarea.form-control{
+    height: 10.3em;
+}
  
 h4 {
     margin: 40px 0 0 0;
