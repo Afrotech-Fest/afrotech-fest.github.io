@@ -26,15 +26,15 @@ weight: 2
 <p>Our youth track allows young, black techies to travel in many lanes. It includes a tech fair, making stations, coding sessions and dozens of kits from our supporters Makey Makey and Micro:bit.</p>
 
 <h4>Digital installations</h4>
-<p>[Info on the digital installations]</p>
-
+<p>The installations will be a collection of physical prototypes, photography, film and sound that aims to promote the visibility of black people in tech.</p>
+<br>
 <p>For more information about the festival download our <a>[information pack]</a>.</p>
 
 </div>
 
 </div>
 
-<div class="svgcontainer">
+<div class="svgcontent">
 <div class="pattern-4">
 <img src="img/svg-patterns/pattern-1.4.svg" width="100%">
 </div>

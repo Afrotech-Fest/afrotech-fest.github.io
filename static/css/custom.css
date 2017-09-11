@@ -88,6 +88,13 @@ a:hover, a:focus {
     
 } 
 
+.svgcontent {
+    width: 100%;
+    padding-bottom: 5%;
+    vertical-align: top;
+    overflow: hidden;
+}
+
  .patterns {
     height:0;
     padding-top:63.63%; /* 350px/550px */
@@ -115,8 +122,9 @@ p.lead {
 }
 
  
-#sponsors h4 {
-    margin: 40px 0;
+h4 {
+    margin: 40px 0 0 0;
+    color: 
 }
 
 .box-image-text .image {
@@ -273,14 +281,6 @@ div h2:first-child {
 
 }
 
-
-
-.svgcontainer {
-    width: 100%;
-    padding-bottom: 5%;
-    vertical-align: top;
-    overflow: hidden;
-}
 
 .pattern-4 {
     display: block;

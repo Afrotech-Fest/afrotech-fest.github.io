@@ -17,16 +17,16 @@ weight: 3
 
 
 <h3> Tickets information</h3>
+<p>It is our aim to keep the festival as aordable and
+accessible as possible. As such, all children will attend for free (up to the age of 18),
+and unwaged/low waged will be entitled to concession tickets.</p>
 
-<br>
-<br>
-
-<p>[Content on affordability, diversity and priority tickets, kids go free, etc]</p>
+<p>For more information on who this festival festival is for read our <a>[FAQs]</a>.</p>
 </div>
 </div>
 
 
-<div class="svgcontainer">
+<div class="svgcontent">
 
 <div class="pattern-33">
 <img src="img/svg-patterns/pattern-33.svg" width="100%">
