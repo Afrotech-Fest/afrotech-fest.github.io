@@ -9,7 +9,7 @@ slug: "coc"
 
 All attendees, speakers, sponsors and volunteers at our festival are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
-Need Help?
+### Need Help?
 
 Contact the organisers at: info@afrotechfest.co.uk
 
