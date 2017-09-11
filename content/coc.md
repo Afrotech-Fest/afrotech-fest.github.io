@@ -1,7 +1,6 @@
 ---
 title: "Code of conduct"
-layout: coc
-type: coc
+layout: "coc"
 slug: "coc"
 ---
 
