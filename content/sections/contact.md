@@ -14,11 +14,11 @@ weight: 7
 
 <p>General enquiries can be sent to info@afrotechfest.co.uk</p>
 
-<p><a>[CODE OF CONDUCT]</a></p>
+<p><a href="coc">CODE OF CONDUCT</a></p>
 
 <p><a>[ACCESSIBILITY AND INCLUSION]</a></p>
 
-<p><a>[FAQs]</a></p>
+<p><a href="faqs">FAQs</a></p>
 
 </div>
 </div>
