@@ -15,7 +15,7 @@ weight: 6
 <p>For more information about sponsorship, download our <a>[sponsorship pack]</a>.</p>
 
 
-<h4> FESTIVAL SPONSORS</h4>
+<h3> FESTIVAL SPONSORS</h3>
 
 
 </div>

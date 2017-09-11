@@ -3,13 +3,10 @@
     color: #0f0 !important;
     outline: solid #f00 1px !important;
   }  */
-
-  
   
   body {
     font-size: 16px;
     background-color: white;    
-    
 }
 
 
@@ -17,16 +14,11 @@ p {
     font-size: 1.2em;
     color: #061A25;
     orphans: 3;
-    
 }
 
 h2 {
     font-weight: 300;
 }
-
-/* img.logo {
-    width: 15%;
-} */
 
 a {
     color: #F83C7A;
@@ -104,8 +96,6 @@ a:hover, a:focus {
     padding-top:63.63%; /* 350px/550px */
     position: relative;
  }
-
-
 
 .logo {
     display: inline-block;    
@@ -348,8 +338,6 @@ div h2:first-child {
     
 }
 
-
-
 .pattern-33 {
     display: inline-block;
     position: absolute;
@@ -387,8 +375,6 @@ div h2:first-child {
     top: 300px;
     left: 250px;
 }
-
-
 
 
 .pattern-42 {
@@ -491,7 +477,6 @@ button.read-more:focus {
 }
 
 #contact div a {
-    display: inline;
     color: #fff;
     float: left;
     margin-right: 20px;

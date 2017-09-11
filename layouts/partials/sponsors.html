@@ -20,4 +20,28 @@
         </div>
     </div>
 {{ end }}
+<h3> FESTIVAL SUPPORTERS</h3>
+
+{{ if gt (len .Site.Data.supporters) 0 }}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <ul class="sponsors customers">
+                {{ range .Site.Data.supporters }}
+                <li class="item" title="{{ .name }}">
+                    {{ if .url }}
+                    <a href="{{ .url }}" target="_blank">
+                        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                    </a>
+                    {{ else }}
+                    <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" /> {{ end }}
+                </li>
+                {{ end }}
+            </ul>
+            <!-- /.owl-carousel -->
+        </div>
+        
+    </div>
+</div>
+{{ end }}
 

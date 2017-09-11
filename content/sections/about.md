@@ -14,20 +14,21 @@ weight: 2
 <p>The festival is a response to the underrepresentation of black people in the technology industry – especially those who are marginalised in additional ways – as well technology conferences being too expensive for many to attend. We want to create a tech festival that is intentionally diverse and inclusive of those often excluded.</p>
 
 <br>
-<br>
 
 
-<h4> WHAT TO EXPECT </h4>
+<h3> WHAT TO EXPECT </h3>
 
-<p>[Info on general programme,<br>
-digital installations<br>
-and youth track]</p>
+<h4>General programme</h4>
+<p>Talks, workshops, hackathons, hubs. [Add info from festival structure doc] </p>
 
-<p>Our youth track allows you to travel in many lanes, why not try making a speaker at our making station, or showing your own inventions at our tech fair or even taking part in a workshop and learning how to code your own game? We have all types of kits to get stuck in with so for the little techies you can use play dough and make your monster really roar and for the teenagers looking for more of a challenge, you can get to grips with our soldering projects.</p>
+<h4>Youth programme</h4>
+
+<p>Our youth track allows young, black techies to travel in many lanes. It includes a tech fair, making stations, coding sessions and dozens of kits from our supporters Makey Makey and Micro:bit.</p>
+
+<h4>Digital installations</h4>
+<p>[Info on the digital installations]</p>
 
 <p>For more information about the festival download our <a>[information pack]</a>.</p>
-
-
 
 </div>
 
