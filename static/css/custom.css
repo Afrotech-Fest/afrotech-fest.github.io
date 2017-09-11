@@ -542,6 +542,7 @@ button.read-more:focus {
     -webkit-transition: all 0.2s ease-out;
     -moz-transition: all 0.2s ease-out;
     transition: all 0.2s ease-out;
+    margin: 50px 20px 0 0;
 }
 
 .sponsors .item img:hover {
