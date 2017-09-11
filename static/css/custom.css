@@ -321,7 +321,7 @@ div h2:first-child {
 .pattern-6-1 {
     position: absolute;
     max-width: 12%;
-    top: 630px;
+    top: 600px;
     right: 500px;
     opacity: 0.8;
     animation: pulse 3s infinite ease-in-out normal;    
