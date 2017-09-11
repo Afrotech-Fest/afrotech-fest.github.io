@@ -456,7 +456,7 @@ button.read-more {
 
 button.read-more:hover,
 button.read-more:focus {
-    animation: pulse 1s ease-in-out normal;
+    box-shadow: inset 0 0 0 1px #fff;
 }
 
 
