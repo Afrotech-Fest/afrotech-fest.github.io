@@ -19,7 +19,7 @@ weight: 2
 <h3> WHAT TO EXPECT </h3>
 
 <h4>General programme</h4>
-<p>Talks, workshops, hackathons, hubs. [Add info from festival structure doc] </p>
+<p>Talks, panel discussions, workshops, hackathons, hubs. [Add info from festival structure doc]</p>
 
 <h4>Youth programme</h4>
 
