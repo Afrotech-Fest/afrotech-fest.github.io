@@ -92,6 +92,8 @@ a:hover, a:focus {
     width: 100%;
     vertical-align: top;
     overflow: hidden;
+    margin: 0 auto;
+    
 }
 
  .patterns {
