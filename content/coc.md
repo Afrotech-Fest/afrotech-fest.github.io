@@ -1,8 +1,8 @@
 ---
 title: "Code of conduct"
-layout: "coc.html"
-type: "coc"
-menu: "main"
+layout: coc
+type: coc
+slug: "coc"
 ---
 
 
