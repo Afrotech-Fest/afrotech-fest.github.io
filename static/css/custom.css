@@ -67,15 +67,6 @@ a:hover, a:focus {
     
 }
 
-.visuals-canvas {
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    position: absolute;
-    width: 100%;    
-    
-}
 
 .svg-container {
     overflow: hidden;
@@ -106,6 +97,12 @@ a:hover, a:focus {
     display: inline-block;    
     margin-top: 1%;
     max-width: 50%;
+}
+
+.hidden-xs.hidden-sm.logo,
+.visible-xs.visible-sm.logo
+ {
+    padding-top: 5px;
 }
 
 .home-header h3 {
