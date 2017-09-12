@@ -1,31 +1,61 @@
-<footer>
-    
-        <img src="../img/aft-text.svg" width="250px">
-    
-    
-        <!-- /.container -->
-    </footer>
-    
-    <!-- /#footer -->
-    
-    <!-- *** FOOTER END *** -->
-    
-    <!-- *** COPYRIGHT ***
-            _________________________________________________________ -->
-    <div id="copyright">
-        <div class="col-xs-12">
-            {{ if isset .Site.Params "copyright" }}
-            <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
-            {{ end }}
-            <p class="pull-right">
-                <a><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
-                <a><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
-                <a><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
-    
-            </p>
-        </div>
+<div class="container-fluid">
+        
+<div class="row" id="footer">
+        <footer>
+            <div class="col-xs-12 col-md-10 col-md-offset-1">
+                <img src="../img/aft-text.svg" width="250px">
+                <div class="mt-10">
+                        <div class="row">    
+                        <div class="col-xs-12 col-md-3">
+                            <ul>
+                                <li><a href="">SPONSORSHIP PROSPECTUS</a></li>
+                                <li><a href="">INFORMATION PACK</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-xs-12 col-md-3">
+                            <ul>
+                                <li><a href="coc">CODE OF CONDUCT</a></li>
+
+                                <li><a href="accessibility">ACCESSIBILITY AND INCLUSION</a></li>
+
+                                <li><a href="faqs">FAQs</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-xs-12 col-md-3">
+                                <ul>
+                                        <li><a><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
+                                        <li><a><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
+                                        <li><a><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a></li>
+                                </ul>
+                        </div>
+
+                </div>
+            </div>
+            
+            </div>
+        </footer>
     </div>
     
+        <!-- /#footer -->
+
+        <!-- *** FOOTER END *** -->
+
+        <!-- *** COPYRIGHT ***
+            _________________________________________________________ -->
+            <div class="row">
+                            
+            <div id="copyright">
+                    <div class="col-xs-12 col-md-10 col-md-offset-1">
+                            
+                {{ if isset .Site.Params "copyright" }}
+                <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
+                {{ end }}
+            </div>
+        </div>
+    </div>
         <!-- /#copyright -->
-    
+
         <!-- *** COPYRIGHT END *** -->
+</div>

@@ -254,13 +254,9 @@ background-color: #fff;
     filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#FD746C', endColorstr='#FF9068', GradientType=1);
 }
 
-#footer,
-#copyright {
-    background-color: #061A25;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-    
-}
+
+
+
 
 .pl-50 {
     padding-left: 5%;
@@ -448,12 +444,35 @@ button.read-more:focus {
     margin-top: 20px;
 }
 
+
 #footer,
 #copyright {
-    padding-left: 5%;
-    padding-right: 5%;
+    background-color: #061A25 !important;   
 }
 
+#copyright {
+    padding: 50px 0;
+    font-size: 12px;
+}
+
+#footer li a{
+    color: #F83C7A;
+    padding-top: 20px;
+}
+
+#footer li {
+    margin-top: 20px;
+}
+
+li a i {
+    float: left;
+    margin-right: 30px !important;
+}
+
+#footer li a:hover, 
+#footer li a:focus {
+    color: #F68D5D;
+}
 
 .team-container {
     margin-top: 50px;
@@ -462,7 +481,6 @@ button.read-more:focus {
  .item.team img {
     width: 50%;
     margin: 0 auto !important;
-
 }
 
 .testimonials .item {
@@ -509,10 +527,6 @@ button.read-more:focus {
     -moz-transition: all 0.2s ease-out;
     transition: all 0.2s ease-out;
     margin: 50px 20px 0 0;
-}
-
-.sponsors .item img:hover {
- 
 }
 
 #map {
