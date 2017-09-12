@@ -99,8 +99,8 @@ a:hover, a:focus {
 }
 
 .navbar-brand.home {
-max-width: 80%;
-padding-left: 0;    
+padding-left: 0; 
+max-width: 70%;   
 
 }
 
@@ -150,7 +150,6 @@ h4 {
 .navbar ul.nav>li>a {
     text-transform: uppercase;
     text-decoration: none;
-    letter-spacing: 0.08em;
     color: #fff;
 }
 
