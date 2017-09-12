@@ -7,12 +7,8 @@ weight: 6
 ---
 
 <div class="svgcontent">
-<div class="pattern-31">
-<img src="img/svg-patterns/pattern-31.svg" width="100%">
-</div>
-
-<div class="pattern-33">
-<img src="img/svg-patterns/pattern-33.svg" width="100%">
+<div class="pattern-8">
+<img src="img/svg-patterns/pattern-8.svg" width="100%">
 </div>
 
 

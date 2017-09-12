@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309.51 75.69"><title>pattern-33</title><g id="Layer_2" data-name="Layer 2"><g id="Base"><circle cx="294.5" cy="15.01" r="15.01" style="fill:#e0ed3a"/><circle cx="15.01" cy="60.68" r="15.01" style="fill:#4ff0d6"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 141.59 62.13" preserveAspectRatio="xMinYMin meet">
+    <defs>
+        <linearGradient id="New_Gradient_Swatch_3" x1="-2.07" x2="139.52" y1="15.2" y2="45.28" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#dfec3a"/>
+            <stop offset="1" stop-color="#4ff0d6"/>
+        </linearGradient>
+    </defs>
+    <title>
+        pattern-7
+    </title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Base">
+            <path d="M10,1.35,22.69,25.64l.56,1.08L24.2,26,51.06,4.58,66.92,35l.56,1.08.95-.76L95.29,14l15.85,30.46.56,1.08.95-.76L134.08,27.7l6.11,7.67L108.5,60.59,92.65,30.14l-.56-1.08-.95.76L64.27,51.2,48.42,20.74l-.56-1.08-.95.76L20,41.8,1.35,5.88,10,1.35M10.47,0,0,5.45,19.72,43.34,47.53,21.2,63.94,52.73,91.76,30.6l16.41,31.53,33.42-26.6-7.35-9.24L112,44,95.62,12.44,67.8,34.58,51.39,3,23.58,25.18,10.47,0Z" style="fill:url(#New_Gradient_Swatch_3)"/>
+        </g>
+    </g>
+</svg>

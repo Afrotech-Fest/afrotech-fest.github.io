@@ -28,11 +28,11 @@ and unwaged/low waged will be entitled to concession tickets.</p>
 
 <div class="svgcontent">
 
-<div class="pattern-33">
-<img src="img/svg-patterns/pattern-33.svg" width="100%">
+<div class="pattern-4">
+<img src="img/svg-patterns/pattern-4.svg" width="100%">
 </div>
 
-<div class="pattern-36">
-<img src="img/svg-patterns/pattern-36.svg" width="100%">
+<div class="pattern-5">
+<img src="img/svg-patterns/pattern-5.svg" width="100%">
 </div>
 </div>

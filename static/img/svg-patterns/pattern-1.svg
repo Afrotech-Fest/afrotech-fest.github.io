@@ -1,21 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 253.13 604.65" preserveAspectRatio="xMinYMin meet">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 206.92 206.92">
     <defs>
-        <linearGradient id="New_Gradient_Swatch_3" x2="244.14" y1="302.33" y2="302.33" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#dfec3a"/>
-            <stop offset="1" stop-color="#4ff0d6"/>
-        </linearGradient>
-        <linearGradient id="New_Gradient_Swatch_4" x1="148.85" x2="253.13" y1="123.74" y2="123.74" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#fc746c"/>
-            <stop offset="1" stop-color="#ff8f68"/>
+        <linearGradient id="New_Gradient_Swatch" x2="206.92" y1="103.46" y2="103.46" gradientTransform="translate(249.77 103.46) rotate(135)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ff512f"/>
+            <stop offset="1" stop-color="#dd2476"/>
         </linearGradient>
     </defs>
     <title>
-        pattern-1
+        pattern-1.6
     </title>
     <g id="Layer_2" data-name="Layer 2">
-        <g id="Base">
-            <path d="M0,0C134.83,0,244.14,135.36,244.14,302.33S134.83,604.65,0,604.65" style="fill:url(#New_Gradient_Swatch_3)"/>
-            <circle cx="200.99" cy="123.74" r="52.14" style="fill:url(#New_Gradient_Swatch_4)"/>
+        <g id="Layer_1-2" data-name="Layer 1">
+            <circle cx="103.46" cy="103.46" r="103.46" style="fill:url(#New_Gradient_Swatch)"/>
         </g>
     </g>
 </svg>

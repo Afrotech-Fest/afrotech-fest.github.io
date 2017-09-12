@@ -35,15 +35,15 @@ weight: 2
 </div>
 
 <div class="svgcontent">
-<div class="pattern-4">
-<img src="img/svg-patterns/pattern-1.4.svg" width="100%">
+<div class="pattern-2">
+<img src="img/svg-patterns/pattern-2.svg" width="100%">
 </div>
 
-<div class="pattern-6-2">
-<img src="img/svg-patterns/pattern-1.6.svg" width="100%">
+<div class="pattern-1-2">
+<img src="img/svg-patterns/pattern-1.svg" width="100%">
 </div>
 
-<div class="pattern-16">
-<img src="img/svg-patterns/pattern-16.svg" width="100%">
+<div class="pattern-3">
+<img src="img/svg-patterns/pattern-3.svg" width="100%">
 </div>
 </div>

@@ -276,21 +276,31 @@ div h2:first-child {
 }
 
 .pattern-1 {
-    max-width: 15%;
-    top: 0;
-    left: 470px;
+    position: absolute;    
+    max-width: 20%;
+    top: 30px;
+    left: 400px;
+    opacity: 0.7;    
+    animation: pulse 2s infinite ease-in normal;    
 }
 
+.pattern-1-1 {
+    position: absolute;
+    max-width: 12%;
+    top: 600px;
+    right: 500px;
+    opacity: 0.8;
+    animation: pulse 3s infinite ease-in-out normal;    
+}
+
+.pattern-1-2 {
+    display: inline-block;
+    position: absolute;
+    left:-30%;
+    min-width: 35%;
+}
 
 .pattern-2 {
-    max-width: 25%;
-    top: 600px;
-    left: -10px;
-
-}
-
-
-.pattern-4 {
     display: block;
     position: absolute;
     top: 10%;
@@ -299,7 +309,7 @@ div h2:first-child {
     min-width: 15%;
 }
 
-.pattern-16 {
+.pattern-3 {
     display: inline-block;
     position: absolute;
     padding-bottom: 10%;
@@ -308,42 +318,7 @@ div h2:first-child {
     min-width: 30%;
 }
 
-.pattern-5 {
-    max-width: 30%;
-    top: 200px;
-    left: 100px;
-    
-}
-
-.pattern-6 {
-    position: absolute;    
-    max-width: 20%;
-    top: 30px;
-    left: 400px;
-    opacity: 0.7;    
-    animation: pulse 2s infinite ease-in normal;    
-    
-}
-
-.pattern-6-1 {
-    position: absolute;
-    max-width: 12%;
-    top: 600px;
-    right: 500px;
-    opacity: 0.8;
-    animation: pulse 3s infinite ease-in-out normal;    
-    
-}
-
-.pattern-6-2 {
-    display: inline-block;
-    position: absolute;
-    left:-30%;
-    min-width: 35%;
-    
-}
-
-.pattern-33 {
+.pattern-4 {
     display: inline-block;
     position: absolute;
     left:40%;
@@ -351,7 +326,7 @@ div h2:first-child {
     top: 30%;
 }
 
-.pattern-36 {
+.pattern-5 {
     display: inline-block;
     position: absolute;
     left:70%;
@@ -359,51 +334,7 @@ div h2:first-child {
     top: 70%;
 }
 
-.pattern-8 {
-    max-width: 2%;
-    top: 10px;
-    left: 200px;
-
-}
-
-.pattern-9 {
-    max-width: 5%;
-    top: 700px;
-    left: 700px;
-}
-
-.pattern-13 {
-    width: 60%;
-    max-width: 3rem;
-    top: 300px;
-    left: 250px;
-}
-
-
-.pattern-42 {
-    max-width: 13%;
-    top: 0;
-    left: 580px;
-    animation: pulse 2s infinite ease-in normal;    
-    
-}
-
-
-.pattern-44 {
-    max-width: 5%;
-    top: 400px;
-    left: 1000px;
-}
-
-.pattern-45 {
-    max-width: 5%;
-    top: 900px;
-    left: 1000px;
-}
-
-
-
-.pattern-28 {
+.pattern-6 {
     display: inline-block;
     position: absolute;
     top: 10%;
@@ -411,7 +342,7 @@ div h2:first-child {
     min-width: 20%;
 }
 
-.pattern-14 {
+.pattern-7 {
     display: inline-block;
     position: absolute;
     left: 60%;
@@ -419,19 +350,11 @@ div h2:first-child {
     min-width: 20%;
 }
 
-.pattern-31 {
+.pattern-8 {
     display: inline-block;
     position: absolute;
     left: 70%;
     top: 90%;
-    min-width: 10%;
-}
-
-.pattern-33 {
-    display: inline-block;
-    position: absolute;
-    left: 50%;
-    top: 20%;
     min-width: 10%;
 }
 
