@@ -93,16 +93,23 @@ a:hover, a:focus {
     position: relative;
  }
 
-.logo {
+.logo-2 {
     display: inline-block;    
-    margin-top: 1%;
+    margin-top: 5%;
     max-width: 50%;
+}
+
+.navbar-brand.home {
+max-width: 80%;
+padding-left: 0;    
+
 }
 
 .hidden-xs.hidden-sm.logo,
 .visible-xs.visible-sm.logo
  {
-    padding-top: 5px;
+    margin-top: 7px;
+    margin-left: 0;    
 }
 
 .home-header h3 {
