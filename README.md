@@ -26,3 +26,5 @@ netlify deploy <br>
 ```
 
 This is all you need to deploy a static site folder, but Netlify can do much more for you.
+
+Staging site can be viewed here: https://staging-atf.netlify.com/
