@@ -450,6 +450,10 @@ button.read-more:focus {
     background-color: #061A25 !important;   
 }
 
+#footer {
+    margin-top: 50px;
+}
+
 #copyright {
     padding: 50px 0;
     font-size: 12px;
