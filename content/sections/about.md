@@ -19,7 +19,7 @@ weight: 2
 <h3> WHAT TO EXPECT </h3>
 
 <h4>General programme</h4>
-<p>Talks, panel discussions, workshops, hackathons, hubs. [Add info from festival structure doc]</p>
+<p>The two-day programme will cover talks, panel discussions, workshops and hackathons. These events will cover a host of themes including digital activism and campaigning, community, disability and tech, privacy and security, self-care/mental health in tech, education and public health.</p>
 
 <h4>Youth programme</h4>
 
