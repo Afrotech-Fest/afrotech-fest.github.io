@@ -3,39 +3,41 @@
 
 {{ partial "head.html" . }}
 
-    <body>
+<body>
 
-        <div id="all">
+    <div id="all">
 
-            <header>
+        <header>
+            {{ partial "nav.html" . }}
+        </header>
 
-                {{ partial "nav.html" . }}
-
-            </header>
-            
-
-            <div class="container-fluid">
-                <div class="row" id="home">
-  
-                        {{ partial "home.html" . }}
-                </div>
-
+        <div class="container-fluid">
+            <div class="row" id="home">
+                {{ partial "home.html" . }}
             </div>
-
-            <div class="container-fluid">
-                    {{ range where .Site.Pages "Section" "=" "sections" }}
-                    <div class="row" id="{{ .Params.slug }}">
-                        <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
-                            {{ .Content }} {{ if isset .Params "id" }} {{ partial .Params.id . }}{{ end }}
-                        </div>
-                    </div>   {{ end }}      
         </div>
+
+        <div class="container-fluid">
+            {{ range where .Data.Pages "Section" "=" "sections" }}
+                <div class="row" id="{{ .Params.slug }}">
+                    <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
+                        {{ .Content }}
+                        
+                        {{ if isset .Params "id" }}
+                            {{ partial .Params.id . }}
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+
         {{ partial "footer.html" . }}
-        
+
     </div>
-        <!-- /#all -->
+    <!-- /#all -->
 
-        {{ partial "scripts.html" . }}
+    {{ partial "scripts.html" . }}
 
-    </body>
+</body>
+
 </html>
