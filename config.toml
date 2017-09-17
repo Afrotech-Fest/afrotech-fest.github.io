@@ -2,7 +2,7 @@ baseurl = "https://staging-atf.netlify.com/"
 languageCode = "en"
 title = "Afrotech Fest 2018"
 defaultContentLanguage = "en"
-description = "A two-day tech festival by and for black people of African and Caribbean heritage."
+Description = "A two-day tech festival by and for black people of African and Caribbean heritage."
 
 
 [menu]

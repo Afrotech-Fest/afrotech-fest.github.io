@@ -12,12 +12,8 @@
         <meta name="keywords" content="{{ delimit .Site.Params.DefaultKeywords ", " }}">	
         {{ end }}
       
-        {{ if .Description }}
-        <meta name="description" content="A two-day tech festival by and for black people of 
-        African and Caribbean heritage.">
-        {{ else if .Site.Params.DefaultDescription }}
-        <meta name="description" content="{{ .Site.Params.DefaultDescription }}">	
-        {{ end }}
+        <meta name="description" content="A two-day tech festival by and for black people of African and Caribbean heritage.">
+       
       
         {{ .Hugo.Generator }}
       
