@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ .Title }}</title>
         <meta name="author" content="{{ .Site.Author.name }}" />
+
       
         {{ if .Keywords }}
         <meta name="keywords" content="{{ delimit .Keywords ", " }}">
@@ -64,4 +65,10 @@
         <meta property="og:url" content="{{ .URL }}/" />
         <meta property="og:image" content="https://staging-atf.netlify.com/img/atf-ad.png" />
       
+        <!-- Twitter OpenGraph tags -->
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@afrotechfest" />
+        <meta name="twitter:title" content="Afrotech Fest 2018"/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:image" content="https://staging-atf.netlify.com/img/atf-ad.png"/>
       </head>
