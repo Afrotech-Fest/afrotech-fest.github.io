@@ -64,7 +64,6 @@ defaultContentLanguage = "en"
     defaultKeywords = ["tech", "tech fest", "afrotech fest", "diversity in tech", "black techies"]
 
 
-
 [params.topbar]
     enable = false
     text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
