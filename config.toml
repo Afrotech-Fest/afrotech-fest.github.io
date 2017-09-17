@@ -1,7 +1,8 @@
 baseurl = "https://staging-atf.netlify.com/"
 languageCode = "en"
-title = "Afrotech Fest"
+title = "Afrotech Fest 2018"
 defaultContentLanguage = "en"
+description = "A two-day tech festival by and for black people of African and Caribbean heritage."
 
 
 [menu]
@@ -62,7 +63,6 @@ defaultContentLanguage = "en"
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyBh9951Ix-8r1OwdKOnapP0gUfeslNXe7E"
     defaultKeywords = ["tech", "tech fest", "afrotech fest", "diversity in tech", "black techies"]
-    description = "A two-day tech festival by and for black people of African and Caribbean heritage."
 
 [params.topbar]
     enable = false
