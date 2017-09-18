@@ -25,4 +25,6 @@ Unless you receive explicit permission, do not take pictures or recordings of an
 ### Affordability
 It is our aim that no one is turned away for lack of funds. Diversity ticket sponsorship can be found at: https://diversitytickets.org/ or through our community partners. For more information on how to get support getting to the venue contact us at info@afrotechfest.co.uk
 
+Visit our venue's <a href="https://www.richmix.org.uk/plan-your-visit/accessibility">accessibility page</a> for more information. 
+
 If you have questions about any of this information, require additional accommodations, or need help, please contact us at info@afrotechfest.co.uk

@@ -19,7 +19,7 @@ weight: 5
 
 <h2> THE VENUE</h2>
 
-<p>Rich Mix is an independent arts venue in the heart of the East London. It was established in 2004 and has gone on to become one of the largest and most relevant arts venues in the capital. Rich Mix is spread over five floors, is fully accessible, contains three cinemas, flexible performance spaces and plenty of room for a big ideas festival like ours.</p>
+<p><a href="https://www.richmix.org.uk/">Rich Mix</a> is an independent arts venue in the heart of the East London. It was established in 2004 and has gone on to become one of the largest and most relevant arts venues in the capital. Rich Mix is spread over five floors, is fully accessible, contains three cinemas, flexible performance spaces and plenty of room for a big ideas festival like ours.</p>
 
 <br>
 <br>
