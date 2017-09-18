@@ -4,9 +4,11 @@
     outline: solid #f00 1px !important;
   }  */
   
+  
   body {
     font-size: 16px;
-    background-color: white;    
+    background-color: white;   
+    overflow-x: hidden !important;    
 }
 
 
@@ -50,8 +52,10 @@ a:hover, a:focus {
 #home {
     color: #061A25;
     height:100vh;
-    min-height: 800px;
-    background: url(../img/bg-wallpaper-2.svg) center center no-repeat fixed;
+    background: url(../img/bg-wallpaper-2.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
 }
 
@@ -387,6 +391,7 @@ background-color: #fff;
 .coc {
     margin-bottom: 50px;
 }
+
 
 #submit h4 {
     border: none;
