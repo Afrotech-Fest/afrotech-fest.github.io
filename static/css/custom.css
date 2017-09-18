@@ -296,8 +296,9 @@ background-color: #fff;
 .pattern-1-2 {
     display: inline-block;
     position: absolute;
-    left:-30%;
-    min-width: 35%;
+    top: 100%;
+    left: -10%;
+    min-width: 15%;
 }
 
 .pattern-2 {
@@ -365,13 +366,13 @@ background-color: #fff;
     left: 30%;
     min-width: 10%;
 }
-.comet {
+/* .comet {
     display: inline-block;
     position: absolute;
-    top: 10%;
-    left: -5%;
-    min-width: 10%;
-}
+    top: 80%;
+    left: 80%;
+    min-width: 15%;
+} */
 
 @-webkit-keyframes rotate {
     from {

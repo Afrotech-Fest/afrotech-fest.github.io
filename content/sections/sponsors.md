@@ -7,13 +7,13 @@ weight: 6
 ---
 
 
-<div class="svgcontent">
+<!-- <div class="svgcontent">
 
 <div class="comet">
 <img src="img/comet.svg" width="70%">
 </div>
 
-</div>
+</div> -->
 
 <div class="row">
 <div class="col-xs-12 col-md-9 mt-10">
