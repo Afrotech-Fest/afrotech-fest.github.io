@@ -3623,9 +3623,9 @@ fieldset[disabled] .btn-template-primary.active {
     background: -ms-linear-gradient(0deg, rgba(255, 81, 47, 1) 0%, rgba(221, 36, 118, 1) 100%);
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF512F', endColorstr='#DD2476' ,GradientType=0)";
     background: linear-gradient(90deg, rgba(255, 81, 47, 1) 0%, rgba(221, 36, 118, 1) 100%);
-    -webkit-box-shadow: 0px 2px 5px 0px rgba(77, 77, 77, 0.6);
-    -moz-box-shadow: 0px 2px 5px 0px rgba(77, 77, 77, 0.6);
-    box-shadow: 0px 2px 5px 0px rgba(77, 77, 77, 0.6);
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(77, 77, 77, 0.2);
+    -moz-box-shadow: 0px 2px 5px 0px rgba(77, 77, 77, 0.2);
+    box-shadow: 0px 2px 5px 0px rgba(77, 77, 77, 0.2);
     filter: progid: DXImageTransform.Microsoft.dropshadow(OffX=1.82, OffY=2.73, Color='#565556') progid: DXImageTransform.Microsoft.gradient(startColorstr='#FF512F', endColorstr='#DD2476', GradientType=1);
     border-color: #cccccc;
     border-bottom: none;

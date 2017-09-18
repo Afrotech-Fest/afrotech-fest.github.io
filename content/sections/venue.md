@@ -5,6 +5,15 @@ id: "venue"
 date: 2017-08-09T12:08:36+01:00
 weight: 5
 ---
+
+<div class="svgcontent">
+
+<div class="star-cluster">
+<img src="img/star-cluster-1.svg" width="100%">
+</div>
+
+</div>
+
 <div class="row">
 <div class="col-xs-12 col-md-9 mt-10">
 

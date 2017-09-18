@@ -331,7 +331,7 @@ div h2:first-child {
     position: absolute;
     top: 10%;
     right:0%;
-    min-width: 20%;
+    min-width: 15%;
 }
 
 .pattern-7 {
@@ -350,7 +350,20 @@ div h2:first-child {
     min-width: 10%;
 }
 
-
+.star-cluster {
+    display: inline-block;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    min-width: 10%;
+}
+.comet {
+    display: inline-block;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    min-width: 10%;
+}
 
 @-webkit-keyframes rotate {
     from {

@@ -6,6 +6,15 @@ date: 2017-08-09T12:53:53+01:00
 weight: 6
 ---
 
+
+<div class="svgcontent">
+
+<div class="comet">
+<img src="img/comet.svg" width="70%">
+</div>
+
+</div>
+
 <div class="row">
 <div class="col-xs-12 col-md-9 mt-10">
 <h2> SPONSORSHIP</h2>

@@ -15,6 +15,10 @@ weight: 4
 <img src="img/svg-patterns/pattern-7.svg" width="100%">
 </div>
 
+<div class="star-cluster">
+<img src="img/star-cluster-1.svg" width="100%">
+</div>
+
 </div>
 
 <div class="row">
