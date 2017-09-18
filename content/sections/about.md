@@ -13,9 +13,6 @@ weight: 2
 
 <p>The festival is a response to the underrepresentation of black people in the technology industry – especially those who are marginalised in additional ways – as well technology conferences being too expensive for many to attend. We want to create a tech festival that is intentionally diverse and inclusive of those often excluded.</p>
 
-<br>
-
-
 <h3> WHAT TO EXPECT </h3>
 
 <h4>General programme</h4>

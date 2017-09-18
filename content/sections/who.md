@@ -16,7 +16,7 @@ weight: 3
 <p>We look forward to welcoming you, whatever your age, gender, class or ability. Whether you’ve never written a line of code or regularly contribute to a huge project, Afrotech Fest is for you. </p>
 
 
-<h3> Tickets information</h3>
+<h3> TICKET INFORMATION</h3>
 <p>It is our aim to keep the festival as aordable and
 accessible as possible. As such, all children will attend for free (up to the age of 18),
 and unwaged/low waged will be entitled to concession tickets.</p>
