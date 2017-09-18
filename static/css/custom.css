@@ -52,6 +52,7 @@ a:hover, a:focus {
 #home {
     color: #061A25;
     height:100vh;
+    min-height: 800px;
     background: url(../img/bg-wallpaper-2.png) no-repeat 50% 50% fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
