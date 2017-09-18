@@ -222,8 +222,30 @@ background-color: #fff;
 
 #venue {
   
-    background-color: #4FF0D6;
+    background: #4FF0D6;
 }
+.richmix {
+    background: linear-gradient(90deg, rgba(12, 234, 234, 1) 0%, rgba(32, 226, 177, 1) 50%, rgba(41, 255, 197, 1) 100%),url(../img/richmix.jpg) center/cover no-repeat;
+    background-blend-mode: multiply;
+    margin: 0px;
+}
+
+
+.no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  
+
 
 #contact {
     background: -moz-linear-gradient(0% 50% 0deg, rgba(253, 116, 108, 1) 0%, rgba(255, 144, 104, 1) 100%);
@@ -507,7 +529,8 @@ li a i {
 }
 
 #map {
-    height: 600px;
+    height: 700px;
+    max-height: 700px;
 }
 
 
