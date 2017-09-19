@@ -8,7 +8,16 @@ if ($.cookie('themeLayout')) {
   $('body').addClass($.cookie('themeLayout'))
 }
 
+var options = {
+  tabletBreakpoint: 480
+}
+
+var state = {
+  isMobile: null
+}
+
 $(function () {
+  detectViewport()
   sliderHomepage()
   sliders()
   fullScreenContainer()
@@ -21,6 +30,11 @@ $(function () {
   demo()
   contactForm()
 })
+
+function detectViewport() {
+  return state.isMobile = window.innerWidth < options.tabletBreakpoint
+}
+
 
 // Ajax contact
 function contactForm () {
@@ -100,12 +114,18 @@ function sliders () {
       itemsMobile: [480, 1]
     })
 
-    $('.testimonials').owlCarousel({
-      items: 4,
-      itemsDesktopSmall: [990, 3],
-      itemsTablet: [768, 2],
-      itemsMobile: [480, 1]
-    })
+    if (state.isMobile) {
+      $('.testimonials').owlCarousel({
+        items: 4,
+        itemsDesktopSmall: [990, 3],
+        itemsTablet: [768, 2],
+        itemsMobile: [480, 1]
+      })
+    } else {
+      $('.testimonials')
+        .trigger('destroy.owl.carousel')
+        .removeClass('owl-carousel')
+    }
 
     $('.project').owlCarousel({
       navigation: true, // Show next and prev buttons

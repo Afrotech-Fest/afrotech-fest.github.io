@@ -513,9 +513,31 @@ li a i {
     margin: 0 auto !important;
 }
 
-.testimonials .item {
-    padding: 10px;
+.testimonials {
+    display: flex;
+    flex-wrap: wrap;
 }
+
+.testimonials .item {
+    width: 100%;
+    padding: 10px;
+    background: none;
+    margin: 0;
+    text-align: center;
+}
+
+@media(min-width: 480px) {
+    .testimonials .item {
+        width: 50%;
+    }
+}
+
+@media(min-width: 768px) {
+    .testimonials .item {
+        width: 33%;
+    }
+}
+
 .team-caption {
     font-size: 1em;
 }
@@ -523,8 +545,9 @@ li a i {
 .owl-item {
     text-align: center;
 }
-.testimonials .item {
-    background: none;
+
+.owl-item > .item {
+    width: 100%;
 }
 
 .testimonials .item img {
