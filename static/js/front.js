@@ -22,6 +22,20 @@ $(function () {
   contactForm()
 })
 
+var options = {
+  desktopBreakpoint: 768
+}
+
+var state = {
+  isMobile: false
+}
+
+function detectViewport() {
+  return state.isMobile = window.innerWidth < options.desktopBreakpoint
+}
+
+window.addEventListener('resize', detectViewport)
+
 // Ajax contact
 function contactForm () {
   var form = $('.contact-form')
@@ -100,12 +114,16 @@ function sliders () {
       itemsMobile: [480, 1]
     })
 
-    $('.testimonials').owlCarousel({
-      items: 4,
-      itemsDesktopSmall: [990, 3],
-      itemsTablet: [768, 2],
-      itemsMobile: [480, 1]
-    })
+    if (state.isMobile) {
+      $('.testimonials').owlCarousel({
+        items: 4,
+        itemsDesktopSmall: [990, 3],
+        itemsTablet: [768, 2],
+        itemsMobile: [480, 1]
+      })
+    } else {
+      $('.testimonials').trigger('destroy.owl.carousel')
+    }
 
     $('.project').owlCarousel({
       navigation: true, // Show next and prev buttons
