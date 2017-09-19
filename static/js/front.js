@@ -8,7 +8,16 @@ if ($.cookie('themeLayout')) {
   $('body').addClass($.cookie('themeLayout'))
 }
 
+var options = {
+  tabletBreakpoint: 480
+}
+
+var state = {
+  isMobile: null
+}
+
 $(function () {
+  detectViewport()
   sliderHomepage()
   sliders()
   fullScreenContainer()
@@ -22,19 +31,10 @@ $(function () {
   contactForm()
 })
 
-var options = {
-  desktopBreakpoint: 768
-}
-
-var state = {
-  isMobile: false
-}
-
 function detectViewport() {
-  return state.isMobile = window.innerWidth < options.desktopBreakpoint
+  return state.isMobile = window.innerWidth < options.tabletBreakpoint
 }
 
-window.addEventListener('resize', detectViewport)
 
 // Ajax contact
 function contactForm () {
@@ -122,7 +122,9 @@ function sliders () {
         itemsMobile: [480, 1]
       })
     } else {
-      $('.testimonials').trigger('destroy.owl.carousel')
+      $('.testimonials')
+        .trigger('destroy.owl.carousel')
+        .removeClass('owl-carousel')
     }
 
     $('.project').owlCarousel({
