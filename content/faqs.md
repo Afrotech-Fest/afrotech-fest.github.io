@@ -19,6 +19,6 @@ We welcome tiny people with big ideas, our youth track will have a soft play are
 Yes, please see our <a href="">Accessibility and Inclusion</a> page. 
 
 
-
-
+<br>
+<b><p>More faqs will be added once we recieve more questions.</p></b>
 
