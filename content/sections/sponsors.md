@@ -25,7 +25,7 @@ weight: 6
 
 <b><p class="mt-20">Afrotech Fest wouldn’t be possible with the sponsorship and support of these organisations and companies:</p></b>
 <h4> VENUE SPONSOR</h4>
-[RICH MIX LOGO]
+<a href="https://www.richmix.org.uk/"><img src="../img/richmix-logo.png" width="170px" alt ="rich mix logo"class="richmix-logo"></a>
 <h4> FESTIVAL SPONSORS</h4>
 
 
