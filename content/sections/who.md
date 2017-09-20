@@ -10,16 +10,14 @@ weight: 3
 
 <h2>WHO IS IT FOR?</h2>
 
-<p>Afrotech Fest is a place for black African and Caribbean people interested in technology. We take our motto “Join us and find your people,” to heart. We’re excited about the exceptional work that can come from black people coming together, particularly those who are non-conforming and are often excluded. As a result, we are actively engaged in connecting black people from all walks of life, so that we can build a technological future that is for us.</p>
+<p>We’re excited about the exceptional work that can come from black people coming together, particularly those who are non-conforming and are often excluded. As a result, we are actively engaged in connecting black people from all walks of life, so that we can build a technological future that is for us.</p>
 
 
 <p>We look forward to welcoming you, whatever your age, gender, class or ability. Whether you’ve never written a line of code or regularly contribute to a huge project, Afrotech Fest is for you. </p>
 
 
 <h3> TICKET INFORMATION</h3>
-<p>It is our aim to keep the festival as aordable and
-accessible as possible. As such, all children will attend for free (up to the age of 18),
-and unwaged/low waged will be entitled to concession tickets.</p>
+<p>It is our aim to keep the festival as affordable and accessible as possible. As such, all children will attend for free (up to the age of 18), and unwaged/low waged will be entitled to concession tickets.</p>
 
 <p>For more information on who this festival festival is for read our <a href="faqs">FAQs</a>.</p>
 </div>

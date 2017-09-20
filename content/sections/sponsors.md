@@ -23,8 +23,10 @@ weight: 6
 
 <p>For more information about sponsorship, download our <a href="https://drive.google.com/file/d/0B3whBCs7yUf1Z2xxOFR2UGROYVU/view?usp=sharing">sponsorship pack</a>.</p>
 
-
-<h3> FESTIVAL SPONSORS</h3>
+<b><p class="mt-20">Afrotech Fest wouldn’t be possible with the sponsorship and support of these organisations and companies:</p></b>
+<h4> VENUE SPONSOR</h4>
+[RICH MIX LOGO]
+<h4> FESTIVAL SPONSORS</h4>
 
 
 </div>

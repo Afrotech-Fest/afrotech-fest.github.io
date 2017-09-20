@@ -1,5 +1,5 @@
 {
     "name": "micro:bit",
-    "image": "img/microbit-logo.png",
+    "image": "img/microbit-logo.svg",
     "url": "http://microbit.org/"
 }
