@@ -12,7 +12,7 @@
 }
 
 
-p {
+p, li {
     font-size: 1.2em;
     color: #061A25;
     orphans: 3;
