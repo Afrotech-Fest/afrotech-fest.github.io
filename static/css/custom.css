@@ -324,13 +324,13 @@ background-color: #fff;
     min-width: 15%;
 }
 
-.pattern-3 {
+.pattern-3 img {
     display: inline-block;
     position: absolute;
     padding-bottom: 10%;
     left: 65%;
     width: 35%;
-    min-width: 30%;
+    margin-bottom: 5%;
 }
 
 .pattern-4 {
@@ -365,13 +365,15 @@ background-color: #fff;
     min-width: 20%;
 }
 
-.pattern-8 {
+.pattern-8 img{
     display: inline-block;
     position: absolute;
     left: 70%;
-    top: 90%;
-    min-width: 10%;
+    bottom: 2%;
+    width: 30%;
+    min-width: 15%;
 }
+
 
 .star-cluster {
     display: inline-block;
