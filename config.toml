@@ -3,6 +3,7 @@ languageCode = "en"
 title = "Afrotech Fest 2018"
 defaultContentLanguage = "en"
 Description = "A two-day tech festival by and for black people of African and Caribbean heritage."
+googleAnalytics = "UA-106843029-1"
 
 
 [menu]
