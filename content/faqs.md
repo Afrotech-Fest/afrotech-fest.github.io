@@ -7,7 +7,7 @@ slug: "faqs"
 ## FAQs
 
 #### I’m not black, can I speak/host a workshop at the festival?
-While we welcome all people of all races to attend, we will only be showcasing the skills and talents of black people of African and Caribbean heritage at the event.
+While we welcome  people of all races, ethnicities and cultural backgrounds to attend, we will only be showcasing the skills and talents of black people of African and Caribbean heritage at the event.
 
 #### I’d like to attend but not sure I can afford the ticket price.
 We'll be working with the Travis Foundation to offer several free tickets through their diversitytickets.org program. We'll also be offering concessionary tickets to those unable to afford the full cost of tickets. 
