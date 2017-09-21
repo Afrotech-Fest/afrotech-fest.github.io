@@ -4,15 +4,7 @@
     outline: solid #f00 1px !important;
   }  */
   
-  .no-js {
-    visibility: hidden;
-    opacity: 0;
-   }
-   .js {
-    visibility: visible;
-    opacity: 1;
-   }
-    
+
   body {
     font-size: 16px;
     background-color: white;   
