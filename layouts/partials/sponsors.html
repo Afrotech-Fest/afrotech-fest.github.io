@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 <ul class="sponsors customers">
                     {{ range .Site.Data.sponsors }}
-                    <li class="item" title="{{ .name }}">
+                    <li class="item sponsors-item" title="{{ .name }}">
                         {{ if .url }}
                         <a href="{{ .url }}" target="_blank">
                             <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
@@ -29,7 +29,7 @@
             <div class="col-md-12">
                 <ul class="sponsors customers">
                     {{ range .Site.Data.supporters }}
-                    <li class="item" title="{{ .name }}">
+                    <li class="item sponsors-item" title="{{ .name }}">
                         {{ if .url }}
                         <a href="{{ .url }}" target="_blank">
                             <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />

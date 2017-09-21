@@ -586,6 +586,11 @@ button.read-more:focus {
     margin: 50px 20px 0 0;
 }
 
+.sponsors-item {
+    display: inline-block;
+    max-width: 200px;
+}
+
  .sponsors li img {
     width: 100%;
 }
