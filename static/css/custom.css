@@ -490,21 +490,28 @@ button.read-more:focus {
 
 #footer li a{
     color: #F83C7A;
-    padding-top: 20px;
 }
 
-#footer li {
+.footer-links {
     margin-top: 20px;
-}
-
-li a i {
-    float: left;
-    margin-right: 30px !important;
 }
 
 #footer li a:hover, 
 #footer li a:focus {
     color: #F68D5D;
+}
+
+.social-item-list {
+    margin-top: 20px;
+}
+
+.social-item {
+    display: inline-block;
+    margin: 0 .5em;
+}
+
+.social-item-link {
+    display: block;
 }
 
 .team-container {
