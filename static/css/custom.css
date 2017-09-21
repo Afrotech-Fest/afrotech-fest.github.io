@@ -470,14 +470,6 @@ button.read-more:focus {
     font-size: 14px
 }
 
-#contact div a {
-    color: #fff;
-    float: left;
-    margin-right: 20px;
-    margin-top: 20px;
-}
-
-
 #footer,
 #copyright {
     background-color: #061A25 !important;   

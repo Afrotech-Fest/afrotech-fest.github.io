@@ -27,4 +27,6 @@ It is our aim that no one is turned away for lack of funds. Diversity ticket spo
 
 Visit our venue's <a href="https://www.richmix.org.uk/plan-your-visit/accessibility">accessibility page</a> for more information. 
 
-If you have questions about any of this information, require additional accommodations, or need help, please contact us at info@afrotechfest.co.uk
+<br>
+
+<b>If you have questions about any of this information, require additional accommodations, or need help, please contact us at info@afrotechfest.co.uk</b>
