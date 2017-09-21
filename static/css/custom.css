@@ -245,7 +245,7 @@ background-color: #fff;
     background: #4FF0D6;
 }
 .richmix {
-    background: linear-gradient(90deg, rgba(12, 234, 234, 1) 0%, rgba(32, 226, 177, 1) 50%, rgba(41, 255, 197, 1) 100%),url(../img/richmix.jpg) center/cover no-repeat;
+    background: url(../img/richmix.jpg) center/cover no-repeat, linear-gradient(90deg, rgba(12, 234, 234, 1) 0%, rgba(32, 226, 177, 1) 50%, rgba(41, 255, 197, 1) 100%);
     background-blend-mode: multiply;
     margin: 0px;
 }
