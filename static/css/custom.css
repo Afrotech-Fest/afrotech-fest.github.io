@@ -579,16 +579,48 @@ button.read-more:focus {
     margin: 20px 0;
 }
 
+.sponsors {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+@media(min-width: 480px) {
+    .sponsors {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
+
+.sponsors-title,
+.sponsors-item--venue {
+    text-align: center;
+}
+
+.sponsors-item {
+    width: 50%;
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+@media(min-width: 768px) {
+    .sponsors-item {
+        width: 25%;
+        margin: 0 20px;
+    }
+}
+
+.sponsors-item--venue {
+    text-align: center;
+    display: block;
+}
+
 .sponsors .item img {
     -webkit-transition: all 0.2s ease-out;
     -moz-transition: all 0.2s ease-out;
     transition: all 0.2s ease-out;
     margin: 50px 20px 0 0;
-}
-
-.sponsors-item {
-    display: inline-block;
-    max-width: 200px;
 }
 
  .sponsors li img {
