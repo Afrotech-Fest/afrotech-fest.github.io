@@ -51,9 +51,9 @@ weight: 4
 <li>Workshops and talks will be considered separately. So you can submit a proposal for either or both.</li>
 </ul>
 
-<p class="mt-20"><span style="background-color: #F68D5D">If you'd like to submit a talk, fill out our <b><a href="https://goo.gl/forms/WXEEJhwJnfK9bdr62">talk proposal form</a></b>.</span></p>
+<p class="mt-20"><span style="background-color: #F68D5D">&ensp;If you'd like to submit a talk, fill out our <b><a href="https://goo.gl/forms/WXEEJhwJnfK9bdr62">talk proposal form</a></b>.&ensp;</span></p>
 
-<p class="mt-20"><span style="background-color: #F68D5D">If you'd like to submit a workshop, fill out our <b><a href="https://goo.gl/forms/20LuFgEdid9J3wAH2">workshop proposal form</a></b>.</span></p>
+<p class="mt-20"><span style="background-color: #F68D5D">&ensp;If you'd like to submit a workshop, fill out our <b><a href="https://goo.gl/forms/20LuFgEdid9J3wAH2">workshop proposal form</a></b>.&ensp;</span></p>
 
 <p class="mt-50">Deadline for submissions is <b>Thursday, 30th of November, 2017</b>.</p>
 
