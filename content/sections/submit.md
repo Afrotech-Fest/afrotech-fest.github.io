@@ -40,6 +40,7 @@ weight: 4
 <li>Self-care/mental health in tech</li>
 <li>Education</li>
 <li>Public health</li>
+<li>Open source</li>
 <li>AI and machine learning</li>
 
 </ul>
