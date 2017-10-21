@@ -42,7 +42,6 @@ weight: 4
 <li>Public health</li>
 <li>Open source</li>
 <li>AI and machine learning</li>
-
 </ul>
 
 <p>We plan on using the following to select proposals:</p>
