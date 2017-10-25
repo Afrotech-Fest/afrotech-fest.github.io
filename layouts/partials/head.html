@@ -25,21 +25,22 @@
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
       
-        <!-- Css animations  -->
-        <link href="{{ .Site.BaseURL }}css/animate.css" rel="stylesheet">
+        <!-- Css animations 
+        <link href="{{ .Site.BaseURL }}css/animate.css" rel="stylesheet"> -->
       
         <!-- Theme stylesheet, if possible do not edit this stylesheet -->
-        {{ if and (isset .Site.Params "style") .Site.Params.style }}
+        <!-- {{ if and (isset .Site.Params "style") .Site.Params.style }}
           <link href="{{ .Site.BaseURL }}css/style.{{ .Site.Params.style }}.css" rel="stylesheet" id="theme-stylesheet">
         {{ else }}
           <link href="{{ .Site.BaseURL }}css/style.default.css" rel="stylesheet" id="theme-stylesheet">
-        {{ end }}
+        {{ end }} -->
       
         <!-- Mailchimp stylesheet -->
         <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
       
-        <!-- Custom stylesheet - for your changes -->
-        <link href="{{ .Site.BaseURL }}css/custom.css" rel="stylesheet">
+        <!-- Custom stylesheet - for your changes
+        <link href="{{ .Site.BaseURL }}css/custom.css" rel="stylesheet"> -->
+        <link href="{{ .Site.BaseURL }}css/main.css" rel="stylesheet">
       
         <!-- Responsivity for older IE -->
         {{ `
@@ -55,8 +56,8 @@
         
         <!-- owl carousel css -->
       
-        <link href="{{ .Site.BaseURL }}css/owl.carousel.css" rel="stylesheet">
-        <link href="{{ .Site.BaseURL }}css/owl.theme.css" rel="stylesheet">
+        <!-- <link href="{{ .Site.BaseURL }}css/owl.carousel.css" rel="stylesheet">
+        <link href="{{ .Site.BaseURL }}css/owl.theme.css" rel="stylesheet"> -->
       
         <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
       
