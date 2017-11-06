@@ -2,7 +2,7 @@
 title: "Contact"
 slug: "contact"
 date: 2017-08-09T12:58:24+01:00
-weight: 7
+weight: 9
 ---
 
 <div class="row">
