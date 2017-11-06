@@ -1,0 +1,16 @@
+{{ if gt (len .Site.Data.speakers) 0 }}
+<div class="speakers-container">
+    <ul class="speakers__list">
+        {{ range .Site.Data.speakers }}
+        <li class="speakers__item" title="{{ .name }}">
+            <img src="{{ .image }}" alt="{{ .name }}" class="speakers__img" />
+            <h3>{{ .name }}</h3>
+            <p class="team-caption">
+                {{ .short_description}}
+            </p>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
+
