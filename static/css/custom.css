@@ -207,6 +207,28 @@ textarea.form-control{
     text-align: center;
 }
 
+#speakers {
+    background-color: #e6e6e6;
+}
+
+.speakers-container {
+    margin-top: 2em;
+}
+
+.speakers__list {
+    display: flex;
+    padding: 0;
+}
+
+.speakers__item {
+    text-align: center;
+    list-style-type: none;
+    margin: 0 1em;
+}
+
+.speakers__img {
+    width: 50%;
+}
 
 #who,
 #who h1 {
