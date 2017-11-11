@@ -217,17 +217,48 @@ textarea.form-control{
 
 .speakers__list {
     display: flex;
+    flex-wrap: wrap;
+
     padding: 0;
+    margin-bottom: 3em;
 }
 
 .speakers__item {
     text-align: center;
+    width: 100%;
+    padding: 10px 20px;
     list-style-type: none;
-    margin: 0 1em;
+}
+
+@media(min-width: 480px) {
+    .speakers__item {
+        width: 50%;
+    }
+}
+
+@media(min-width: 768px) {
+    .speakers__item {
+        width: 33%;
+    }
 }
 
 .speakers__img {
     width: 50%;
+}
+
+.btn--cta {
+    padding: 1em;
+    background: linear-gradient(90deg, rgba(255, 81, 47, 1) 0%, rgba(221, 36, 118, 1) 100%);
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+}
+
+.speakers__btn {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
 }
 
 #who,

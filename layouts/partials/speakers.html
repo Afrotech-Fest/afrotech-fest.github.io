@@ -1,16 +1,25 @@
+{{ $speakers := getJSON "data/speakers/speakers.json" }}
+
 {{ if gt (len .Site.Data.speakers) 0 }}
 <div class="speakers-container">
     <ul class="speakers__list">
-        {{ range .Site.Data.speakers }}
-        <li class="speakers__item" title="{{ .name }}">
-            <img src="{{ .image }}" alt="{{ .name }}" class="speakers__img" />
-            <h3>{{ .name }}</h3>
-            <p class="team-caption">
-                {{ .short_description}}
-            </p>
-        </li>
+
+        {{ range where $speakers "featured" "=" "true"}}
+            <li class="speakers__item" title="{{ .name }}">
+                <img src="{{ .image }}" alt="{{ .name }}" class="speakers__img" />
+                <h3>{{ .name }}</h3>
+                <p class="team-caption">
+                    {{ .short_description }}
+                </p>
+            </li>
         {{ end }}
+
     </ul>
+    <div class="speakers__btn">
+        <a class="btn--cta" href="http://google.com">
+            View all our speakers
+        </a>
+    </div>
 </div>
 {{ end }}
 
