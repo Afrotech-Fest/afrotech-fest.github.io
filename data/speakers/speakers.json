@@ -1,0 +1,30 @@
+[
+    {
+        "featured": "true",
+        "name": "Test speaker",
+        "image": "img/flo.svg",
+        "url": "https://twitter.com/FINOkoye",
+        "short_description": "Florence Okoye is a UX and Service Designer."
+    },
+    {
+        "featured": "true",
+        "name": "Test speaker",
+        "image": "img/flo.svg",
+        "url": "https://twitter.com/FINOkoye",
+        "short_description": "Florence Okoye is a UX and Service Designer."
+    },
+    {
+        "featured": "true",
+        "name": "Test speaker",
+        "image": "img/flo.svg",
+        "url": "https://twitter.com/FINOkoye",
+        "short_description": "Florence Okoye is a UX and Service Designer."
+    },
+    {
+        "featured": "false",
+        "name": "Test speaker",
+        "image": "img/flo.svg",
+        "url": "https://twitter.com/FINOkoye",
+        "short_description": "Florence Okoye is a UX and Service Designer."
+    }
+]
