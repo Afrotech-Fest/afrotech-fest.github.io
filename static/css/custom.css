@@ -75,10 +75,13 @@ color: inherit;}
     to   { opacity: 1; }
 }
 
+.page-info {
+    text-align: center;
+}
+
 #about, #who, #submit, #team, #venue, #sponsors {
     min-height: 700px;
     height: 100%;
-    
 }
 
 
