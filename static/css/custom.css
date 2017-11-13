@@ -264,6 +264,42 @@ textarea.form-control{
     text-align: center;
 }
 
+.speakers__long {
+    display: none;
+}
+
+.speakers__more {
+    background: transparent;
+    border: none;
+}
+
+.speakers__more:hover > h3,
+.speakers__more:focus > h3 {
+    color: red;
+}
+
+.speakers__modal {
+    position: absolute;
+    width: 50vw;
+    height: 50vh;
+    outline: 1px solid red;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    z-index: 1;
+}
+
+.speakers__modal:before {
+    content: "";
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(12, 234, 234, .8)
+}
+
+.display__none {
+    display: none;
+}
+
 #who,
 #who h1 {
     background-color: #FBF7EE;
