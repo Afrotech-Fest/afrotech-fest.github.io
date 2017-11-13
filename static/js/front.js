@@ -13,7 +13,8 @@ var options = {
 }
 
 var state = {
-  isMobile: null
+  isMobile: false,
+  modalIsOpen: false
 }
 
 $(function () {
@@ -30,6 +31,37 @@ $(function () {
   demo()
   contactForm()
 })
+
+const speakerButtons = document.querySelectorAll('[data-speaker-button]')
+console.log(speakerButtons)
+
+speakerButtons.forEach(function(button){
+
+  const bio = button.querySelector('[data-bio]').innerHTML
+  const imgUrl = button.querySelector('[data-speaker-img]').src
+
+  button.addEventListener('click', function() {
+    openModal(bio, imgUrl)
+  })
+
+})
+
+function openModal (data, url) {
+
+  state.modalIsOpen = true
+
+  const modal = document.querySelector('[data-speaker-modal]')
+
+  var reg = new RegExp('(^| )'+'display__none'+'($| )','g')
+
+  modal.className = modal.className.replace(reg, '')
+
+
+}
+
+function closeModal () {
+
+}
 
 function detectViewport() {
   return state.isMobile = window.innerWidth < options.tabletBreakpoint
