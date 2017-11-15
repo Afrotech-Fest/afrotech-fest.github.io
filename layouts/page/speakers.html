@@ -33,10 +33,14 @@
             <!-- /.container -->
 
             <!-- Modal -->
-            <div class="speakers__modal display__none" data-speaker-modal>
-                <img class="speakers__modal-img" src="" />
-                <h3></h3>
-                <p class="team-caption"></p>
+            <div class="modal__container">
+                <div class="speakers__modal-overlay display__none" data-speaker-overlay></div>
+                <div class="speakers__modal display__none" data-speaker-modal>
+                    <img class="speakers__modal-img" src="" data-speaker-modal-img/>
+                    <h3 data-speaker-modal-title></h3>
+                    <p class="team-caption" data-speakers-modal-bio></p>
+                    <button class="button-close" data-speaker-close>close</button>
+                </div>
             </div>
 
         <!-- /#content -->
