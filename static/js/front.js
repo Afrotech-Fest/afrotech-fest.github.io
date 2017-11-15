@@ -32,6 +32,7 @@ $(function () {
   contactForm()
 })
 
+// TODO: Use jQuery for element selectors
 const speakerButtons = document.querySelectorAll('[data-speaker-button]')
 console.log(speakerButtons)
 
@@ -39,28 +40,44 @@ speakerButtons.forEach(function(button){
 
   const bio = button.querySelector('[data-bio]').innerHTML
   const imgUrl = button.querySelector('[data-speaker-img]').src
+  const name = button.querySelector('[data-speaker-name]').innerHTML
 
   button.addEventListener('click', function() {
-    openModal(bio, imgUrl)
+    openModal(bio, imgUrl, name)
   })
 
 })
 
-function openModal (data, url) {
+$('[data-speaker-overlay]').on('click', function() {
+  closeModal()
+})
+
+$('[data-speaker-close]').on('click', function() {
+  closeModal()
+})
+
+function openModal (bio, imgUrl, name) {
 
   state.modalIsOpen = true
 
-  const modal = document.querySelector('[data-speaker-modal]')
+  $('[data-speaker-modal]').removeClass('display__none')
+  $('[data-speaker-overlay]').removeClass('display__none')
+  $('[data-speaker-close]').focus()
+  $('body').addClass('overflow-hidden')
 
-  var reg = new RegExp('(^| )'+'display__none'+'($| )','g')
-
-  modal.className = modal.className.replace(reg, '')
-
+  $('[data-speaker-modal-img]').attr('src', imgUrl)
+  $('[data-speakers-modal-bio]').text(bio)
+  $('[data-speaker-modal-title]').text(name)
 
 }
 
 function closeModal () {
 
+  state.modalIsOpen = false
+
+  $('[data-speaker-modal]').addClass('display__none')
+  $('[data-speaker-overlay]').addClass('display__none')
+  $('body').removeClass('overflow-hidden')
 }
 
 function detectViewport() {
