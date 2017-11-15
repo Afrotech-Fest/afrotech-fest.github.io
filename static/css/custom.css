@@ -278,22 +278,57 @@ textarea.form-control{
     color: red;
 }
 
+.speakers__modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: darkslategray;
+    width: 100%;
+    height: 100%;
+    opacity: .8;
+}
+
 .speakers__modal {
-    position: absolute;
-    width: 50vw;
-    height: 50vh;
-    outline: 1px solid red;
+    position: fixed;
+    width: 90vw;
+    height: auto;
+    min-height: 50vh;
+    padding: 2em;
+    top: 50vh;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #fff;
     z-index: 1;
+    text-align: center;
 }
 
-.speakers__modal:before {
-    content: "";
-    width: 100vw;
-    height: 100vh;
-    background-color: rgba(12, 234, 234, .8)
+@media(min-width: 480px) {
+    .speakers__modal {
+        width: 70vw;
+    }
+}
+
+@media(min-width: 768px) {
+    .speakers__modal {
+        width: 50vw;
+    }
+}
+
+.speakers__modal-img {
+    width: 120px;
+    height: 120px;
+}
+
+.button-close {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    border: none;
+    background: transparent;
+}
+
+.overflow-hidden {
+    overflow: hidden;
 }
 
 .display__none {
