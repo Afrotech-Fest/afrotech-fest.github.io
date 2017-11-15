@@ -1,7 +1,7 @@
 [
     {
         "featured": "true",
-        "name": "Test speaker",
+        "name": "Florence",
         "image": "img/flo.svg",
         "url": "https://twitter.com/FINOkoye",
         "short_bio": "Florence Okoye is a UX and Service Designer.",
@@ -9,7 +9,7 @@
     },
     {
         "featured": "true",
-        "name": "Test speaker",
+        "name": "Flo",
         "image": "img/flo.svg",
         "url": "https://twitter.com/FINOkoye",
         "short_bio": "Florence Okoye is a UX and Service Designer.",
@@ -17,7 +17,7 @@
     },
     {
         "featured": "true",
-        "name": "Test speaker",
+        "name": "Florence",
         "image": "img/flo.svg",
         "url": "https://twitter.com/FINOkoye",
         "short_bio": "Florence Okoye is a UX and Service Designer.",
@@ -25,7 +25,7 @@
     },
     {
         "featured": "false",
-        "name": "Test speaker",
+        "name": "Fola",
         "image": "img/flo.svg",
         "url": "https://twitter.com/FINOkoye",
         "short_bio": "Florence Okoye is a UX and Service Designer.",
@@ -33,7 +33,7 @@
     },
     {
         "featured": "false",
-        "name": "Test speaker",
+        "name": "Yemi",
         "image": "img/flo.svg",
         "url": "https://twitter.com/FINOkoye",
         "short_bio": "Florence Okoye is a UX and Service Designer.",
@@ -41,7 +41,7 @@
     },
     {
         "featured": "false",
-        "name": "Test speaker",
+        "name": "Mario",
         "image": "img/flo.svg",
         "url": "https://twitter.com/FINOkoye",
         "short_bio": "Florence Okoye is a UX and Service Designer.",
@@ -49,7 +49,7 @@
     },
     {
         "featured": "false",
-        "name": "Test speaker",
+        "name": "Goofy",
         "image": "img/flo.svg",
         "url": "https://twitter.com/FINOkoye",
         "short_bio": "Florence Okoye is a UX and Service Designer.",
