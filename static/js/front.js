@@ -36,6 +36,8 @@ $(function () {
 const speakerButtons = document.querySelectorAll('[data-speaker-button]')
 console.log(speakerButtons)
 
+let lastFocusedElement
+
 speakerButtons.forEach(function(button){
 
   const bio = button.querySelector('[data-bio]').innerHTML
@@ -60,6 +62,8 @@ function openModal (bio, imgUrl, name) {
 
   state.modalIsOpen = true
 
+  lastFocusedElement = document.activeElement
+
   $('[data-speaker-modal]').removeClass('display__none')
   $('[data-speaker-overlay]').removeClass('display__none')
   $('[data-speaker-close]').focus()
@@ -74,6 +78,8 @@ function openModal (bio, imgUrl, name) {
 function closeModal () {
 
   state.modalIsOpen = false
+
+  lastFocusedElement.focus()
 
   $('[data-speaker-modal]').addClass('display__none')
   $('[data-speaker-overlay]').addClass('display__none')
