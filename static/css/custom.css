@@ -229,7 +229,6 @@ textarea.form-control{
 .speakers__item {
     text-align: center;
     width: 100%;
-    padding: 10px 20px;
     list-style-type: none;
 }
 
@@ -270,12 +269,14 @@ textarea.form-control{
 
 .speakers__more {
     background: transparent;
+    padding: 10px 20px;
     border: none;
+    outline: none;
 }
 
-.speakers__more:hover > h3,
-.speakers__more:focus > h3 {
-    color: red;
+.speakers__more:hover,
+.speakers__more:focus {
+    background-color: rgba(255, 81, 47, .2);
 }
 
 .speakers__modal-overlay {
