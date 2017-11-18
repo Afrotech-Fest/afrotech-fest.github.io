@@ -13,7 +13,6 @@
 
 
 p, li {
-    font-size: 1.2em;
     color: #061A25;
     orphans: 3;
     font-family: "Source Sans Pro";
@@ -162,8 +161,8 @@ textarea.form-control{
 .navbar ul.nav>li>a {
     padding-left: 0px;
     padding-right: 0px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .navbar ul.nav>li>a:hover, .navbar ul.nav>li>a:focus {
@@ -207,6 +206,44 @@ textarea.form-control{
     text-align: center;
 }
 
+
+
+@media(min-width: 768px){
+    .navigation__item {
+        font-size: 1em;
+    }
+}
+
+@media(min-width: 960px){
+    .navigation__item {
+        font-size: 1.2em;
+    }
+}
+
+.buy-tickets__btn-container {
+    position: absolute;
+    bottom: 50%;
+    right: 10px;
+    transform: translate(0, 50%);
+    background-color: orangered;
+    color: #fff;
+    box-shadow: 3px 2px black;
+}
+
+.buy-tickets__btn-container:active {
+    transform: translate3d(3px, 50%, 0);
+    box-shadow: none;
+}
+
+.buy-tickets__btn {
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: .8em;
+    padding: 0.5em 1em;
+    display: inline-block;
+
+}
 
 #who,
 #who h1 {
