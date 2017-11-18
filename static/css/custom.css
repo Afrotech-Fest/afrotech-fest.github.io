@@ -222,7 +222,7 @@ textarea.form-control{
 
 .buy-tickets__btn-container--mobile {
     position: fixed;
-    background-color: orangered;
+    background: linear-gradient(45deg, #fd756c, #ff8f68);
     color: #fff;
     bottom: 0;
     left: 0;
@@ -237,7 +237,7 @@ textarea.form-control{
     bottom: 50%;
     right: 10px;
     transform: translate(0, 50%);
-    background-color: orangered;
+    background: linear-gradient(45deg, #fd756c, #ff8f68);
     color: #fff;
     box-shadow: 3px 2px #333;
     display: none;
