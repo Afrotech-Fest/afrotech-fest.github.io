@@ -6,7 +6,9 @@
 
         {{ range where $speakers "featured" "=" "true"}}
             <li class="speakers__item" title="{{ .name }}">
-                <img src="{{ .image }}" alt="{{ .name }}" class="speakers__img" />
+                <div class="speakers__img-container">
+                    <img src="{{ .image }}" alt="{{ .name }}" class="speakers__img" />
+                </div>
                 <h3>{{ .name }}</h3>
                 <p class="team-caption">
                     {{ .short_bio }}
