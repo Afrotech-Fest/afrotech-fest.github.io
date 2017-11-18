@@ -220,6 +220,18 @@ textarea.form-control{
     }
 }
 
+.buy-tickets__btn-container--mobile {
+    position: fixed;
+    background-color: orangered;
+    color: #fff;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2;
+    text-align: center;
+    box-shadow: 15px 5px 15px 5px rgba(77, 77, 77, 0.7);
+}
+
 .buy-tickets__btn-container {
     position: absolute;
     bottom: 50%;
@@ -227,7 +239,8 @@ textarea.form-control{
     transform: translate(0, 50%);
     background-color: orangered;
     color: #fff;
-    box-shadow: 3px 2px black;
+    box-shadow: 3px 2px #333;
+    display: none;
 }
 
 .buy-tickets__btn-container:active {
@@ -235,14 +248,36 @@ textarea.form-control{
     box-shadow: none;
 }
 
-.buy-tickets__btn {
+.buy-tickets__btn-shared {
+    width: 100%;
     text-decoration: none;
     text-transform: uppercase;
+}
+
+.buy-tickets__btn--mobile {
+    display: inline-block;
+    padding: 1em 0;
+    letter-spacing: 2px;
+    font-size: 1.2em;
+}
+
+.buy-tickets__btn {
+    display: none;
+    padding: 0.5em 1em;
     letter-spacing: 1px;
     font-size: .8em;
-    padding: 0.5em 1em;
-    display: inline-block;
+}
 
+@media (min-width: 768px) {
+    .buy-tickets__btn,
+    .buy-tickets__btn-container {
+        display: inline-block;
+    }
+
+    .buy-tickets__btn--mobile,
+    .buy-tickets__btn-container--mobile {
+        display: none;
+    }
 }
 
 #who,
