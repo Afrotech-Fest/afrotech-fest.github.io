@@ -348,6 +348,59 @@ textarea.form-control{
     outline: none;
 }
 
+.about__hero {
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.about__hero img {
+    width: 100%;
+}
+
+.about__cta {
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+
+.about__p {
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .about__p {
+        width: 80%;
+    }
+}
+
+.installations__list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.installations__list-item {
+    list-style-type: none;
+    width: 100%;
+    max-width: 450px;
+    padding: 0 1em;
+    margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+    .installations__list-item {
+        width: 50%;
+    }
+}
+
+.installations__img {
+    width: 100%;
+}
+
 .overflow-hidden {
     overflow: hidden;
 }
