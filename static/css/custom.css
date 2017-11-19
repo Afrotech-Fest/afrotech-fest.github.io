@@ -255,7 +255,7 @@ textarea.form-control{
     width: 100%;
     height: 100%;
     /* TODO: get the correct value of this green */
-    background-color: green;
+    background-color: #4FF0D6;
     border-radius: 100%;
     opacity: 0;
     transition: all ease .5s;
