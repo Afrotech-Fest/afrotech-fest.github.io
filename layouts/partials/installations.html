@@ -2,22 +2,20 @@
 
 {{ if gt (len .Site.Data.installations) 0 }}
 <div class="installations-wrapper">
-    <div class="installations">
-        <ul class="installations__list">
+    <ul class="installations__list">
 
-            {{ range $installations }}
-                <li class="installations__list-item">
-                    <div class="installations__item">
-                        <h3>{{ .name }}</h3>
-                        <div class="installations__img-container">
-                            <img class="installations__img" src="{{ .image }}" alt="{{ .name }}"/>
-                        </div>
-                        <p>{{ .description }}</p>
+        {{ range $installations }}
+            <li class="installations__list-item">
+                <div class="installations__item">
+                    <h3>{{ .name }}</h3>
+                    <div class="installations__img-container">
+                        <img class="installations__img" src="{{ .image }}" alt="{{ .name }}"/>
                     </div>
-                </li>
-            {{ end }}
+                    <p>{{ .description }}</p>
+                </div>
+            </li>
+        {{ end }}
 
-        </ul>
-    </div>
+    </ul>
 </div>
 {{ end }}
