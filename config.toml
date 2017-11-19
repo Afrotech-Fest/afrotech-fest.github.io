@@ -92,3 +92,7 @@ googleAnalytics = "UA-106843029-1"
     enable = true
     title = "Our team"
     subtitle = ""
+
+
+[params.buy]
+    url = "https://ti.to/home"
