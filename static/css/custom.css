@@ -280,6 +280,11 @@ textarea.form-control{
     
 }
 
+#speaker-header {
+    background-color: #B3B3B3;
+    height: 300px;
+}
+
 .speakers__btn {
     display: block;
     margin: 0 auto 2em;
