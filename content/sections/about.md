@@ -25,7 +25,7 @@ weight: 2
 <h4>Digital installations</h4>
 <p>The installations will be a collection of physical prototypes, photography, film and sound that aims to promote the visibility of black people in tech.</p>
 <br>
-<p>For more information about the festival download our <a href="https://drive.google.com/file/d/0B3whBCs7yUf1VEVrUC1pZkItSUE/view?usp=sharing" target="_blank">information pack</a>.</p>
+<p>For more information about the festival download our <a href="https://drive.google.com/file/d/0B3whBCs7yUf1OEI3VklQVFFxbFk/view?usp=sharing" target="_blank">information pack</a>.</p>
 
 </div>
 

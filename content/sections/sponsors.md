@@ -29,6 +29,5 @@ weight: 7
 
 <h4 class="sponsors-title"> VENUE SPONSOR</h4>
 <a href="https://www.richmix.org.uk/" class="sponsors-item--venue">
-<img src="../img/richmix-logo.png" width="170px" alt ="rich mix logo"class="richmix-logo"></a>
-<h4 class="sponsors-title"> FESTIVAL SPONSORS</h4>
+<img src="../img/richmix-logo.png" width="150px" alt ="rich mix logo"class="richmix-logo"></a>
 
