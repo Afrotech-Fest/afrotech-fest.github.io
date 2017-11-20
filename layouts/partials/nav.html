@@ -21,7 +21,7 @@
             <div class="navbar-collapse collapse" id="navigation">
                 <ul class="nav navbar-nav">
                     {{ range .Site.Menus.main }}
-                    <li class="dropdown">
+                    <li class="dropdown navigation__item">
                         {{ if .HasChildren }}
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ .Name }} <span class="caret"></span></a>
                         <ul class="dropdown-menu">
@@ -34,6 +34,11 @@
                     </li>
                     {{ end }}
                 </ul>
+                <div class="buy-tickets__btn-container">
+                    <a href="{{ .Site.Params.buy.url }}" target="_blank" class="buy-tickets__btn buy-tickets__btn-shared">
+                        Buy Tickets
+                    </a>
+                </div>
             </div>
             <!--/.nav-collapse -->
 

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+        
+            <div class="container coc">
+                    
+                <div class="row">
+
+                    <div class="col-md-12">
+
+                        <div>
+                          {{ .Content }}
+                          {{ partial "speakers-all.html" . }}
+                        </div>
+
+                    </div>
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+
+            <!-- Modal -->
+            <div class="modal__container">
+                <div class="speakers__modal-overlay display__none" data-speaker-overlay></div>
+                <div class="speakers__modal display__none" data-speaker-modal>
+                    <img class="speakers__modal-img" src="" data-speaker-modal-img/>
+                    <h3 data-speaker-modal-title></h3>
+                    <p class="team-caption" data-speakers-modal-bio></p>
+                    <button class="button-close" data-speaker-close></button>
+                </div>
+            </div>
+
+        <!-- /#content -->
+        {{ partial "footer.html" . }}
+        
+    </div>
+    
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
