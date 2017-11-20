@@ -24,7 +24,7 @@ weight: 5
 <div class="row">
 <div class="col-xs-12 col-md-9 mt-10">
 
-<h2>SUBMIT A PROPOSAL</h2>
+<h2>SUBMIT A PROPOSAL [MOVE TO SPEAKERS PAGE]</h2>
 
 <p>We're casting the net far and wide to find some of the most interesting, diverse and forward-thinking people in our community. We are very keen to hear from techies, makers, digital artists, tech enthusiasts and community workers whose aims resonate with ours. If you have an idea for a workshop or a talk, a suggestion about who or what else should be included, or even a topic that you feel should be addressed, then get in touch using the form below.</p>
 
