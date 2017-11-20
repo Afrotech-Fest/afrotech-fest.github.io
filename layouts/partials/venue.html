@@ -1,20 +1,20 @@
 <div id="venue">
 
-  <div class="row no-gutter richmix">
+  <div class="row">
+      <div class="col-xs-12">
+        <div class="richmix" >
+          </div>
+        </div>
+          
 
-    <div class="col-xs-12 col-md-5 col-md-offset-7">
-      {{ if isset .Site.Params "latitude" }} {{ if isset .Site.Params "longitude" }}
-      <div class="hidden">
-        <input id="gmap-lat" value="{{ .Site.Params.latitude }}" />
-        <input id="gmap-lng" value="{{ .Site.Params.longitude }}" />
-        <input id="gmap-marker" value="{{ .Site.BaseURL }}img/marker.png" /> {{ if isset .Site.Params "direction" }}
-        <input id="gmap-dir" value="{{ .Site.Params.direction }}" /> {{ else }}
-        <input id="gmap-dir" value="{{ .Site.Params.latitude }},{{ .Site.Params.longitude }}" /> {{ end }}
+    <div class="col-xs-12">
+
+      <div id="map">
+          <iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJDT5Fc7ccdkgRTJN0vGqwGNE&key=AIzaSyBh9951Ix-8r1OwdKOnapP0gUfeslNXe7E" allowfullscreen></iframe>
+          
       </div>
-      <div id="map"></div>
     </div>
-  {{ end }} {{ end }}
-</div>
+  </div>
 </div>
 
 

@@ -19,7 +19,7 @@ weight: 4
 <h3> TICKET INFORMATION</h3>
 <p>It is our aim to keep the festival as affordable and accessible as possible. As such, all children will attend for free (up to the age of 18), and unwaged/low waged will be entitled to concession tickets. Tickets will go on sale in <b>November</b>.</p>
 
-<p>For more information on who this festival festival is for read our <a href="{{ .Site.BaseURL }}/faqs">FAQs</a>.</p>
+<p>For more information on who this festival is for read our <a href="{{ .Site.BaseURL }}/faqs">FAQs</a>.</p>
 </div>
 </div>
 
