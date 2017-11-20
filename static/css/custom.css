@@ -430,8 +430,8 @@ textarea.form-control{
 
 .buy-tickets__btn-container--mobile {
     position: fixed;
-    background: linear-gradient(45deg, #fd756c, #ff8f68);
-    color: #fff;
+    background-color: #4FF0D6;
+    color: #333;
     bottom: 0;
     left: 0;
     width: 100%;
@@ -444,8 +444,8 @@ textarea.form-control{
     position: absolute;
     height: 100%;
     right: 0;
-    background: linear-gradient(45deg, #fd756c, #ff8f68);
-    color: #fff;
+    background-color: #4FF0D6;
+    color: #333;
     display: none;
 }
 
@@ -460,6 +460,7 @@ textarea.form-control{
     padding: 1em 0;
     letter-spacing: 2px;
     font-size: 1.2em;
+    font-weight: bold;
 }
 
 .buy-tickets__btn {
@@ -469,6 +470,7 @@ textarea.form-control{
     padding: 0.5em 1em;
     letter-spacing: 1px;
     font-size: .8em;
+    font-weight: bold;
 }
 
 @media (min-width: 768px) {
