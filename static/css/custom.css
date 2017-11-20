@@ -442,18 +442,11 @@ textarea.form-control{
 
 .buy-tickets__btn-container {
     position: absolute;
-    bottom: 50%;
-    right: 10px;
-    transform: translate(0, 50%);
+    height: 100%;
+    right: 0;
     background: linear-gradient(45deg, #fd756c, #ff8f68);
     color: #fff;
-    box-shadow: 3px 2px #333;
     display: none;
-}
-
-.buy-tickets__btn-container:active {
-    transform: translate3d(3px, 50%, 0);
-    box-shadow: none;
 }
 
 .buy-tickets__btn-shared {
@@ -471,15 +464,20 @@ textarea.form-control{
 
 .buy-tickets__btn {
     display: none;
+    align-items: center;
+    height: 100%;
     padding: 0.5em 1em;
     letter-spacing: 1px;
     font-size: .8em;
 }
 
 @media (min-width: 768px) {
-    .buy-tickets__btn,
     .buy-tickets__btn-container {
         display: inline-block;
+    }
+
+    .buy-tickets__btn {
+        display: flex;
     }
 
     .buy-tickets__btn--mobile,
