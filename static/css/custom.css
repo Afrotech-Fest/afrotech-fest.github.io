@@ -12,6 +12,7 @@
 }
 
 
+
 p, li {
     font-size: 1.2em;
     color: #061A25;
@@ -87,6 +88,11 @@ color: inherit;}
 #about {
     min-height: 400px;
     
+}
+
+.about-main .speakers__btn {
+    text-align: left;
+    margin-top: 48px;
 }
 
 .svg-container {
@@ -791,6 +797,7 @@ button.read-more:focus {
 
 .team-container {
     margin-top: 50px;
+    background-color: #FBF7EE;
 }
 
  .item.team img {

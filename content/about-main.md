@@ -4,6 +4,8 @@ slug: "about-main"
 layout: "about-main"
 ---
 
+<div class="row">
+<div class="col-xs-12 col-md-9 mt-10">
  <h2 class="">ABOUT AFROTECH FEST</h2>
     
 <p class="page-description">Hear and learn from some of the most interesting, diverse and forward-thinking people in our community.</p>
@@ -19,3 +21,7 @@ layout: "about-main"
 
 <h4>Digital installations</h4>
 <p>The installations will be a collection of physical prototypes, photography, film and sound that aims to promote the visibility of black people in tech.</p>
+
+</div>
+
+</div>

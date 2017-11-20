@@ -27,9 +27,6 @@ googleAnalytics = "UA-106843029-1"
     weight = 3
 
 [[menu.main]]
-    name = "Team"
-    url  = "/#team"
-    weight = 4
 
     [[menu.main]]
     name = "Contact"
