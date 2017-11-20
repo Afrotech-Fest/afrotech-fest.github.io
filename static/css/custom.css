@@ -274,6 +274,12 @@ textarea.form-control{
     display: inline-block;
 }
 
+.btn--cta:hover {
+    color: #fff;
+    background: linear-gradient(45deg, #fd756c, #ff8f68);
+    
+}
+
 .speakers__btn {
     display: block;
     margin: 0 auto 2em;
@@ -430,6 +436,32 @@ textarea.form-control{
     }
 }
 
+
+#subscribe {
+    background-color: #061A25;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+button.subscribe {
+    background-color: transparent;
+    border: 2px solid #fff;
+    font-size: 2em;
+    padding: 10px 20px;
+    color: #fff;
+
+}
+
+
+button.subscribe:hover,
+button.sunscribe:focus {
+    box-shadow: inset 0 0 0 1px #fff;
+}
+
+
 #who,
 #who h1 {
     background-color: #FBF7EE;
@@ -509,6 +541,10 @@ background-color: #fff;
 
 .pb-50 {
     padding-bottom: 5%
+}
+
+.pt-50 {
+    padding-top: 5%
 }
 
 .mt-10 {
