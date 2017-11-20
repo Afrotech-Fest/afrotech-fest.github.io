@@ -58,8 +58,8 @@ googleAnalytics = "UA-106843029-1"
 
 [params]
     email = "info@afrotechfest.co.uk"
-    latitude = 51.5243842
-    longitude = -0.0730965
+   # latitude = 51.5243842
+   # longitude = -0.0730965
     copyright = "&copy; 2017 Afrotech Fest. Made with &#10084; in London"
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyBh9951Ix-8r1OwdKOnapP0gUfeslNXe7E"
@@ -95,4 +95,4 @@ googleAnalytics = "UA-106843029-1"
 
 
 [params.buy]
-    url = "https://ti.to/home"
+    url = "https://ti.to/afrotech-fest/2018"
