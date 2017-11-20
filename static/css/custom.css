@@ -370,6 +370,43 @@ textarea.form-control{
     outline: none;
 }
 
+.installations__wrapper {
+    margin-top: 2em;
+}
+
+.installations__list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+.installations__list-item {
+    list-style-type: none;
+    width: 100%;
+    max-width: 450px;
+    padding: 0 1em;
+    margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+    .installations__list-item {
+        width: 50%;
+    }
+}
+
+.installations__img-container {
+    margin-bottom: .5em;
+}
+
+.installations__img {
+    width: 100%;
+}
+
 .overflow-hidden {
     overflow: hidden;
 }
