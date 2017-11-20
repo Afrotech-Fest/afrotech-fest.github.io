@@ -78,11 +78,15 @@ color: inherit;}
     text-align: center;
 }
 
-#about, #who, #submit, #team, #venue, #sponsors {
+#who, #submit, #team, #venue, #sponsors {
     min-height: 700px;
     height: 100%;
 }
 
+#about {
+    min-height: 400px;
+    
+}
 
 .svg-container {
     overflow: hidden;

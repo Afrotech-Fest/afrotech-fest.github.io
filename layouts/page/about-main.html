@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+
+        <div class="container-fluid">
+                <div class="row" id="speaker-header">
+                    <div class="col-xs-12">
+                    </div>
+                </div>
+
+</div>
+            <div class="container coc">
+  
+                <div class="row">
+
+                    <div class="col-md-12">
+
+                        <div>
+                          {{ .Content }}
+                        </div>
+
+                    </div>
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+
+            {{ if gt (len .Site.Data.team) 0 }}
+            <div class="team-container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul class="owl-carousel testimonials">
+                            {{ range .Site.Data.team }}
+                            <li class="item team" title="{{ .name }}">
+                                {{ if .url }}
+                                <a href="{{ .url }}" target="_blank">
+                                    <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                                </a>
+                                <h3>{{ .name }}</h3>
+                                <p class="team-caption">{{ .text}}</p>                        
+                                {{ else }}
+                                <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" /> {{ end }}
+                            </li>
+                            {{ end }}
+                        </ul>
+                        <!-- /.owl-carousel -->
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+            
+
+        <!-- /#content -->
+        {{ partial "footer.html" . }}
+        
+    </div>
+    
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
