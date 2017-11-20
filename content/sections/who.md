@@ -8,7 +8,7 @@ weight: 4
 <div class="row">
 <div class="col-xs-12 col-md-9 mt-10 stack">
 
-<h2>WHO IS IT FOR?</h2>
+<h2>WHO IS IT FOR? [Remove]</h2>
 
 <p>We’re excited about the exceptional work that can come from black people coming together, particularly those who are non-conforming and are often excluded. As a result, we are actively engaged in connecting black people from all walks of life, so that we can build a technological future that is for us.</p>
 
