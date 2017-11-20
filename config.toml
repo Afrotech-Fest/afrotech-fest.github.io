@@ -12,26 +12,19 @@ googleAnalytics = "UA-106843029-1"
 
 
 [[menu.main]]
-    name = "About the Festival"
-    url  = "/#about"
+    name = "Speakers"
+    url  = "/#speakers"
     weight = 1
 
 [[menu.main]]
-    name = "Who is it for"
-    url  = "/#who"
+    name = "Programme"
+    url  = "/#programme"
     weight = 2
 
 [[menu.main]]
-    name = "Submit a proposal"
-    url  = "/#submit"
-    weight = 3
-
-[[menu.main]]
-
-    [[menu.main]]
     name = "Contact"
     url  = "/#contact"
-    weight = 5
+    weight = 3
 
 # Top bar social links menu
 
