@@ -1,23 +1,32 @@
-{{ if gt (len .Site.Data.team) 0 }}
-<div class="team-container">
-    <div class="row">
-        <div class="col-md-12">
-            <ul class="owl-carousel testimonials">
-                {{ range .Site.Data.team }}
-                <li class="item team" title="{{ .name }}">
-                    {{ if .url }}
-                    <a href="{{ .url }}" target="_blank">
-                        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                    </a>
-                    <h3>{{ .name }}</h3>
-                    <p class="team-caption">{{ .text}}</p>                        
-                    {{ else }}
-                    <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" /> {{ end }}
-                </li>
-                {{ end }}
-            </ul> 
-            <!-- /.owl-carousel -->
-         </div>
-    </div>
-</div>
-{{ end }}
+<div class="row">
+        <div class="col-xs-12 col-md-9 mt-10">
+            <h2>THE TEAM</h2>
+            <p>We’re a team of activists, artists, techies and community leaders who are focused on black communities in the
+                UK. Afrotech Fest seeks to bring together these strands, specifically serving black people and creating conversations
+                and connections beyond ‘networking’ or bending to fit into the current industries and climate.</p>
+            </div>
+            
+            {{ if gt (len .Site.Data.team) 0 }}
+            <div class="team-container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul class="owl-carousel testimonials">
+                            {{ range .Site.Data.team }}
+                            <li class="item team" title="{{ .name }}">
+                                {{ if .url }}
+                                <a href="{{ .url }}" target="_blank">
+                                    <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                                </a>
+                                <h3>{{ .name }}</h3>
+                                <p class="team-caption">{{ .text}}</p>
+                                {{ else }}
+                                <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" /> {{ end }}
+                            </li>
+                            {{ end }}
+                        </ul>
+                        <!-- /.owl-carousel -->
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+   </div>

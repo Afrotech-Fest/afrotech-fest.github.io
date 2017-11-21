@@ -1,0 +1,17 @@
+[
+    {
+        "name": "TECH FAIR",
+        "image": "http://via.placeholder.com/500x300",
+        "description": "Our tech fair will showcase inventions from young people from schools and youth groups as well as curious bedroom inventors. Those whose bold ideas leap off the paper, who take things apart to see what is inside and who have a burning desire to change how the world works."
+    },
+    {
+        "name": "WORKSHOPS",
+        "image": "http://via.placeholder.com/500x300",
+        "description": "We have connected with exciting community groups who are bringing us some fun and challenging workshops. They’ll be exploring topics from from robotics to text-based gaming to data visualisation through sound, all with the help of kits donated from our supporters."
+    },
+    {
+        "name": "MAKING STATIONS",
+        "image": "http://via.placeholder.com/500x300",
+        "description": "The making stations are tailored to young people from age 4 all the way up to 18, with each station holding a special place for any young person artist, builder, community organiser, developer, educator or maybe all five. We have a wide range of kits for young people to dive into from DIY synths to building your own Raspberry Pi computer."
+    }
+]

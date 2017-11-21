@@ -14,10 +14,11 @@
 
 
 p, li {
+    
     color: #061A25;
     orphans: 3;
     font-family: "Source Sans Pro";
-    
+
     
 }
 
@@ -80,7 +81,7 @@ color: inherit;}
     text-align: center;
 }
 
-#who, #submit, #team, #venue, #sponsors {
+#who, #submit, #venue, #sponsors {
     min-height: 700px;
     height: 100%;
 }
@@ -90,7 +91,7 @@ color: inherit;}
     
 }
 
-.about-main .speakers__btn {
+#about-main .speakers__btn {
     text-align: left;
     margin-top: 48px;
 }

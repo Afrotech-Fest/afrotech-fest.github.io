@@ -1,0 +1,24 @@
+{{ $installations := getJSON "data/installations/youth-events.json" }} {{ if gt (len .Site.Data.installations) 0 }}
+<div class="row">
+    <div class="col-md-12">
+        <div class="installations__wrapper">
+            <ul class="installations__list">
+
+                {{ range $installations }}
+                <li class="installations__list-item">
+                    <div class="installations__item">
+                        <h4>{{ .name }}</h4>
+                        <div class="installations__img-container">
+                            <img class="installations__img" src="{{ .image }}" alt="{{ .name }}" />
+                        </div>
+                        <p>{{ .description }}</p>
+                    </div>
+                </li>
+                {{ end }}
+
+            </ul>
+        </div>
+        {{ end }}
+
+    </div>
+</div>

@@ -4,8 +4,7 @@ slug: "about-main"
 layout: "about-main"
 ---
 
-<div class="row">
-<div class="col-xs-12 col-md-9 mt-10">
+
 
 <h2>WHO IS IT FOR?</h2>
 
@@ -28,9 +27,6 @@ layout: "about-main"
 <h3>General programme</h3>
 <p>The two-day programme will cover talks, panel discussions, workshops and hackathons. These events will cover a host of themes including digital activism and campaigning, community, disability and tech, privacy and security, self-care/mental health in tech, education and public health.</p>
 
-
-</div>
-</div>
 
 </div>
 
