@@ -87,8 +87,13 @@ color: inherit;}
 }
 
 #about {
-    min-height: 400px;
+    min-height: 500px;
     
+    
+}
+
+#participants {
+    background-color: #FBF7EE ;    
 }
 
 #about-main .speakers__btn {
@@ -542,11 +547,13 @@ button.subscribe:focus {
 }
 
 
-#who,
-#who h1 {
-    background-color: #FBF7EE;
-    color: #061A25;
+#who {
+    background-color: #061A25;
     padding: 20px 0;
+}
+
+#who h2, #who h3, #who p {
+    color: #fff;
 }
 
 #submit {
