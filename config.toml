@@ -1,4 +1,4 @@
-baseurl = "develop-atf.netlify.com"
+baseurl = "https://develop-atf.netlify.com/"
 languageCode = "en"
 title = "Afrotech Fest 2018"
 defaultContentLanguage = "en"
