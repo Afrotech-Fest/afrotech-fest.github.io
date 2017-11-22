@@ -10,21 +10,25 @@ googleAnalytics = "UA-106843029-1"
 
 # Main menu
 
+[[menu.main]]
+    name = "About Afrotech Fest"
+    url  = "/about-main"
+    weight = 1
 
 [[menu.main]]
     name = "Participants"
     url  = "/#participants"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     name = "Programme"
     url  = "/#programme"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "Contact"
     url  = "/#contact"
-    weight = 3
+    weight = 4
 
 # Top bar social links menu
 
