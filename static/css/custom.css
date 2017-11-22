@@ -395,6 +395,7 @@ textarea.form-control{
 @media (min-width: 768px) {
     .installations__list-item {
         width: 50%;
+        margin: 0;
     }
 }
 
