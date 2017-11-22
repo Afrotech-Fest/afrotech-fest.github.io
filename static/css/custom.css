@@ -221,9 +221,6 @@ textarea.form-control{
     text-align: center;
 }
 
-#speakers {
-    background-color: #e6e6e6;
-}
 
 .speakers-container {
     margin-top: 2em;
@@ -471,7 +468,7 @@ textarea.form-control{
     height: 100%;
     padding: 0.5em 1em;
     letter-spacing: 1px;
-    font-size: .8em;
+    font-size: 1.3em;
     font-weight: bold;
 }
 

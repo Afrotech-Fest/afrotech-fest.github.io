@@ -1,6 +1,6 @@
-{{ $speakers := getJSON "data/speakers/speakers.json" }}
+{{ $speakers := getJSON "data/participants/participants.json" }}
 
-{{ if gt (len .Site.Data.speakers) 0 }}
+{{ if gt (len .Site.Data.participants) 0 }}
 <div class="speakers-container">
     <ul class="speakers__list">
 

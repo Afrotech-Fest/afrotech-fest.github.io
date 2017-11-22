@@ -12,8 +12,8 @@ googleAnalytics = "UA-106843029-1"
 
 
 [[menu.main]]
-    name = "Speakers"
-    url  = "/#speakers"
+    name = "Participants"
+    url  = "/#participants"
     weight = 1
 
 [[menu.main]]
