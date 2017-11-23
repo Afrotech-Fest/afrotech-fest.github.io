@@ -9,7 +9,7 @@ weight: 4
 <div class="row">
 <div class="col-xs-12 col-md-9 mt-10">
 
-<h2>PROGRAMME OUTLINE</h2>
+<h2>PROGRAMME OVERVIEW</h2>
 
 <p>This is a preliminary programme overview, a more detailed schedule will be available closer to the date.</p>
 
