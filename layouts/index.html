@@ -38,7 +38,11 @@
             {{ range where .Data.Pages "Section" "=" "sections" }}
             <div class="row" id="{{ .Params.slug }}">
                 <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
-                    {{ .Content }} {{ if isset .Params "id" }} {{ partial .Params.id . }} {{ end }}
+                    {{ .Content }}
+
+                    {{ if isset .Params "id" }}
+                        {{ partial .Params.id . }}
+                    {{ end }}
                 </div>
             </div>
             {{ end }}

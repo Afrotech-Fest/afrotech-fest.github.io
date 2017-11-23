@@ -1,0 +1,52 @@
+[
+    {
+        "index": 0,
+        "day": "friday",
+        "times": [
+            {
+                "time": "09:00am",
+                "events": [
+                    {
+                        "event_name": "Opening and registration"
+                    }
+                ]
+            },
+            {
+                "time": "10:00am",
+                "events": [
+                    {
+                        "event_name": "Welcome Speech"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "index": 1,
+        "day": "saturday",
+        "times": [
+            {
+                "time": "09:00am",
+                "events": [
+                    {
+                        "event_name": "Opening and registration"
+                    },
+                    {
+                        "event_name": "Another one"
+                    }
+                ]
+            },
+            {
+                "time": "10:00am",
+                "events": [
+                    {
+                        "event_name": "Welcome Speech"
+                    },
+                    {
+                        "event_name": "Another one"
+                    }
+                ]
+            }
+        ]
+    }
+]
