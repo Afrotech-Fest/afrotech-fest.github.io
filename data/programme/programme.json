@@ -70,6 +70,9 @@
                 "events": [
                     {
                         "event_name": "Opening and registration"
+                    },
+                    {
+                        "event_name": "Youth track opens"
                     }
                 ]
             },
@@ -86,9 +89,6 @@
                 "events": [
                     {
                         "event_name": "Talks, Lightning talks, Workshops"
-                    },
-                    {
-                        "event_name": "Youth track opens"
                     }
                 ]
             },
