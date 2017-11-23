@@ -52,6 +52,9 @@ a:hover, a:focus {
 text-decoration: none;
 color: inherit;}
 
+.white {
+    color: #fff;
+}
 .stack {
     z-index: 2;
 }
@@ -305,10 +308,14 @@ textarea.form-control{
 }
 
 #speaker-header {
-    background-color: #B3B3B3;
+    background-color: #B3B3B3;    
+    background: url(../img/about-banner.svg) center/cover no-repeat;
     height: 300px;
 }
 
+.speaker-header {
+    margin-top: 8%;
+}
 .speakers__btn {
     display: block;
     margin: 0 auto 2em;
