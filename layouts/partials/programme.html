@@ -1,0 +1,31 @@
+{{ $programme := getJSON "data/programme/programme.json" }}
+
+<div class="programme-container">
+    {{ range $programme }}
+        <div class="programme__item programme-{{ .day }}">
+            <div class="programme__day-container programme__day-{{ .day }}">
+                <h3 class="programme__day">{{ .day }}</h3>
+            </div>
+            {{ range .times }}
+                <div class="programme__detail-container">
+                    <div class="programme__time-container programme__detail">
+                        <h4 class="programme__time">
+                            {{ .time }}
+                        </h4>
+                    </div>
+
+                    <div class="programme__event-group">
+                        {{ range .events }}
+                            <div class="programme__event-container programme__detail">
+                                <h5 class="programme__event">
+                                    {{ .event_name }}
+                                </h5>
+                            </div>
+                        {{ end }}
+                    </div>
+                </div>
+
+            {{ end }}
+        </div>
+    {{ end }}
+</div>
