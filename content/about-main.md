@@ -8,7 +8,7 @@ layout: "about-main"
 
 <h2>WHO IS IT FOR?</h2>
 
-<p>We’re excited about the exceptional work that can come from black people coming together, particularly those who are non-conforming and are often excluded. As a result, we are actively engaged in connecting black people from all walks of life, so that we can build a technological future that is for us.</p>
+<p>The festival is a response to the underrepresentation of black people in the technology industry – especially those who are marginalised in additional ways – as well as tech conferences and festivals being too expensive for many to attend. We want to create a festival that is intentionally diverse and inclusive of those often excluded.</p>
 
 
 <p>We look forward to welcoming you, whatever your age, gender, class or ability. Whether you’ve never written a line of code or regularly contribute to a huge project, Afrotech Fest is for you. </p>
