@@ -440,8 +440,11 @@ textarea.form-control{
     display: none;
 }
 
-#programme * {
+#programme {
     background-color: #061a25;
+}
+
+#programme * {
     color: #fff;
 }
 
