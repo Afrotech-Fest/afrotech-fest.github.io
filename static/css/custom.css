@@ -1029,6 +1029,7 @@ button.read-more:focus {
     font-size: 1em;
     padding: 0 20px;
     margin-bottom: 50px;
+    white-space: pre-line;
 }
 
 h3.bio-name {
