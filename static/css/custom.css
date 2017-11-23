@@ -489,9 +489,6 @@ textarea.form-control{
     margin: 0;
 }
 
-.programme__event-group {
-}
-
 .programme__event-container {
     padding: 1em .5em;
     flex: 1;
@@ -519,7 +516,6 @@ textarea.form-control{
         flex-direction: row;
         flex: 6;
     }
-
     .programme__event-group .programme__event-container:last-child {
         margin-right: 0;
     }
