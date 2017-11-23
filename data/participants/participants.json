@@ -1,43 +1,43 @@
 [
     {
         "featured": "true",
-        "name": "Florence",
-        "image": "img/flo.svg",
+        "name": "Alex Fefegha",
+        "image": "img/participants/alex-fefegha.png",
         "url": "https://twitter.com/FINOkoye",
-        "short_bio": "Florence Okoye is a UX and Service Designer.",
-        "long_bio": "Florence Okoye is a UX and Service Designer. Florence Okoye is a UX and Service Designer. Florence Okoye is a UX and Service Designer."
+        "short_bio": "Product Designer, Comuzi",
+        "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at Comuzi, a small team of builders, thinkers, designers, and explorers using technology to build a better future. \nAlex is also the creator of the Creative Hustle (http://creativehustle.org)"
     },
     {
         "featured": "true",
-        "name": "Flo",
-        "image": "img/flo.svg",
-        "url": "https://twitter.com/FINOkoye",
-        "short_bio": "Florence Okoye is a UX and Service Designer.",
-        "long_bio": "Adam Okoye is a UX and Service Designer. Florence Okoye is a UX and Service Designer. Florence Okoye is a UX and Service Designer."
+        "name": "Chisa Nwabara",
+        "image": "img/participants/chisa-nwabara.png",
+        "url": "https://twitter.com/chisology",
+        "short_bio": "Program Manager, Pivotal London",
+        "long_bio": "Chisara is experienced helping enterprises across diverse industries and stages of development improve their operational performance and capabilities through the application of evidence-based project management methodologies. She has worked with former clients, and now Pivotal, to pioneer paradigm shifting approaches that have helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisara is also a member of Pivotal's Global Diversity and Inclusion [D&I] Council with whom she focuses specifically on supporting the EMEA region and globally on executive leadership initiatives around D&I. In her spare time, Chisa also runs www.chisology.com"
     },
     {
         "featured": "true",
-        "name": "Florence",
-        "image": "img/flo.svg",
-        "url": "https://twitter.com/FINOkoye",
-        "short_bio": "Florence Okoye is a UX and Service Designer.",
-        "long_bio": "Rich Okoye is a UX and Service Designer. Florence Okoye is a UX and Service Designer. Florence Okoye is a UX and Service Designer."
+        "name": "Erin Burns",
+        "image": "img/participants/erin-burns.png",
+        "url": "https://twitter.com/camerapop",
+        "short_bio": "Web Developer",
+        "long_bio": "How can technology bring people together offline and improve lives? That is what Erin tries to answer through her ideas, projects, and explorations of technology. Community drives her passion for technology. To that end, she's developing Extraqueericular, on online platform connecting the LGBTQ+ community to LGBT-friendly services and events. Her interests lie in web application development and security. Erin is a tech conference addict, recently attending ThingMonk and Web Summit this year. The community of people, opportunities for collaboration, and free flow of ideas are what motivated her to make a career change into tech. She recently completed a MA in Web Design and Content Planning at the University of Greenwich. Next on her list is to start a business."
+    },
+    {
+        "featured": "true",
+        "name": "Mozafar Haider",
+        "image": "img/participants/mozafar-haider.png",
+        "url": "https://twitter.com/kabaros",
+        "short_bio": "Software Developer, CodeYourFuture",
+        "long_bio": "Mozafar is a software developer from Sudan, he has been working as a software developer for the past 10 years starting from Khartoum to the Netherlands, London and recently Scotland. He is a mentor at CodeYourFuture, and one of the founders of its Glasgow branch. CodeYourFuture is a volunteer-run program that teaches refugees and asylum seekers web and mobile development with the aim of placing them in jobs as Junior Developers in the UK Tech industry."
     },
     {
         "featured": "false",
-        "name": "Fola",
-        "image": "img/flo.svg",
-        "url": "https://twitter.com/FINOkoye",
-        "short_bio": "Florence Okoye is a UX and Service Designer.",
-        "long_bio": "Fola Okoye is a UX and Service Designer. Florence Okoye is a UX and Service Designer. Florence Okoye is a UX and Service Designer."
-    },
-    {
-        "featured": "false",
-        "name": "Yemi",
-        "image": "img/flo.svg",
-        "url": "https://twitter.com/FINOkoye",
-        "short_bio": "Florence Okoye is a UX and Service Designer.",
-        "long_bio": "Yemi Okoye is a UX and Service Designer. Florence Okoye is a UX and Service Designer. Florence Okoye is a UX and Service Designer."
+        "name": "Helen Medea",
+        "image": "img/participants/helen-medea.png",
+        "url": "https://twitter.com/Alecto101",
+        "short_bio": "Writer and speaker",
+        "long_bio": "Helen is a writer, speaker, and facilitator. In addition to her day job as a copywriter, she specialises in analysing narratives and characters in popular culture, particularly focusing on what they tell us about sociopolitical topics. She writes at https://blackfemgeekery.wordpress.com"
     },
     {
         "featured": "false",

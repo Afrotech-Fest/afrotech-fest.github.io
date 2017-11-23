@@ -126,6 +126,14 @@ color: inherit;}
     position: relative;
  }
 
+ .logo {
+     position: absolute;
+     left: 0;
+     padding-left: 2em;
+     padding-top: 0.5em;
+     
+ }
+
 .logo-2 {
     display: block;
     max-width: 280px;
@@ -1009,7 +1017,20 @@ button.read-more:focus {
     padding: 0 20px;
 }
 
+.bio-caption {
+    font-size: 1em;
+    padding: 0 20px;
+    margin-bottom: 50px;
+}
 
+h3.bio-name {
+margin-bottom: 5px;
+}
+
+li.speakers__item h3 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
 
 .testimonials .item img {
     display: inline-block;
