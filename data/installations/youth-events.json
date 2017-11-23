@@ -11,7 +11,7 @@
     },
     {
         "name": "MAKING STATIONS",
-        "image": "http://via.placeholder.com/500x300",
+        "image": "../img/workstation.png",
         "description": "For young people from age 4 all the way up to 18, with each station holding a special place for any young person who sees themself artist, builder, community organiser, developer, educator or maybe all five. We have connected with community groups who are bringing us some fun and challenging workshops, exploring topics from from robotics to data to life through sound."
     }
 ]
