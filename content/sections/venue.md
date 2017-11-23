@@ -9,7 +9,7 @@ weight: 6
 <div class="svgcontent">
 
 <div class="star-cluster">
-<img src="img/star-cluster-1.svg" width="100%">
+<img src="img/star-cluster-1.svg" width="100%" alt="">
 </div>
 
 </div>
