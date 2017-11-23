@@ -42,9 +42,10 @@
     speakerButtons.each(function() {
       var $this = $(this)
 
-      var bio = $this.find('[data-bio]')[0].innerHTML;
+      var bio = $this.find('[data-bio]')[0].innerText;
       var imgUrl = $this.find('[data-speaker-img]')[0].src;
-      var name = $this.find('[data-speaker-name]')[0].innerHTML;
+      var name = $this.find('[data-speaker-name]')[0].innerText;
+      console.log(bio)
 
       $this.click(function() {
         openModal(bio, imgUrl, name);
