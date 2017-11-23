@@ -6,7 +6,7 @@
     },
     {
         "name": "WORKSHOPS",
-        "image": "http://via.placeholder.com/500x300",
+        "image": "../img/workshop.png",
         "description": "We have connected with exciting community groups who are bringing us some fun and challenging workshops. They’ll be exploring topics from from robotics to text-based gaming to data visualisation through sound, all with the help of kits donated from our supporters."
     },
     {

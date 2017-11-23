@@ -5,15 +5,15 @@
         "image": "img/participants/alex-fefegha.png",
         "url": "https://twitter.com/FINOkoye",
         "short_bio": "Product Designer, Comuzi",
-        "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at Comuzi, a small team of builders, thinkers, designers, and explorers using technology to build a better future. \nAlex is also the creator of the Creative Hustle (http://creativehustle.org)"
+        "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at Comuzi, a small team of builders, thinkers, designers, and explorers using technology to build a better future. Alex is also the creator of the Creative Hustle creativehustle.org"
     },
     {
         "featured": "true",
         "name": "Chisa Nwabara",
         "image": "img/participants/chisa-nwabara.png",
         "url": "https://twitter.com/chisology",
-        "short_bio": "Program Manager, Pivotal London",
-        "long_bio": "Chisara is experienced helping enterprises across diverse industries and stages of development improve their operational performance and capabilities through the application of evidence-based project management methodologies. She has worked with former clients, and now Pivotal, to pioneer paradigm shifting approaches that have helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisara is also a member of Pivotal's Global Diversity and Inclusion [D&I] Council with whom she focuses specifically on supporting the EMEA region and globally on executive leadership initiatives around D&I. In her spare time, Chisa also runs www.chisology.com"
+        "short_bio": "Programme Manager, Pivotal London",
+        "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. She has helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs chisology.com"
     },
     {
         "featured": "true",
@@ -21,7 +21,7 @@
         "image": "img/participants/mozafar-haider.png",
         "url": "https://twitter.com/kabaros",
         "short_bio": "Software Developer, CodeYourFuture",
-        "long_bio": "Mozafar is a software developer from Sudan, he has been working as a software developer for the past 10 years starting from Khartoum to the Netherlands, London and recently Scotland. He is a mentor at CodeYourFuture, and one of the founders of its Glasgow branch. CodeYourFuture is a volunteer-run program that teaches refugees and asylum seekers web and mobile development with the aim of placing them in jobs as Junior Developers in the UK Tech industry."
+        "long_bio": "Mozafar is a software developer from Sudan. He has been working as a software developer for the past 10 years, starting in Khartoum, the Netherlands, London and recently Glasgow. He is a mentor at CodeYourFuture, and one of the founders of its Glasgow branch. CodeYourFuture is a volunteer-run programme that teaches web and mobile development to refugees and asylum seekers with the aim of helping them become junior developers in the UK."
     },
     {
         "featured": "false",
@@ -29,7 +29,7 @@
         "image": "img/participants/erin-burns.png",
         "url": "https://twitter.com/camerapop",
         "short_bio": "Web Developer",
-        "long_bio": "How can technology bring people together offline and improve lives? That is what Erin tries to answer through her ideas, projects, and explorations of technology. Community drives her passion for technology. To that end, she's developing Extraqueericular, on online platform connecting the LGBTQ+ community to LGBT-friendly services and events. Her interests lie in web application development and security. Erin is a tech conference addict, recently attending ThingMonk and Web Summit this year. The community of people, opportunities for collaboration, and free flow of ideas are what motivated her to make a career change into tech. She recently completed a MA in Web Design and Content Planning at the University of Greenwich. Next on her list is to start a business."
+        "long_bio": "Erin tries to answer the question of ‘how can technology bring people together offline and improve lives”. Community drives her passion for technology, web application development and security. To that end, she's developing Extraqueericular, an online platform connecting the LGBTQ+ community to LGBT-friendly services and events. Erin is a tech conference addict, recently attending ThingMonk and Web Summit. The community, opportunities for collaboration, and free flow of ideas are what motivated her career change to tech, and she recently completed an MA in Web Design and Content Planning at the University of Greenwich."
     },
     {
         "featured": "false",
@@ -37,7 +37,7 @@
         "image": "img/participants/helen-medea.png",
         "url": "https://twitter.com/Alecto101",
         "short_bio": "Writer and Speaker",
-        "long_bio": "Helen is a writer, speaker, and facilitator. In addition to her day job as a copywriter, she specialises in analysing narratives and characters in popular culture, particularly focusing on what they tell us about sociopolitical topics. She writes at https://blackfemgeekery.wordpress.com"
+        "long_bio": "Helen is a writer, speaker, and facilitator. In addition to her day job as a copywriter, she specialises in analysing narratives and characters in popular culture, particularly focusing on what they tell us about sociopolitical topics. She writes at blackfemgeekery.wordpress.com"
     },
     {
         "featured": "false",
@@ -45,7 +45,7 @@
         "image": "img/participants/brian-akperi.png",
         "url": "https://twitter.com/BrianAkperi",
         "short_bio": "Data Scientist, Qbiz UK",
-        "long_bio": "Brian is interested in researching the ethical use of AI and its effects on marginalised groups. It’s important that in this new wave of machine learning based approaches to solving problems that we make sure we are having a positive impact on people’s lives."
+        "long_bio": "Brian is interested in researching the ethical use of AI and its effects on marginalised groups. It’s important that in this new wave of machine learning-based approaches to solving problems, we make sure we are having a positive impact on people’s lives."
     },
     {
         "featured": "false",
@@ -53,6 +53,6 @@
         "image": "img/participants/abshira-mohamed.png",
         "url": "https://twitter.com/abii_mohamed",
         "short_bio": "Co-founder, Community Growth Ventures (CGV)",
-        "long_bio": "Since graduating from De Montfort University with an MSc in Information System Management. She has been working for Local Government Shared Services (LGSS), mainly Cambridgeshire & Northamptonshire County Council. She has been part of several projects within the digital end-to-end transformation campaign for the county council. As  a co-founder of Community Growth Ventures (CGV), and in her various roles as a mentor and IT consultant. Abi’s energetic and positive approach has helped support young entrepreneurs establish their business and chasing their dreams."
+        "long_bio": "Since graduating from De Montfort University with an MSc in Information System Management, Abi has been working for Local Government Shared Services mainly Cambridgeshire and Northamptonshire County Councils, and has been part of their digital end-to-end transformation campaign. As co-founder of Community Growth Ventures, and in her various roles as a mentor and IT consultant, Abi has helped support young entrepreneurs establish businesses and chase their dreams."
     }
 ]
