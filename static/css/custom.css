@@ -421,7 +421,7 @@ textarea.form-control{
     margin: 0 auto;
 }
 .subtitles {
-    font-size: 1em;
+    font-size: 0.9em;
 }
 
 @media (min-width: 768px) {

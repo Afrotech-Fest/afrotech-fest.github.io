@@ -11,7 +11,7 @@ weight: 4
 
 <h2>PROGRAMME OUTLINE</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec eleifend augue. Nulla libero magna, mattis et iaculis congue, eleifend imperdiet quam. Donec facilisis feugiat nunc, sit amet vulputate erat tincidunt finibus.</p>
+<p>This is a preliminary programme overview, a more detailed schedule will be available closer to the date.</p>
 
 <br>
 <br>

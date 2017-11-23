@@ -1,18 +1,18 @@
 [
     {
-        "name": "Black Techies Project",
-        "image": "http://via.placeholder.com/500x300",
-        "description": "The black techies project The black techies project The black techies project The black techies project The black techies project "
+        "name": "The Black Techies Project",
+        "image": "../img/blacktechies.png",
+        "description": "The Black Techies is an interactive photography and interview project that aims to increase the visibility of Black people working within the tech industry in the UK"
     },
     {
         "name": "Missing Dataset",
-        "image": "http://via.placeholder.com/500x300",
-        "description": "The black techies project The black techies project The black techies project The black techies project The black techies project "
+        "image": "../img/missing-datasets.png",
+        "description": "Missing Datasets are blank spots in otherwise data-saturated spaces. The Library of Missing Datasets(2016) is an ongoing physical repository of these things that have been excluded in a society where so much else is collected."
     },
     {
         "name": "Coding and braiding transmissions",
-        "image": "http://via.placeholder.com/500x300",
-        "description": "The black techies project The black techies project The black techies project The black techies project The black techies project "
+        "image": "../img/cbt.png",
+        "description": "CBT (Coding: Braiding: Transmission) invites you to your assessment - CBT: Pull Requests is a performance-installation combining the practices of coding and braiding; an experiment in digital activism and critical aesthetics."
     },
     {
         "name": "The check out",
