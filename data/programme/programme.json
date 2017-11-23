@@ -105,6 +105,9 @@
                 "events": [
                     {
                         "event_name": "Keynote"
+                    },
+                    {
+                        "event_name": "Youth track closes"
                     }
                 ]
             },
