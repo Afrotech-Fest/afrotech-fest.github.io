@@ -73,6 +73,9 @@
                     },
                     {
                         "event_name": "Youth track opens"
+                    },
+                    {
+                        "event_name": "Hackathon starts"
                     }
                 ]
             },
@@ -112,10 +115,10 @@
                 ]
             },
             {
-                "time": "4:30pm",
+                "time": "5:00pm",
                 "events": [
                     {
-                        "event_name": "Break"
+                        "event_name": "The check-in"
                     }
                 ]
             },
