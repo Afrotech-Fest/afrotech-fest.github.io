@@ -101,7 +101,8 @@ color: inherit;}
 
 #about-main .speakers__btn {
     text-align: left;
-    margin-top: 48px;
+    margin-top: 20px;
+    margin-bottom: 0px;
 }
 
 .svg-container {
