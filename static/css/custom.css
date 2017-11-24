@@ -72,15 +72,31 @@ color: inherit;}
     transform: translate(0, -49%);
 }
 
+.site__logo-container-small {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top: 17px;
+}
+
 
 @media(min-width: 768px) {
     .site__logo-container {
         display: inline-block;
     }
+
+    .site__logo-container-small {
+        display: none;
+    }
 }
 
 .site__logo-link {
     display: inline-block;
+}
+
+.site__logo-link-small {
+    display: inline-block;
+    width: 8em;
 }
 
 .site__logo-img {
