@@ -1,7 +1,7 @@
 [
     {
         "name": "TECH FAIR",
-        "image": "http://via.placeholder.com/500x300",
+        "image": "../img/tech-fair.png",
         "description": "Our tech fair will showcase inventions from young people from schools and youth groups as well as curious bedroom inventors. Those whose bold ideas leap off the paper, who take things apart to see what is inside and who have a burning desire to change how the world works."
     },
     {
