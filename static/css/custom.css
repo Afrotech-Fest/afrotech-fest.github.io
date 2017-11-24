@@ -63,6 +63,23 @@ color: inherit;}
     z-index: 2;
 }
 
+.site__logo-container {
+    position: absolute;
+    display: inline-block;
+    left: 1em;
+    width: 10%;
+    top: 47%;
+    transform: translate(0, -49%);
+}
+
+.site__logo-link {
+    display: inline-block;
+}
+
+.site__logo-img {
+    width: 100%;
+}
+
 #home {
     color: #061A25;
     height:100vh;
@@ -354,21 +371,24 @@ textarea.form-control{
 
 .speakers__modal {
     position: fixed;
-    width: 90vw;
-    height: auto;
-    min-height: 50vh;
+    width: 100vw;
+    height: 100vh;
     padding: 2em;
-    top: 50vh;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 0;
+    left: 0;
     background-color: #FBF7EE;
-    z-index: 1;
+    z-index: 1000;
     text-align: center;
+    overflow-y: scroll;
 }
 
 @media(min-width: 480px) {
     .speakers__modal {
         width: 70vw;
+        height: auto;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
 }
 
@@ -565,7 +585,7 @@ textarea.form-control{
 
 @media(min-width: 768px){
     .navigation__item {
-        font-size: 1em;
+        font-size: .8em;
     }
 }
 
@@ -624,7 +644,7 @@ textarea.form-control{
     height: 100%;
     padding: 0.5em 1em;
     letter-spacing: 1px;
-    font-size: 1.3em;
+    font-size: .8em;
     font-weight: bold;
 }
 
@@ -643,6 +663,11 @@ textarea.form-control{
     }
 }
 
+@media (min-width: 960px) {
+    .buy-tickets__btn {
+        font-size: 1.2em;
+    }
+}
 
 #subscribe {
     background-color: #061A25;

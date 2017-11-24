@@ -45,7 +45,6 @@
       var bio = $this.find('[data-bio]')[0].innerText;
       var imgUrl = $this.find('[data-speaker-img]')[0].src;
       var name = $this.find('[data-speaker-name]')[0].innerText;
-      console.log(bio)
 
       $this.click(function() {
         openModal(bio, imgUrl, name);
@@ -66,10 +65,11 @@
 
     lastFocusedElement = document.activeElement;
 
+    $('body').addClass('overflow-hidden');
+
     $('[data-speaker-modal]').removeClass('display__none');
     $('[data-speaker-overlay]').removeClass('display__none');
     $('[data-speaker-close]').focus();
-    $('body').addClass('overflow-hidden');
 
     $('[data-speaker-modal-img]').attr('src', imgUrl);
     $('[data-speakers-modal-bio]').text(bio);
@@ -81,9 +81,13 @@
 
     lastFocusedElement.focus();
 
+    $('body').removeClass('overflow-hidden');
     $('[data-speaker-modal]').addClass('display__none');
     $('[data-speaker-overlay]').addClass('display__none');
-    $('body').removeClass('overflow-hidden');
+
+    $('[data-speaker-modal-img]').attr('src', "");
+    $('[data-speakers-modal-bio]').text("");
+    $('[data-speaker-modal-title]').text("");
   }
 
   function detectViewport() {
@@ -271,8 +275,6 @@
       $(this).delay(delayTimeSlider).queue(function () {
         $(this).addClass('animated')
         $(this).addClass($(this).data('animate-always'))
-
-        console.log($(this).data('animate-always'))
       })
     })
   }
