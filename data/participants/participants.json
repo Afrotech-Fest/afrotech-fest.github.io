@@ -14,7 +14,7 @@
         "url": "https://twitter.com/chisology",
         "short_bio": "Programme Manager, Pivotal London",
         "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. She has helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs chisology.com"
-    },
+    },    
     {
         "featured": "true",
         "name": "Mozafar Haider",
@@ -22,6 +22,22 @@
         "url": "https://twitter.com/kabaros",
         "short_bio": "Software Developer, CodeYourFuture",
         "long_bio": "Mozafar is a software developer from Sudan. He has been working as a software developer for the past 10 years, starting in Khartoum, the Netherlands, London and recently Glasgow. He is a mentor at CodeYourFuture, and one of the founders of its Glasgow branch. CodeYourFuture is a volunteer-run programme that teaches web and mobile development to refugees and asylum seekers with the aim of helping them become junior developers in the UK."
+    },
+    {
+        "featured": "false",
+        "name": "Jessica Jordan",
+        "image": "img/participants/jessica-jordan.png",
+        "url": "",
+        "short_bio": "Software Engineer, Simplabs",
+        "long_bio": "Jessica is a Berlin-based software engineer working at simplabs. She is an active member of the Ember.js community as part of the Ember.js Learning Team and as an editor at the Ember.js Times, which highlights updates from the team. She also co-organises the monthly Ember.js meetup group in Berlin. Apart from that, Jessica is a big fan of CSS, art and comics."
+    },
+    {
+        "featured": "false",
+        "name": "Loraine James",
+        "image": "img/participants/loraine-james.png",
+        "url": "",
+        "short_bio": "Electronic Artist",
+        "long_bio": "North London native Loraine is an up and coming electronic artist/ producer. A master at crafting organic textures through inorganic means, she effortlessly blends Electronica and Math rock with whispers of jazz and post-rock all wrapped up in the artists key avant-garde aesthetic and sensibility. With a minimal use of equipment Loraine crafts truly breathtaking textures from relatively simple means, armed only with a Macbook, a MIDI Keyboard and Novation Launchpad."
     },
     {
         "featured": "false",
