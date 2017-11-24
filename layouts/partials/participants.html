@@ -1,0 +1,26 @@
+{{ $speakers := getJSON "data/participants/participants.json" }}
+
+{{ if gt (len .Site.Data.participants) 0 }}
+<div class="speakers-container">
+    <ul class="speakers__list">
+
+        {{ range where $speakers "featured" "=" "true"}}
+            <li class="speakers__item" title="{{ .name }}">
+                <div class="speakers__img-container">
+                    <img src="{{ .image }}" alt="{{ .name }}" class="speakers__img" />
+                </div>
+                <h3 class="bio-name">{{ .name }}</h3>
+                <p class="bio-caption">
+                    {{ .short_bio }}
+                </p>
+            </li>
+        {{ end }}
+
+    </ul>
+    <div class="speakers__btn">
+        <a class="btn--cta" href="/participants">
+            View all our participants
+        </a>
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+
+        <div class="container-fluid">
+                <div class="row" id="speaker-header">
+                    <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 speaker-header">
+                        <h1 class="white">PARTICIPANTS</h1>
+                    </div>
+                </div>
+    
+            </div>
+            <div class="container-fluid coc">
+  
+                <div class="row">
+
+                    <div class="col-md-10 col-md-offset-1">
+
+                        <div>
+                          {{ .Content }}
+                          {{ partial "participants-all.html" . }}
+                        </div>
+
+                    </div>
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+
+        <div class="row" id="submit">
+            <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
+                {{ partial "submit.html" . }}
+            </div>
+        </div>
+
+            <!-- Modal -->
+            <div class="modal__container">
+                <div class="speakers__modal-overlay display__none" data-speaker-overlay></div>
+                <div class="speakers__modal display__none" data-speaker-modal>
+                    <img class="speakers__modal-img" src="" data-speaker-modal-img/>
+                    <h3 data-speaker-modal-title></h3>
+                    <p class="bio-caption" data-speakers-modal-bio></p>
+                    <button class="button-close" data-speaker-close></button>
+                </div>
+            </div>
+
+        <!-- /#content -->
+        {{ partial "footer.html" . }}
+        
+    </div>
+    
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

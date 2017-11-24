@@ -24,5 +24,4 @@ We welcome tiny people with big ideas, our youth track will have a soft play are
 
 
 <br>
-<b><p>More faqs will be added once we receive more questions.</p></b>
 

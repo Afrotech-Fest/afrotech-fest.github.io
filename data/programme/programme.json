@@ -1,0 +1,151 @@
+[
+    {
+        "index": 0,
+        "day": "friday",
+        "times": [
+            {
+                "time": "1:00pm",
+                "events": [
+                    {
+                        "event_name": "Opening and registration"
+                    }
+                ]
+            },
+            {
+                "time": "1:45pm",
+                "events": [
+                    {
+                        "event_name": "Welcome Speech"
+                    }
+                ]
+            },
+            {
+                "time": "2:00pm",
+                "events": [
+                    {
+                        "event_name": "Talks, Lightning talks and Workshops"
+                    }
+                ]
+            },
+            {
+                "time": "4:00pm",
+                "events": [
+                    {
+                        "event_name": "Keynote talk"
+                    }
+                ]
+            },
+            {
+                "time": "5:00pm",
+                "events": [
+                    {
+                        "event_name": "Talks, Lightning talks and Workshops"
+                    }
+                ]
+            },
+            {
+                "time": "6:00pm",
+                "events": [
+                    {
+                        "event_name": "Keynote"
+                    }
+                ]
+            },
+            {
+                "time": "8:00pm",
+                "events": [
+                    {
+                        "event_name": "Opening party"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "index": 1,
+        "day": "saturday",
+        "times": [
+            {
+                "time": "10:00am",
+                "events": [
+                    {
+                        "event_name": "Opening and registration"
+                    },
+                    {
+                        "event_name": "Youth track opens"
+                    },
+                    {
+                        "event_name": "Hackathon starts"
+                    }
+                ]
+            },
+            {
+                "time": "10:50am",
+                "events": [
+                    {
+                        "event_name": "Keynote"
+                    }
+                ]
+            },
+            {
+                "time": "11:45am",
+                "events": [
+                    {
+                        "event_name": "Talks, Lightning talks, Workshops"
+                    }
+                ]
+            },
+            {
+                "time": "1:00pm",
+                "events": [
+                    {
+                        "event_name": "Break"
+                    }
+                ]
+            },
+            {
+                "time": "3:00pm",
+                "events": [
+                    {
+                        "event_name": "Keynote"
+                    },
+                    {
+                        "event_name": "Youth track closes"
+                    }
+                ]
+            },
+            {
+                "time": "5:00pm",
+                "events": [
+                    {
+                        "event_name": "The check-in"
+                    }
+                ]
+            },
+            {
+                "time": "6:00pm",
+                "events": [
+                    {
+                        "event_name": "Panel"
+                    }
+                ]
+            },
+            {
+                "time": "7:00pm",
+                "events": [
+                    {
+                        "event_name": "Closing performance"
+                    }
+                ]
+            },
+            {
+                "time": "8:00pm",
+                "events": [
+                    {
+                        "event_name": "Cryptoparty"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,8 +1,6 @@
 {
     "name": "Xana",
-    "image": "img/xana.png",
+    "image": "../img/xana.png",
     "url": "http://xa-na.com/",
     "text": "Xana is a sound designer for film/theatre, live loop musician and installation artist combining data and poetry in their performances. Xana loves to make workshops for young people in order to shape their own narratives. You can often find Xana storytelling/reading or cussing at bits of code"
-
-
 }

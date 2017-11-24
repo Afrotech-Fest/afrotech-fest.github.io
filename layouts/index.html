@@ -16,13 +16,34 @@
                     {{ partial "home.html" . }}
                 </div>
             </div>
-        </div>
+
+
+            </div>
+            <div class="container-fluid">
+                    
+            <div class="row" id="subscribe">
+                    
+                    <div class="col-xs-12 text-center subscribe">
+                            <div class="star-cluster-2">
+                                    <img src="../img/star-cluster-1.svg" alt="">
+                                    </div> 
+                        <a href="https://afrotechfest.us16.list-manage.com/subscribe?u=8d533bb8d6b8b1bf2cbb6c8af&id=eacce53198">
+                            <button type="button" class="subscribe">SIGN UP FOR UPDATES</button>
+                        </a>
+                       
+                    </div>
+                </div>
+</div>
 
         <div class="container-fluid">
             {{ range where .Data.Pages "Section" "=" "sections" }}
             <div class="row" id="{{ .Params.slug }}">
                 <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
-                    {{ .Content }} {{ if isset .Params "id" }} {{ partial .Params.id . }} {{ end }}
+                    {{ .Content }}
+
+                    {{ if isset .Params "id" }}
+                        {{ partial .Params.id . }}
+                    {{ end }}
                 </div>
             </div>
             {{ end }}
