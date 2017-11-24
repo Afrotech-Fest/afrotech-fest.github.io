@@ -25,6 +25,14 @@
     },
     {
         "featured": "false",
+        "name": "Ashley Patricks",
+        "image": "img/participants/ashley-patricks.png",
+        "url": "https://twitter.com/abii_mohamed",
+        "short_bio": "Tech Lead, Lloyds Innovation Labs",
+        "long_bio": "After travelling the world dancing professionally for many years, Ashley decided to use the creative skills he learned from dance and apply them to problem-solving in tech. Graduating at age 33, Ashley soon made his mark, leading the engineering team at the Innovation Labs for the UKs largest bank within three years. He is also a mentor and activist."
+    },
+    {
+        "featured": "false",
         "name": "Erin Burns",
         "image": "img/participants/erin-burns.png",
         "url": "https://twitter.com/camerapop",
@@ -55,4 +63,5 @@
         "short_bio": "Co-founder, Community Growth Ventures (CGV)",
         "long_bio": "Since graduating from De Montfort University with an MSc in Information System Management, Abi has been working for Local Government Shared Services mainly Cambridgeshire and Northamptonshire County Councils, and has been part of their digital end-to-end transformation campaign. As co-founder of Community Growth Ventures, and in her various roles as a mentor and IT consultant, Abi has helped support young entrepreneurs establish businesses and chase their dreams."
     }
+
 ]
