@@ -2,15 +2,14 @@
 <div class="navbar-affixed-top" data-spy="affix" data-offset-top="200">
 
     <div class="navbar navbar-default yamm" role="navigation" id="navbar">
-<div class="container-fluid">
-                    <div class="navbar-header">
-                <a class="navbar-brand home" href="{{.Site.BaseURL }}">
-                        <a class="navbar-brand home" href="{{ .Site.BaseURL }}">
-                                <img src="{{ .Site.BaseURL }}img/site-logo_1.png" width="180px"
-                                alt="{{ .Title }} logo" class="hidden-xs hidden-sm logo">
-                                <img src="{{ .Site.BaseURL }}img/site-small-logo.png" width="100px" alt="{{ .Title }} logo" class="visible-xs visible-sm">
-                                <span class="sr-only">{{ .Title }} - {{ i18n "navHome" }}</span>
-                        </a>
+        <div class="container-fluid">
+            <div class="site__logo-container-small">
+                <a class="site__logo-link-small" href="{{ .Site.BaseURL }}">
+                    <img class="site__logo-img" src="{{ .Site.BaseURL }}img/site-logo.svg">
+                </a>
+            </div>
+            
+            <div class="navbar-header">
                 <div class="navbar-buttons">
                     <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
                       <span class="sr-only">{{ i18n "navToggle" }}</span>
@@ -21,6 +20,12 @@
             <!--/.navbar-header -->
 
             <div class="navbar-collapse collapse" id="navigation">
+
+                <div class="site__logo-container">
+                    <a class="site__logo-link" href="{{ .Site.BaseURL }}">
+                        <img class="site__logo-img" src="{{ .Site.BaseURL }}img/site-logo.svg">
+                    </a>
+                </div>
                 <ul class="nav navbar-nav">
                     {{ range .Site.Menus.main }}
                     <li class="dropdown navigation__item">

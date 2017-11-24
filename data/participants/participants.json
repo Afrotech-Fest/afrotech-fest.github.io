@@ -5,7 +5,7 @@
         "image": "img/participants/alex-fefegha.png",
         "url": "",
         "short_bio": "Product Designer, Comuzi",
-        "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at Comuzi, a small team of builders, thinkers, designers, and explorers using technology to build a better future. Alex is also the creator of the Creative Hustle creativehustle.org"
+        "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at Comuzi, a small team of builders, thinkers, designers, and explorers using technology to build a better future. Alex is also the creator of the Creative Hustle <a href=''>creativehustle.org</a>"
     },
     {
         "featured": "true",
@@ -22,6 +22,14 @@
         "url": "https://twitter.com/kabaros",
         "short_bio": "Software Developer, CodeYourFuture",
         "long_bio": "Mozafar is a software developer from Sudan. He has been working as a software developer for the past 10 years, starting in Khartoum, the Netherlands, London and recently Glasgow. He is a mentor at CodeYourFuture, and one of the founders of its Glasgow branch. CodeYourFuture is a volunteer-run programme that teaches web and mobile development to refugees and asylum seekers with the aim of helping them become junior developers in the UK."
+    },
+    {
+        "featured": "false",
+        "name": "Ashley Patricks",
+        "image": "img/participants/ashley-patricks.png",
+        "url": "https://twitter.com/abii_mohamed",
+        "short_bio": "Tech Lead, Lloyds Innovation Labs",
+        "long_bio": "After travelling the world dancing professionally for many years, Ashley decided to use the creative skills he learned from dance and apply them to problem-solving in tech. Graduating at age 33, Ashley soon made his mark, leading the engineering team at the Innovation Labs for the UKs largest bank within three years. He is also a mentor and activist."
     },
     {
         "featured": "false",
@@ -55,4 +63,5 @@
         "short_bio": "Co-founder, Community Growth Ventures (CGV)",
         "long_bio": "Since graduating from De Montfort University with an MSc in Information System Management, Abi has been working for Local Government Shared Services mainly Cambridgeshire and Northamptonshire County Councils, and has been part of their digital end-to-end transformation campaign. As co-founder of Community Growth Ventures, and in her various roles as a mentor and IT consultant, Abi has helped support young entrepreneurs establish businesses and chase their dreams."
     }
+
 ]
