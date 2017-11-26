@@ -64,6 +64,15 @@
     },
     {
         "featured": "false",
+        "name": "Dawn Duhaney",
+        "image": "img/participants/dawn-duhaney.png",
+        "twitter_handle": "@duhaneydawn",
+        "url_twitter": "https://twitter.com/duhaneydawn",        
+        "short_bio": "Policy Advisor, GDS",
+        "long_bio": "Dawn is a Policy Advisor at the Government Digital Service in the Cabinet Office.  Here, Dawn builds capability so that innovative data science approaches are used to make better decisions in government. Recently, Dawn was featured as ‘One to Watch’ on a list of top black women working in the UK tech industry."
+    },
+    {
+        "featured": "false",
         "name": "Helen Medea",
         "image": "img/participants/helen-medea.png",
         "twitter_handle": "@Alecto101",
