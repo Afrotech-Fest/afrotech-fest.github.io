@@ -27,7 +27,7 @@
 
                     <div class="col-md-10 col-md-offset-1">
 
-                        <div>
+                        <div class="animated fadeIn">
                           {{ .Content }}
                           {{ partial "participants-all.html" . }}
                         </div>
@@ -50,11 +50,12 @@
 
             <!-- Modal -->
             <div class="modal__container">
-                <div class="speakers__modal-overlay display__none" data-speaker-overlay></div>
+                <div class="speakers__modal-overlay display__none" tabindex="-1" data-speaker-overlay></div>
                 <div class="speakers__modal display__none" data-speaker-modal>
                     <img class="speakers__modal-img" src="" data-speaker-modal-img/>
                     <h3 data-speaker-modal-title></h3>
                     <p class="bio-caption" data-speakers-modal-bio></p>
+                    
                     <button class="button-close" data-speaker-close></button>
                 </div>
             </div>
