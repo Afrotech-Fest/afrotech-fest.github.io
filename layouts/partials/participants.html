@@ -11,7 +11,7 @@
                 </div>
                 <h3 class="bio-name">{{ .name }}</h3>
                 <p class="bio-caption">
-                    {{ .short_bio }}
+                {{ safeHTML .short_bio }}
                 </p>
             </li>
         {{ end }}

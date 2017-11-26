@@ -15,11 +15,8 @@
                         {{ .short_bio }}
                     </p>
                     <span class="speakers__long" data-bio>
-                        {{ htmlUnescape .long_bio | safeHTML }} 
-                        
+                        {{ safeHTML .long_bio }} 
                     </span>
-                
-                    
                 </button>
             </li>
         {{ end }}
