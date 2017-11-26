@@ -42,7 +42,7 @@
     speakerButtons.each(function () {
       var $this = $(this)
 
-      var bio = $this.find('[data-bio]')[0].innerText;
+      var bio = $this.find('[data-bio]')[0].innerHTML;
       var imgUrl = $this.find('[data-speaker-img]')[0].src;
       var name = $this.find('[data-speaker-name]')[0].innerText;
 
@@ -84,7 +84,7 @@
     $('[data-speaker-close]').focus();
 
     $('[data-speaker-modal-img]').attr('src', imgUrl);
-    $('[data-speakers-modal-bio]').text(bio);
+    $('[data-speakers-modal-bio]').html(bio);
     $('[data-speaker-modal-title]').text(name);
 
 
