@@ -409,6 +409,12 @@ textarea.form-control{
 
 }
 
+.bio-caption > a.twitter_handle {
+    color: #F83C7A;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
 
 @media(min-width: 480px) {
     .speakers__modal {
@@ -1090,6 +1096,7 @@ button.read-more:focus {
     font-size: 1em;
     padding: 0 20px;
     margin-bottom: 50px;
+    margin-top: -15px;
     white-space: pre-line;
 }
 

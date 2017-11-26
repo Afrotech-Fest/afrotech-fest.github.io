@@ -3,39 +3,44 @@
         "featured": "true",
         "name": "Alex Fefegha",
         "image": "img/participants/alex-fefegha.png",
-        "url": "http://creativehustle.org",
+        "twitter_handle": "@fxfegha",
+        "url_twitter": "https://twitter.com/fxfegha",        
         "short_bio": "Creative Technologist, Comuzi",
-        "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at Comuzi, a small team of builders, thinkers, designers, and explorers using technology to build a better future. Alex is also the creator of the Creative Hustle."
+        "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at <a href='http://comuzi.xyz/'>Comuzi</a>, a small team of builders, thinkers, designers, and explorers using technology to build a better future. Alex is also the creator of the <a href='http://creativehustle.org'>Creative Hustle.</a>"
     },
     {
         "featured": "true",
         "name": "Chisa Nwabara",
         "image": "img/participants/chisa-nwabara.png",
-        "url": "https://twitter.com/chisology",
+        "twitter_handle": "@chisology",
+        "url_twitter": "https://twitter.com/chisology", 
         "short_bio": "Programme Manager, Pivotal London",
-        "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. She has helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs chisology.com"
+        "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. She has helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs <a href='http://chisology.com'>chisology.com</a>"
     },    
     {
         "featured": "true",
         "name": "Mozafar Haider",
         "image": "img/participants/mozafar-haider.png",
-        "url": "https://twitter.com/kabaros",
+        "twitter_handle": "@kabaros",        
+        "url_twitter": "https://twitter.com/kabaros",
         "short_bio": "Software Developer, CodeYourFuture",
-        "long_bio": "Mozafar is a software developer from Sudan. He has been working as a software developer for the past 10 years, starting in Khartoum, the Netherlands, London and recently Glasgow. He is a mentor at CodeYourFuture, and one of the founders of its Glasgow branch. CodeYourFuture is a volunteer-run programme that teaches web and mobile development to refugees and asylum seekers with the aim of helping them become junior developers in the UK."
+        "long_bio": "Mozafar is a software developer from Sudan. He has been working as a software developer for the past 10 years, starting in Khartoum, the Netherlands, London and recently Glasgow. He is a mentor at <a href='https://codeyourfuture.io/'>CodeYourFuture</a>, and one of the founders of its Glasgow branch. CodeYourFuture is a volunteer-run programme that teaches web and mobile development to refugees and asylum seekers with the aim of helping them become junior developers in the UK."
     },
     {
         "featured": "false",
         "name": "Jessica Jordan",
         "image": "img/participants/jessica-jordan.png",
-        "url": "",
+        "twitter_handle": "​@jjordan_dev",        
+        "url_twitter": "https://twitter.com/jjordan_dev",
         "short_bio": "Software Engineer, Simplabs",
-        "long_bio": "Jessica is a Berlin-based software engineer working at simplabs. She is an active member of the Ember.js community as part of the Ember.js Learning Team and as an editor at the Ember.js Times, which highlights updates from the team. She also co-organises the monthly Ember.js meetup group in Berlin. Apart from that, Jessica is a big fan of CSS, art and comics."
+        "long_bio": "Jessica is a Berlin-based software engineer working at <a href='https://simplabs.com/'>simplabs</a>. She is an active member of the Ember.js community as part of the Ember.js Learning Team and as an editor at the Ember.js Times, which highlights updates from the team. She also co-organises the monthly Ember.js meetup group in Berlin. Apart from that, Jessica is a big fan of CSS, art and comics."
     },
     {
         "featured": "false",
         "name": "Loraine James",
         "image": "img/participants/loraine-james.png",
-        "url": "",
+        "twitter_handle": "@LoJamMusic",        
+        "url_twitter": "https://twitter.com/LoJamMusic",
         "short_bio": "Electronic Artist",
         "long_bio": "North London native Loraine is an up and coming electronic artist/ producer. A master at crafting organic textures through inorganic means, she effortlessly blends Electronica and Math rock with whispers of jazz and post-rock all wrapped up in the artists key avant-garde aesthetic and sensibility. With a minimal use of equipment Loraine crafts truly breathtaking textures from relatively simple means, armed only with a Macbook, a MIDI Keyboard and Novation Launchpad."
     },
@@ -43,7 +48,8 @@
         "featured": "false",
         "name": "Ashley Patricks",
         "image": "img/participants/ashley-patricks.png",
-        "url": "https://twitter.com/abii_mohamed",
+        "twitter_handle": "@ash_patricks",
+        "url_twitter": "https://twitter.com/ash_patricks",        
         "short_bio": "Tech Lead, Lloyds Innovation Labs",
         "long_bio": "After travelling the world dancing professionally for many years, Ashley decided to use the creative skills he learned from dance and apply them to problem-solving in tech. Graduating at age 33, Ashley soon made his mark, leading the engineering team at the Innovation Labs for the UKs largest bank within three years. He is also a mentor and activist."
     },
@@ -51,7 +57,8 @@
         "featured": "false",
         "name": "Erin Burns",
         "image": "img/participants/erin-burns.png",
-        "url": "https://twitter.com/camerapop",
+        "twitter_handle": "@camerapop",
+        "url_twitter": "https://twitter.com/camerapop", 
         "short_bio": "Web Developer",
         "long_bio": "Erin tries to answer the question of ‘how can technology bring people together offline and improve lives”. Community drives her passion for technology, web application development and security. To that end, she's developing Extraqueericular, an online platform connecting the LGBTQ+ community to LGBT-friendly services and events. Erin is a tech conference addict, recently attending ThingMonk and Web Summit. The community, opportunities for collaboration, and free flow of ideas are what motivated her career change to tech, and she recently completed an MA in Web Design and Content Planning at the University of Greenwich."
     },
@@ -59,15 +66,17 @@
         "featured": "false",
         "name": "Helen Medea",
         "image": "img/participants/helen-medea.png",
-        "url": "https://twitter.com/Alecto101",
+        "twitter_handle": "@Alecto101",
+        "url_twitter": "https://twitter.com/Alecto101", 
         "short_bio": "Writer and Speaker",
-        "long_bio": "Helen is a writer, speaker, and facilitator. In addition to her day job as a copywriter, she specialises in analysing narratives and characters in popular culture, particularly focusing on what they tell us about sociopolitical topics. She writes at blackfemgeekery.wordpress.com"
+        "long_bio": "Helen is a writer, speaker, and facilitator. In addition to her day job as a copywriter, she specialises in analysing narratives and characters in popular culture, particularly focusing on what they tell us about sociopolitical topics. She writes at <a href='https://blackfemgeekery.wordpress.com'>blackfemgeekery.wordpress.com</a>"
     },
     {
         "featured": "false",
         "name": "Brian Akperi",
         "image": "img/participants/brian-akperi.png",
-        "url": "https://twitter.com/BrianAkperi",
+        "twitter_handle": "@BrianAkperi",
+        "url_twitter": "https://twitter.com/BrianAkperi", 
         "short_bio": "Data Scientist, Qbiz UK",
         "long_bio": "Brian is interested in researching the ethical use of AI and its effects on marginalised groups. It’s important that in this new wave of machine learning-based approaches to solving problems, we make sure we are having a positive impact on people’s lives."
     },
@@ -75,9 +84,10 @@
         "featured": "false",
         "name": "Abi Mohamed",
         "image": "img/participants/abshira-mohamed.png",
-        "url": "https://twitter.com/abii_mohamed",
+        "twitter_handle": "@abii_mohamed",        
+        "url_twitter": "https://twitter.com/abii_mohamed",
         "short_bio": "Co-founder, Community Growth Ventures (CGV)",
-        "long_bio": "Since graduating from De Montfort University with an MSc in Information System Management, Abi has been working for Local Government Shared Services mainly Cambridgeshire and Northamptonshire County Councils, and has been part of their digital end-to-end transformation campaign. As co-founder of Community Growth Ventures, and in her various roles as a mentor and IT consultant, Abi has helped support young entrepreneurs establish businesses and chase their dreams."
+        "long_bio": "Since graduating from De Montfort University with an MSc in Information System Management, Abi has been working for Local Government Shared Services mainly Cambridgeshire and Northamptonshire County Councils, and has been part of their digital end-to-end transformation campaign. As co-founder of <a href='https://cgventures.co/'>Community Growth Ventures</a>, and in her various roles as a mentor and IT consultant, Abi has helped support young entrepreneurs establish businesses and chase their dreams."
     }
 
 ]

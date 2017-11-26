@@ -21,7 +21,7 @@ layout: "about-main"
 <div class="pattern-4">
 <img src="img/svg-patterns/pattern-4.svg" width="100%">
 </div>
-
+</div>
 <h2> WHAT TO EXPECT </h2>
 
 <h3>General programme</h3>
@@ -31,5 +31,4 @@ layout: "about-main"
 
 <p>The Friday programme will close with performances from digital artists and a party, leaving everyone energised and excited for Saturday.</p>
 
-</div>
 
