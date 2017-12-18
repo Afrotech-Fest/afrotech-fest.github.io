@@ -52,6 +52,15 @@
         "url_twitter": "https://twitter.com/LoJamMusic",
         "short_bio": "Electronic Artist",
         "long_bio": "North London native Loraine is an up and coming electronic artist/ producer. A master at crafting organic textures through inorganic means, she effortlessly blends Electronica and Math rock with whispers of jazz and post-rock all wrapped up in the artists key avant-garde aesthetic and sensibility. With a minimal use of equipment Loraine crafts truly breathtaking textures from relatively simple means, armed only with a Macbook, a MIDI Keyboard and Novation Launchpad."
+    }, 
+    {
+        "featured": "false",
+        "name": "Olu Niyi-Awosusi",
+        "image": "img/participants/olu-niyi-awosusi.png",
+        "twitter_handle": "@oluoluoxenfree",        
+        "url_twitter": "https://twitter.com/oluoluoxenfree",
+        "short_bio": "Front-end Developer, BT",
+        "long_bio": "Olu is a front-end developer. They’re passionate about inclusive tech communities, to the point of trying to build one with <a href='https://twitter.com/wildcard_js'>wildcard.js</a>. They are a lover of Javascript, social media, stickers, web comics and flaky pastries."
     },
     {
         "featured": "true",
