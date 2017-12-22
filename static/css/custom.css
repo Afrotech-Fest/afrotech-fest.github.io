@@ -160,6 +160,14 @@ color: inherit;}
     margin-bottom: 0px;
 }
 
+.about__btn {
+    margin-top: 2em;
+}
+
+.about__item {
+    margin-bottom: 3em;
+}
+
 .svg-container {
     overflow: hidden;
     position: absolute;
