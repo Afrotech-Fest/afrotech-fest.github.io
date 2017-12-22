@@ -56,6 +56,10 @@ a:hover, a:focus {
 text-decoration: none;
 color: inherit;}
 
+.atf-center {
+    text-align: center;
+}
+
 .white {
     color: #fff;
 }
@@ -137,7 +141,8 @@ color: inherit;}
     min-height: 500px;
 }
 
-#participants {
+#participants,
+#installations {
     background-color: #FBF7EE ;    
 }
 
@@ -186,9 +191,8 @@ color: inherit;}
     width: 60%;
 }
 
-
-
-#home h3 {
+#home h3,
+.subheading--black {
     color: #061A25;
     font-family: Futura, Arial, sans-serif;
 	font-weight: bold;
@@ -463,13 +467,11 @@ textarea.form-control{
     height: 15em;
     z-index: -1;
     transform: rotate(180deg);
-    
-    
 }
 
-
 .installations__wrapper {
-    margin-top: 2em;
+    width: 83.33333333%;
+    margin: 1em auto 5em;
 }
 
 .installations__list {
@@ -477,37 +479,62 @@ textarea.form-control{
     flex-direction: row;
     flex-wrap: wrap;
     align-items: flex-start;
-    max-width: 1000px;
     margin: 0 auto;
     padding: 0;
 }
 
-
 .installations__list-item {
     list-style-type: none;
     width: 100%;
-    max-width: 450px;
     padding: 0 1em;
-    margin: 0 auto;
-}
-.subtitles {
-    font-size: 0.9em;
+    margin: 0 auto 1em;
+    text-align: center;
 }
 
 @media (min-width: 768px) {
     .installations__list-item {
-        width: 50%;
+        text-align: left;
         margin: 0;
     }
 }
 
+.installations__content {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 768px) {
+    .installations__content {
+        flex-direction: row;
+    }
+}
+
+.subtitles {
+    font-size: 0.9em;
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .subtitles {
+        width: 70%;
+    }
+}
+
 .installations__img-container {
-    margin-bottom: .5em;
+    width: 100%;
+    margin-top: 1em;
+}
+
+@media (min-width: 768px) {
+    .installations__img-container {
+        width: 30%;
+        margin-top: 0;
+        margin-left: 2em;
+    }
 }
 
 .installations__img {
     width: 100%;
-    margin-top: 20px
 }
 
 .overflow-hidden {
@@ -644,7 +671,7 @@ textarea.form-control{
     width: 100%;
     z-index: 2;
     text-align: center;
-    box-shadow: 15px 5px 15px 5px rgba(77, 77, 77, 0.7);
+    box-shadow: 0px 5px 15px 5px rgba(77, 77, 77, 0.7);
 }
 
 .buy-tickets__btn-container {
