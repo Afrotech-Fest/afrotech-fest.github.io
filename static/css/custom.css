@@ -719,6 +719,12 @@ textarea.form-control{
     }
 }
 
+@media(min-width: 1200px){
+    .navigation__item {
+        font-size: 1.2em;
+    }
+}
+
 .buy-tickets__btn-container--mobile {
     position: fixed;
     background-color: #4FF0D6;
