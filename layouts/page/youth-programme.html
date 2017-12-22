@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+<body>
+
+    <div id="all">
+
+        <header>
+
+            {{ partial "nav.html" . }}
+
+        </header>
+
+        <div class="container-fluid">
+            <div class="row" id="speaker-header">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 speaker-header">
+                    <h1 class="white">YOUTH PROGRAMME</h1>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack atf-center">
+                    {{ .Content }}
+                </div>
+            </div>
+         </div>
+
+        <div class="container-fluid">
+
+            <div class="row atf-bgcolor--gray">
+
+                <div class="col-md-10 col-md-offset-1">
+
+                    <div class="youth-programme__info">
+                        <h3 class="subheading--black">
+                            Who's Involved
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper quam vitae elit bibendum aliquam. Nunc scelerisque lacus in vehicula consectetur.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper quam vitae elit bibendum aliquam. Nunc scelerisque lacus in vehicula consectetur. </p>
+                    </div>
+
+                </div>
+                <div class="col-md-10 col-md-offset-1">
+
+                    <div>
+                        {{ partial "youth-participants-all.html" . }}
+                    </div>
+
+                </div>
+
+            </div>
+                    <!-- /.row -->
+
+
+            <div class="row" id="youth-programme">
+
+                <div class="about-svg-1"></div>
+                {{ partial "youth-events.html" . }}
+
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+
+        </div>
+
+            <!-- Modal -->
+            <div class="modal__container">
+                <div class="speakers__modal-overlay display__none" data-speaker-overlay></div>
+                <div class="speakers__modal display__none" data-speaker-modal>
+                    <img class="speakers__modal-img" src="" data-speaker-modal-img/>
+                    <h3 data-speaker-modal-title></h3>
+                    <p class="bio-caption" data-speakers-modal-bio></p>
+                    <button class="button-close" data-speaker-close></button>
+                </div>
+            </div>
+
+            {{ partial "footer.html" . }}
+            
+        </div>
+
+        <!-- /#content -->
+
+
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+</body>
+
+</html>

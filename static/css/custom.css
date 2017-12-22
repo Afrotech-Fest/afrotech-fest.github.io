@@ -60,6 +60,10 @@ color: inherit;}
     text-align: center;
 }
 
+.atf-bgcolor--gray {
+    background-color: #c9c9c9;
+}
+
 .white {
     color: #fff;
 }
@@ -467,6 +471,16 @@ textarea.form-control{
     height: 15em;
     z-index: -1;
     transform: rotate(180deg);
+}
+
+.youth-programme__info {
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .youth-programme__info {
+        width: 80%;
+    }
 }
 
 .installations__wrapper {
