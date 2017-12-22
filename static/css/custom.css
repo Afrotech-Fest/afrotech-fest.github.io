@@ -1076,7 +1076,14 @@ button.read-more {
     font-size: 1.3em;
     padding: 10px 20px;
     color: #061A25;
+}
 
+.read-more--light {
+    background-color: transparent;
+    border: 2px solid #fff;
+    font-size: 1.3em;
+    padding: 10px 20px;
+    color: #061A25; 
 }
 
 button.read-more:hover,
