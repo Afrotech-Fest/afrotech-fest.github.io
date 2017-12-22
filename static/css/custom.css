@@ -64,6 +64,10 @@ color: inherit;}
     background-color: #c9c9c9;
 }
 
+.atf-bgcolor--dark {
+    background-color: #061a25;
+}
+
 .white {
     color: #fff;
 }
@@ -662,6 +666,41 @@ textarea.form-control{
     .programme__event-group .programme__event-container:last-child {
         margin-right: 0;
     }
+}
+
+.programme-parties__content {
+    display: flex;
+    flex-direction: column;
+}
+
+@media(min-width: 768px){
+    .programme-parties__content {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+
+.programme-parties__text {
+    width: 100%;
+    margin: 2em 0;
+}
+
+.programme-parties__text:first-child {
+    margin: 0 0 2em;
+}
+
+@media(min-width: 768px){
+    .programme-parties__text {
+        width: 60%;
+    }
+}
+
+.programme-parties__img-container {
+    max-width: 300px;
+}
+
+.programme-parties__img {
+    width: 100%;
 }
 
 @media(min-width: 768px){
