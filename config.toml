@@ -1,4 +1,4 @@
-baseurl = "https://develop-atf.netlify.com/"
+baseurl = "https://www.afrotechfest.co.uk/"
 languageCode = "en"
 title = "Afrotech Fest 2018"
 defaultContentLanguage = "en"
@@ -100,3 +100,5 @@ googleAnalytics = "UA-106843029-1"
 
 [params.buy]
     url = "https://ti.to/afrotech-fest/2018"
+
+

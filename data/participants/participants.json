@@ -1,33 +1,73 @@
 [
     {
-        "featured": "true",
+        "featured": "false",
         "name": "Alex Fefegha",
         "image": "img/participants/alex-fefegha.png",
-        "url": "",
-        "short_bio": "Product Designer, Comuzi",
-        "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at Comuzi, a small team of builders, thinkers, designers, and explorers using technology to build a better future. Alex is also the creator of the Creative Hustle <a href=''>creativehustle.org</a>"
-    },
-    {
-        "featured": "true",
-        "name": "Chisa Nwabara",
-        "image": "img/participants/chisa-nwabara.png",
-        "url": "https://twitter.com/chisology",
-        "short_bio": "Programme Manager, Pivotal London",
-        "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. She has helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs chisology.com"
-    },
-    {
-        "featured": "true",
-        "name": "Mozafar Haider",
-        "image": "img/participants/mozafar-haider.png",
-        "url": "https://twitter.com/kabaros",
-        "short_bio": "Software Developer, CodeYourFuture",
-        "long_bio": "Mozafar is a software developer from Sudan. He has been working as a software developer for the past 10 years, starting in Khartoum, the Netherlands, London and recently Glasgow. He is a mentor at CodeYourFuture, and one of the founders of its Glasgow branch. CodeYourFuture is a volunteer-run programme that teaches web and mobile development to refugees and asylum seekers with the aim of helping them become junior developers in the UK."
+        "twitter_handle": "@fxfegha",
+        "url_twitter": "https://twitter.com/fxfegha",        
+        "short_bio": "Creative Technologist, Comuzi",
+        "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at <a href='http://comuzi.xyz/'>Comuzi</a>, a small team of builders, thinkers, designers, and explorers using technology to build a better future. Alex is also the creator of the <a href='http://creativehustle.org'>Creative Hustle.</a>"
     },
     {
         "featured": "false",
+        "name": "Chisa Nwabara",
+        "image": "img/participants/chisa-nwabara.png",
+        "twitter_handle": "@chisology",
+        "url_twitter": "https://twitter.com/chisology", 
+        "short_bio": "Programme Manager, Pivotal London",
+        "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. She has helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs <a href='http://chisology.com'>chisology.com</a>"
+    },    
+    {
+        "featured": "false",
+        "name": "Mozafar Haider",
+        "image": "img/participants/mozafar-haider.png",
+        "twitter_handle": "@kabaros",        
+        "url_twitter": "https://twitter.com/kabaros",
+        "short_bio": "Software Developer, CodeYourFuture",
+        "long_bio": "Mozafar is a software developer from Sudan. He has been working as a software developer for the past 10 years, starting in Khartoum, the Netherlands, London and recently Glasgow. He is a mentor at <a href='https://codeyourfuture.io/'>CodeYourFuture</a>, and one of the founders of its Glasgow branch. CodeYourFuture is a volunteer-run programme that teaches web and mobile development to refugees and asylum seekers with the aim of helping them become junior developers in the UK."
+    },  
+    {
+        "featured": "true",
+        "name": "Sentayhu M Ali",
+        "image": "img/participants/sentayhu-m-ali.png",
+        "twitter_handle": "@jo_sentayhu",        
+        "url_twitter": "https://twitter.com/jo_sentayhu",
+        "short_bio": "Full Stack Developer, Financial Times",
+        "long_bio": "My name is Sentayhu and where I come from in Ethiopia it means 'one who has seen a lot'. I graduated from <a href='https://codeyourfuture.io/'>CodeYourFuture</a> - the coding school for refugees and asylum seekers in the UK and now I work as a Full Stack software developer at the Financial Times. "
+    },
+    {
+        "featured": "true",
+        "name": "Jessica Jordan",
+        "image": "img/participants/jessica-jordan.png",
+        "twitter_handle": "​@jjordan_dev",        
+        "url_twitter": "https://twitter.com/jjordan_dev",
+        "short_bio": "Software Engineer, Simplabs",
+        "long_bio": "Jessica is a Berlin-based software engineer working at <a href='https://simplabs.com/'>simplabs</a>. She is an active member of the Ember.js community as part of the Ember.js Learning Team and as an editor at the Ember.js Times, which highlights updates from the team. She also co-organises the monthly Ember.js meetup group in Berlin. Apart from that, Jessica is a big fan of CSS, art and comics."
+    },
+    {
+        "featured": "false",
+        "name": "Loraine James",
+        "image": "img/participants/loraine-james.png",
+        "twitter_handle": "@LoJamMusic",        
+        "url_twitter": "https://twitter.com/LoJamMusic",
+        "short_bio": "Electronic Artist",
+        "long_bio": "North London native Loraine is an up and coming electronic artist/ producer. A master at crafting organic textures through inorganic means, she effortlessly blends Electronica and Math rock with whispers of jazz and post-rock all wrapped up in the artists key avant-garde aesthetic and sensibility. With a minimal use of equipment Loraine crafts truly breathtaking textures from relatively simple means, armed only with a Macbook, a MIDI Keyboard and Novation Launchpad."
+    }, 
+    {
+        "featured": "false",
+        "name": "Olu Niyi-Awosusi",
+        "image": "img/participants/olu-niyi-awosusi.png",
+        "twitter_handle": "@oluoluoxenfree",        
+        "url_twitter": "https://twitter.com/oluoluoxenfree",
+        "short_bio": "Front-end Developer, BT",
+        "long_bio": "Olu is a front-end developer. They’re passionate about inclusive tech communities, to the point of trying to build one with <a href='https://twitter.com/wildcard_js'>wildcard.js</a>. They are a lover of Javascript, social media, stickers, web comics and flaky pastries."
+    },
+    {
+        "featured": "true",
         "name": "Ashley Patricks",
         "image": "img/participants/ashley-patricks.png",
-        "url": "https://twitter.com/abii_mohamed",
+        "twitter_handle": "@ash_patricks",
+        "url_twitter": "https://twitter.com/ash_patricks",        
         "short_bio": "Tech Lead, Lloyds Innovation Labs",
         "long_bio": "After travelling the world dancing professionally for many years, Ashley decided to use the creative skills he learned from dance and apply them to problem-solving in tech. Graduating at age 33, Ashley soon made his mark, leading the engineering team at the Innovation Labs for the UKs largest bank within three years. He is also a mentor and activist."
     },
@@ -35,23 +75,35 @@
         "featured": "false",
         "name": "Erin Burns",
         "image": "img/participants/erin-burns.png",
-        "url": "https://twitter.com/camerapop",
+        "twitter_handle": "@camerapop",
+        "url_twitter": "https://twitter.com/camerapop", 
         "short_bio": "Web Developer",
         "long_bio": "Erin tries to answer the question of ‘how can technology bring people together offline and improve lives”. Community drives her passion for technology, web application development and security. To that end, she's developing Extraqueericular, an online platform connecting the LGBTQ+ community to LGBT-friendly services and events. Erin is a tech conference addict, recently attending ThingMonk and Web Summit. The community, opportunities for collaboration, and free flow of ideas are what motivated her career change to tech, and she recently completed an MA in Web Design and Content Planning at the University of Greenwich."
     },
     {
-        "featured": "false",
-        "name": "Helen Medea",
-        "image": "img/participants/helen-medea.png",
-        "url": "https://twitter.com/Alecto101",
-        "short_bio": "Writer and Speaker",
-        "long_bio": "Helen is a writer, speaker, and facilitator. In addition to her day job as a copywriter, she specialises in analysing narratives and characters in popular culture, particularly focusing on what they tell us about sociopolitical topics. She writes at blackfemgeekery.wordpress.com"
+        "featured": "true",
+        "name": "Dawn Duhaney",
+        "image": "img/participants/dawn-duhaney.png",
+        "twitter_handle": "@duhaneydawn",
+        "url_twitter": "https://twitter.com/duhaneydawn",        
+        "short_bio": "Policy Advisor, Government Digital Service",
+        "long_bio": "Dawn is a Policy Advisor at the Government Digital Service in the Cabinet Office.  Here, Dawn builds capability so that innovative data science approaches are used to make better decisions in government. Recently, Dawn was featured as ‘One to Watch’ on a list of top black women working in the UK tech industry."
     },
     {
         "featured": "false",
+        "name": "Helen Gould",
+        "image": "img/participants/helen-medea.png",
+        "twitter_handle": "@Alecto101",
+        "url_twitter": "https://twitter.com/Alecto101", 
+        "short_bio": "Writer and Speaker",
+        "long_bio": "Helen is a writer, speaker, and facilitator. In addition to her day job as a copywriter, she specialises in analysing narratives and characters in popular culture, particularly focusing on what they tell us about sociopolitical topics. She writes at <a href='https://blackfemgeekery.wordpress.com'>blackfemgeekery.wordpress.com</a>"
+    },
+    {
+        "featured": "true",
         "name": "Brian Akperi",
         "image": "img/participants/brian-akperi.png",
-        "url": "https://twitter.com/BrianAkperi",
+        "twitter_handle": "@BrianAkperi",
+        "url_twitter": "https://twitter.com/BrianAkperi", 
         "short_bio": "Data Scientist, Qbiz UK",
         "long_bio": "Brian is interested in researching the ethical use of AI and its effects on marginalised groups. It’s important that in this new wave of machine learning-based approaches to solving problems, we make sure we are having a positive impact on people’s lives."
     },
@@ -59,9 +111,28 @@
         "featured": "false",
         "name": "Abi Mohamed",
         "image": "img/participants/abshira-mohamed.png",
-        "url": "https://twitter.com/abii_mohamed",
+        "twitter_handle": "@abii_mohamed",        
+        "url_twitter": "https://twitter.com/abii_mohamed",
         "short_bio": "Co-founder, Community Growth Ventures (CGV)",
-        "long_bio": "Since graduating from De Montfort University with an MSc in Information System Management, Abi has been working for Local Government Shared Services mainly Cambridgeshire and Northamptonshire County Councils, and has been part of their digital end-to-end transformation campaign. As co-founder of Community Growth Ventures, and in her various roles as a mentor and IT consultant, Abi has helped support young entrepreneurs establish businesses and chase their dreams."
+        "long_bio": "Since graduating from De Montfort University with an MSc in Information System Management, Abi has been working for Local Government Shared Services mainly Cambridgeshire and Northamptonshire County Councils, and has been part of their digital end-to-end transformation campaign. As co-founder of <a href='https://cgventures.co/'>Community Growth Ventures</a>, and in her various roles as a mentor and IT consultant, Abi has helped support young entrepreneurs establish businesses and chase their dreams."
+    },    
+    {
+        "featured": "true",
+        "name": "Yovanka Perdigao",
+        "image": "img/participants/yovanka-perdigao.png",
+        "twitter_handle": "@yova_nka",        
+        "url_twitter": "https://twitter.com/yova_nka",
+        "short_bio": "Writer, Terra Crioula",
+        "long_bio": "Yovanka Paquete Perdigao is a Bissau-Guinean writer, editor and translator based in London. Her poetry has been published in Brittle Paper, her translations in Jalada and her writing in the Guardian, AFREADA, English Pen. She is also the founder of <a href='https://terracrioula.com/'>Terra Crioula</a>, a literary magazine for Portuguese African writers."
+    },
+    {
+        "featured": "false",
+        "name": "Chi-chi Ekweozor",
+        "image": "img/participants/chi-chi.png",
+        "twitter_handle": "@thisischichi",        
+        "url_twitter": "https://twitter.com/thisischichi",
+        "short_bio": "Lead Developer, Assenty",
+        "long_bio": "Chi-chi Ekweozor is the founder and lead developer at social Q&A startup <a href='https://assenty.com/'>Assenty</a>. A former social media marketer turned software engineer, and one of a handful of UK tech female founders, she is a passionate believer in the power of technology to raise aspirations of girls and young people worldwide."
     }
 
 ]

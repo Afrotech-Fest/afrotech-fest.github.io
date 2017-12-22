@@ -11,13 +11,15 @@
                         <img src="/{{ .image }}" alt="{{ .name }}" class="speakers__img" data-speaker-img />
                     </div>
                     <h3 data-speaker-name>{{ .name }}</h3>
+                    
                     <p class="team-caption">
                         {{ .short_bio }}
                     </p>
                     <span class="speakers__long" data-bio>
-                        {{ htmlUnescape .long_bio | safeHTML }}
+                        <a href="{{ .url_twitter }}" class="twitter_handle">{{ .twitter_handle }}</a>
+                            
+                        {{ safeHTML .long_bio }} 
                     </span>
-
                 </button>
             </li>
         {{ end }}
@@ -27,6 +29,6 @@
 {{ end }}
 
 
-        <p style="font-size: 1.5em" class="center"><b>More speakers to be announced.</b></p>
+        <p style="font-size: 1.5em" class="center"><b>More participants to be announced.</b></p>
         
 

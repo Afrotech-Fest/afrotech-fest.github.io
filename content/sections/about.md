@@ -11,10 +11,7 @@ weight: 2
 
 <p>Afrotech Fest is a two-day tech and digital festival by and for black people of African and Caribbean heritage. The festival won’t replicate models for tech events, festivals and conferences that currently exist. It will instead explore where technology meets the arts, history, news, activism and representation. Afrotech Fest provides a space where people across a variety of backgrounds can imagine a future that’s free of the problems of the present.</p>
 
-
-
-
-    <a href="/about-main"><button type="button" class="read-more mt-50">READ MORE</button></a>
+<a href="/about-main"><button type="button" class="read-more mt-50">READ MORE</button></a>
 
 </div>
 
