@@ -1,0 +1,27 @@
+{{ $speakers := getJSON "data/participants/planets.json" }}
+
+{{ if gt (len .Site.Data.participants) 0 }}
+<div class="speakers-container">
+    <ul class="speakers__list">
+
+        {{ range $speakers }}
+            <li class="speakers__item" title="{{ .name }}">
+                <button class="speakers__more" data-speaker-button>
+                    <div class="speakers__img-container">
+                        <img src="/{{ .image }}" alt="{{ .name }}" class="speakers__img" data-speaker-img />
+                    </div>
+                    <h3 data-speaker-name>{{ .name }}</h3>
+                    <p class="team-caption">
+                        {{ .short_bio }}
+                    </p>
+                    <span class="speakers__long" data-bio>
+                        {{ htmlUnescape .long_bio | safeHTML }}
+                    </span>
+
+                </button>
+            </li>
+        {{ end }}
+
+    </ul>
+</div>
+{{ end }}

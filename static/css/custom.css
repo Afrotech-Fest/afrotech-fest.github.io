@@ -64,12 +64,26 @@ color: inherit;}
     background-color: #c9c9c9;
 }
 
+
+.atf-bgcolor--light-green {
+    background-color: #E0ED3A;
+}
+
+.atf-bgcolor--pink {
+    background-color: #F83C7A;
+}
+
+.atf-bgcolor--teal {
+    background-color: #4FF0D6;
+}
+
+
 .atf-bgcolor--dark {
     background-color: #061a25;
 }
 
 .white {
-    color: #fff;
+    color: #fff !important;
 }
 .stack {
     z-index: 2;

@@ -1,17 +1,23 @@
 [
-    {
-        "name": "TECH FAIR",
-        "image": "../img/tech-fair.png",
-        "description": "Our tech fair will showcase inventions from young people from schools and youth groups as well as curious bedroom inventors. Those whose bold ideas leap off the paper, who take things apart to see what is inside and who have a burning desire to change how the world works."
-    },
+
     {
         "name": "WORKSHOPS",
-        "image": "../img/workshop.png",
         "description": "We have connected with exciting community groups who are bringing us some fun and challenging workshops. They’ll be exploring topics from from robotics to text-based gaming to data visualisation through sound, all with the help of kits donated from our supporters."
     },
     {
         "name": "MAKING STATIONS",
-        "image": "../img/workstation.png",
         "description": "For young people from age 4 all the way up to 18, with each station holding a special place for any young person who sees themself artist, builder, community organiser, developer, educator or maybe all five. We have connected with community groups who are bringing us some fun and challenging workshops, exploring topics from from robotics to data to life through sound."
+    },
+    {
+        "name": "TECH FAIR",
+        "description": "Our tech fair will showcase inventions from young people from schools and youth groups as well as curious bedroom inventors. Those whose bold ideas leap off the paper, who take things apart to see what is inside and who have a burning desire to change how the world works."
+    },
+    {
+        "name": "INSTALLATIONS",
+        "description": "Our tech fair will showcase inventions from young people from schools and youth groups as well as curious bedroom inventors. Those whose bold ideas leap off the paper, who take things apart to see what is inside and who have a burning desire to change how the world works."
+    },
+    {
+        "name": "JOIN A CONSTELLATION",
+        "description": "Our tech fair will showcase inventions from young people from schools and youth groups as well as curious bedroom inventors. Those whose bold ideas leap off the paper, who take things apart to see what is inside and who have a burning desire to change how the world works."
     }
 ]

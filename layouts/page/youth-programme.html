@@ -16,44 +16,49 @@
         <div class="container-fluid">
             <div class="row" id="speaker-header">
                 <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 speaker-header">
+                    
                     <h1 class="white">YOUTH PROGRAMME</h1>
                 </div>
             </div>
 
         </div>
 
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
-                    {{ .Content }}
-                </div>
-            </div>
-         </div>
+
 
         <div class="container-fluid">
 
-            <div class="row atf-bgcolor--gray">
+            <div class="row atf-bgcolor--teal">
 
+                
                 <div class="col-md-10 col-md-offset-1">
 
-                    <div class="youth-programme__info">
-                        <h3 class="subheading--black">
-                            Who's Involved
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper quam vitae elit bibendum aliquam. Nunc scelerisque lacus in vehicula consectetur.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper quam vitae elit bibendum aliquam. Nunc scelerisque lacus in vehicula consectetur. </p>
+                    <div class="youth-programme__info ">
+                        <h2>
+                            WHO'S INVOLVED
+                        </h2>
+                        <p>Youth workshops and hackathons will be organised and facilitated by Xana and workshop facilitators will include people such as Tolu from Coders of Colour (@codersofcolour), South London Raspberry Jam and more to be announced.</p>
                     </div>
 
                 </div>
                 <div class="col-md-10 col-md-offset-1">
 
                     <div>
+
                         {{ partial "youth-participants-all.html" . }}
                     </div>
 
                 </div>
 
             </div>
+
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
+                        {{ .Content }}
+                    </div>
+                </div>
+             </div>
+
                     <!-- /.row -->
 
 

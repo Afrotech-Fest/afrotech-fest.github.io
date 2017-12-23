@@ -4,16 +4,10 @@ slug: "programme"
 layout: "programme"
 ---
 
-<h3>General Programme</h3>
+<h2>WHAT TO EXPECT</h2>
 <p>
-    Our youth track empowers young black techies to travel in many lanes. It includes a tech fair
-    and making stations, and well as workshops on coding, robotics. We’ll also have dozens of
-    free kits from our supporters Makey Makey and Micro:bit. As we get closer to the festival,
-    even more exciting elements will be announced!
+Friday afternoon and Saturday will feature a range of facilitated workshops to allow attendees to explore their interests or learn something new, be it a new technology or the unique work black people are doing with tech. Alongside the workshops, Afrotech Fest’s impressive line-up of speakers will be delivering talks sharing their unique perspective on the tech world and what they’re doing with technologies they use.
+
+The Friday programme will close with performances from digital artists and a party, leaving everyone energised and excited for Saturday.
 </p>
-<p>
-    Our youth track empowers young black techies to travel in many lanes. It includes a tech fair
-    and making stations, and well as workshops on coding, robotics. We’ll also have dozens of
-    free kits from our supporters Makey Makey and Micro:bit. As we get closer to the festival,
-    even more exciting elements will be announced!
-</p>
+

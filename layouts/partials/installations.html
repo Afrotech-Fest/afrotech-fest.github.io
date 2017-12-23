@@ -8,7 +8,8 @@
             <li class="installations__list-item">
                 <h3 class="subheading--black">{{ .name }}</h4>
                 <div class="installations__content">
-                    <p class="subtitles">{{ .description }}</p>
+                    <p class="subtitles">{{ safeHTML .description }}</p>
+
                     <div class="installations__img-container">
                         <img class="installations__img" src="{{ .image }}" alt="{{ .name }}"/>
                     </div>

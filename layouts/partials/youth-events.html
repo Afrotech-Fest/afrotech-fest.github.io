@@ -4,14 +4,61 @@
 <div class="installations__wrapper">
     <ul class="installations__list">
 
-        {{ range $installations }}
+    {{ range first 1 $installations }}
             <li class="installations__list-item">
-                <h3 class="subheading--black">{{ .name }}</h4>
+                <h3>{{ .name }}</h3>
                 <div class="installations__content">
-                    <p class="subtitles">{{ .description }}</p>
-                    <div class="installations__img-container">
-                        <img class="installations__img" src="{{ .image }}" alt="{{ .name }}"/>
-                    </div>
+                    <p>{{ .description }}</p>
+                
+                </div>
+            </li>
+        {{ end }}
+
+        <li class="installations__list-item">
+                <h3>Making station</h3>
+                <div class="installations__content">
+                    <p>For young people from age 4 all the way up to 18, with each station holding a special place for any young person who sees themself artist, builder, community organiser, developer, educator or maybe all five. We have connected with community groups who are bringing us some fun and challenging workshops, exploring topics from from robotics to data to life through sound.</p>
+                </div>
+
+            </li>
+    </ul>
+
+    {{ $speakers := getJSON "data/participants/planets.json" }}
+
+    {{ if gt (len .Site.Data.participants) 0 }}
+    <div class="speakers-container">
+        <ul class="speakers__list">
+    
+            {{ range $speakers }}
+                <li class="speakers__item" title="{{ .name }}">
+                    <button class="speakers__more" data-speaker-button>
+                        <div class="speakers__img-container">
+                            <img src="/{{ .image }}" alt="{{ .name }}" class="speakers__img" data-speaker-img />
+                        </div>
+                        <h3 data-speaker-name>{{ .name }}</h3>
+                        <p class="team-caption">
+                            {{ .short_bio }}
+                        </p>
+                        <span class="speakers__long" data-bio>
+                            {{ htmlUnescape .long_bio | safeHTML }}
+                        </span>
+    
+                    </button>
+                </li>
+            {{ end }}
+    
+        </ul>
+    </div>
+    {{ end }}
+
+            <ul class="installations__list">
+
+        {{ range after 2 $installations }}
+            <li class="installations__list-item">
+                <h3>{{ .name }}</h3>
+                <div class="installations__content">
+                    <p clas>{{ .description }}</p>
+                
                 </div>
             </li>
         {{ end }}

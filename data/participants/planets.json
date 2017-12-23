@@ -1,26 +1,26 @@
 [
     {
         "featured": "true",
-        "name": "Tolu",
+        "name": "Mars",
         "image": "img/participants/alex-fefegha.png",
         "url": "",
-        "short_bio": "Product Designer, Comuzi",
+        "short_bio": "Making Station ages 4–7",
         "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at Comuzi, a small team of builders, thinkers, designers, and explorers using technology to build a better future. Alex is also the creator of the Creative Hustle <a href=''>creativehustle.org</a>"
     },
     {
         "featured": "true",
-        "name": "South London Raspberry Jam",
+        "name": "Moon",
         "image": "img/participants/chisa-nwabara.png",
         "url": "https://twitter.com/chisology",
-        "short_bio": "Programme Manager, Pivotal London",
+        "short_bio": "Making Station ages 8–11",
         "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. She has helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs chisology.com"
     },
     {
         "featured": "true",
-        "name": "Rijole Bitata",
+        "name": "Mercury",
         "image": "img/participants/mozafar-haider.png",
         "url": "https://twitter.com/kabaros",
-        "short_bio": "Software Developer, CodeYourFuture",
+        "short_bio": "Making Station ages 12+",
         "long_bio": "Mozafar is a software developer from Sudan. He has been working as a software developer for the past 10 years, starting in Khartoum, the Netherlands, London and recently Glasgow. He is a mentor at CodeYourFuture, and one of the founders of its Glasgow branch. CodeYourFuture is a volunteer-run programme that teaches web and mobile development to refugees and asylum seekers with the aim of helping them become junior developers in the UK."
     }
 ]
