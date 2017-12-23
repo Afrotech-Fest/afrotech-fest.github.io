@@ -1,6 +1,7 @@
 ---
 title: "Youth Programme"
 slug: "youth-programme"
+layout: "about-main"
 date: 2017-08-09T12:08:23+01:00
 weight: 5
 ---

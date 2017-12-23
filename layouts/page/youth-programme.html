@@ -16,7 +16,7 @@
         <div class="container-fluid">
             <div class="row" id="speaker-header">
                 <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 speaker-header">
-                    
+
                     <h1 class="white">YOUTH PROGRAMME</h1>
                 </div>
             </div>
@@ -29,67 +29,94 @@
 
             <div class="row atf-bgcolor--teal">
 
-                
-                <div class="col-md-10 col-md-offset-1">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-9 mt-10">
 
-                    <div class="youth-programme__info ">
-                        <h2>
-                            WHO'S INVOLVED
-                        </h2>
-                        <p>Youth workshops and hackathons will be organised and facilitated by Xana and workshop facilitators will include people such as Tolu from Coders of Colour (@codersofcolour), South London Raspberry Jam and more to be announced.</p>
+
+                            <div class="youth-programme__info">
+                                <h2>
+                                    WHO'S INVOLVED
+                                </h2>
+                                <p>Youth workshops and hackathons will be organised and facilitated by Xana and workshop facilitators
+                                    will include people such as Tolu from Coders of Colour (@codersofcolour), South London
+                                    Raspberry Jam and more to be announced.</p>
+                            </div>
+                        </div>
+
+
                     </div>
 
                 </div>
+
+
                 <div class="col-md-10 col-md-offset-1">
 
                     <div>
 
                         {{ partial "youth-participants-all.html" . }}
                     </div>
-
                 </div>
 
             </div>
+        </div>
 
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
-                        {{ .Content }}
+
+        <div class="container-fluid">
+
+            <div class="row">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 mt-10 stack">
+
+                    <div class="row">
+                        <div class="col-xs-12 col-md-9 mt-10">
+                            {{ .Content }}
+                        </div>
                     </div>
                 </div>
-             </div>
+
+            <!-- /.row -->
+
+
+
+        </div>
+
+        <div class="row">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
+        <div class="row" id="youth-programme">
+                <div class="col-xs-12 col-md-9 mt-10">
+
+                    <div class="about-svg-1"></div>
+                    {{ partial "youth-events.html" . }}
 
                     <!-- /.row -->
-
-
-            <div class="row" id="youth-programme">
-
-                <div class="about-svg-1"></div>
-                {{ partial "youth-events.html" . }}
-
-                <!-- /.row -->
+                </div>
             </div>
+            </div>
+
+        </div>
+
             <!-- /.container -->
 
         </div>
 
-            <!-- Modal -->
-            <div class="modal__container">
-                <div class="speakers__modal-overlay display__none" data-speaker-overlay></div>
-                <div class="speakers__modal display__none" data-speaker-modal>
-                    <img class="speakers__modal-img" src="" data-speaker-modal-img/>
-                    <h3 data-speaker-modal-title></h3>
-                    <p class="bio-caption" data-speakers-modal-bio></p>
-                    <button class="button-close" data-speaker-close></button>
-                </div>
+        <!-- Modal -->
+        <div class="modal__container">
+            <div class="speakers__modal-overlay display__none" data-speaker-overlay></div>
+            <div class="speakers__modal display__none" data-speaker-modal>
+                <img class="speakers__modal-img" src="" data-speaker-modal-img/>
+                <h3 data-speaker-modal-title></h3>
+                <p class="bio-caption" data-speakers-modal-bio></p>
+                <button class="button-close" data-speaker-close></button>
             </div>
-
-            {{ partial "footer.html" . }}
-            
         </div>
 
-        <!-- /#content -->
+        {{ partial "footer.html" . }}
 
+    </div>
+
+    <!-- /#content -->
+
+    </div>
 
     <!-- /#all -->
 
