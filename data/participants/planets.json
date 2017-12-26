@@ -2,25 +2,22 @@
     {
         "featured": "true",
         "name": "Mars",
-        "image": "img/participants/alex-fefegha.png",
-        "url": "",
+        "image": "img/mars.png",
         "short_bio": "Making Station ages 4–7",
-        "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at Comuzi, a small team of builders, thinkers, designers, and explorers using technology to build a better future. Alex is also the creator of the Creative Hustle <a href=''>creativehustle.org</a>"
+        "long_bio": "Ready to explore and full of unknown wonders, this station is for our ever curious techies. We have a range of projects from our supporter TechWillSaveUs, where you can build your own interactive responsive monster or a moving sound system out of play dough (gluten free playground will be provided)."
     },
     {
         "featured": "true",
         "name": "Moon",
-        "image": "img/participants/chisa-nwabara.png",
-        "url": "https://twitter.com/chisology",
+        "image": "img/moon.png",
         "short_bio": "Making Station ages 8–11",
-        "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. She has helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs chisology.com"
+        "long_bio": "Bright and always ready to show us something new, this station is for our on the ball techies. With this station projects include building your first (or maybe second or third?!) computer with Kano, creating a fruity controller to play Pacman on the Makey Makey or perhaps soldering together a D-I-Y gameboy."
     },
     {
         "featured": "true",
         "name": "Mercury",
-        "image": "img/participants/mozafar-haider.png",
-        "url": "https://twitter.com/kabaros",
+        "image": "img/mercury.png",
         "short_bio": "Making Station ages 12+",
-        "long_bio": "Mozafar is a software developer from Sudan. He has been working as a software developer for the past 10 years, starting in Khartoum, the Netherlands, London and recently Glasgow. He is a mentor at CodeYourFuture, and one of the founders of its Glasgow branch. CodeYourFuture is a volunteer-run programme that teaches web and mobile development to refugees and asylum seekers with the aim of helping them become junior developers in the UK."
+        "long_bio": "Under pressure but taking it in your stride, this station is for our critical movers. This station provides more challenging projects with coming to grips with live-coding on Foxdot, soldering and building Mammoths Electronics musical stomp boxes or designing motion sensor artwork with conductive paint."
     }
 ]

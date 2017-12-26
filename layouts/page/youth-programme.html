@@ -15,7 +15,7 @@
 
         <div class="container-fluid">
             <div class="row" id="speaker-header">
-                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 speaker-header">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 speaker-header"> 
 
                     <h1 class="white">YOUTH PROGRAMME</h1>
                 </div>
@@ -25,11 +25,11 @@
 
 
 
-        <div class="container-fluid">
+        <div class="container-fluid animated fadeIn">
 
-            <div class="row atf-bgcolor--teal">
+            <div class="row atf-bgcolor--gradient-blue">
 
-                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 mt-10">
                     <div class="row">
                         <div class="col-xs-12 col-md-9 mt-10">
 
@@ -47,22 +47,21 @@
 
                     </div>
 
-                </div>
 
 
-                <div class="col-md-10 col-md-offset-1">
-
+                <div class="col-md-10 col-md-offset-1 animated fadeIn">
                     <div>
 
                         {{ partial "youth-participants-all.html" . }}
                     </div>
                 </div>
+            </div>
 
             </div>
         </div>
 
 
-        <div class="container-fluid">
+        <div class="container-fluid animated fadeIn">
 
             <div class="row">
                 <div class="col-xs-12 col-md-10 col-md-offset-1 mt-10 stack">
@@ -70,24 +69,50 @@
                     <div class="row">
                         <div class="col-xs-12 col-md-9 mt-10">
                             {{ .Content }}
+
                         </div>
                     </div>
                 </div>
 
             <!-- /.row -->
 
-
-
         </div>
 
         <div class="row">
-                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 ">
         <div class="row" id="youth-programme">
                 <div class="col-xs-12 col-md-9 mt-10">
 
                     <div class="about-svg-1"></div>
                     {{ partial "youth-events.html" . }}
+                    
+                    <p>We want to give young people - you - the chance to connect. So we have six constellations that give us a better idea of what you might like to make or do while your with us. On the day, pick your coloured wristband and find the people in your constellation. </p>
 
+                    <h4 style="color:#F55254;">A FOR THE ARTISTS</h4>
+                    
+                    <p>This track is for young people who are interested in front-end development, graphic design, designing interfaces or music hacking. If you’ve ever dreamed of designing a killer css  animation, creating music out of data or character designs to share with your friends, this is the constellation is for you.</p>
+                    
+                    <h4 style="color:#F68D5D;">B FOR THE BUILDERS</h4>
+                    
+                    <p>This track is for young people who are interested in our ‘bring along your science/tech project’, where you'll exchange ideas and interact with other young peoples projects/inventions. In the tech fair you’ll show your design, development process and what your invention aims to change or create. And if you get frustrated you could always ask for help from the people in your constellation.</p>
+                    
+                    <h4 style="color:#00856C;">C FOR THE COMMUNITY ORGANISERS</h4>
+                    
+                    <p>This track is for young people who are interested in how technology can impact the world around them. We will look at ideas such as privacy, hacktivism, open source structures, accessibility and learn about some of the big ethical issues of our time. You’ll definitely need a lot of people in this constellation.</p>
+                    
+                    <h4 style="color:#43E836;">D FOR THE DEVELOPERS</h4>
+                    
+                    <p>This track is for young people interested in back-end development. Here we’ll cover everything from the basics, github, Java and the command-line through to creating the architecture needed to make your own game or robot. Although any builder or inventor needs extra hands so maybe this is constellation is for you.</p>
+                    
+                    <h4 style="color:#8948EF;">E FOR THE EDUCATORS</h4>
+                    
+                    <p>Parents, teachers, youth group workers and social workers are invited to take part in the youth programme by being taught by the young people themselves, on how to use the kits, interact with inventions and learn new ways of engaging your students or youth group. You want to change the process, this constellation is no joke!</p>
+                    
+                    <h4>I FOR THE INSTIGATOR</h4>
+                    
+                    <p>There is no box for this person. No one colour. They delve into all things and want to work and walk on all paths. We can't wait to meet you! All of you! What a constellation this will be...</p>
+                    
+                    
                     <!-- /.row -->
                 </div>
             </div>
