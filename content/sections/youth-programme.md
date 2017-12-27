@@ -11,7 +11,7 @@ weight: 5
 
 <h2>YOUTH PROGRAMME</h2>
 
-<p>This is a preliminary programme overview, a more detailed schedule will be available closer to the date.</p>
+<p>Our youth track empowers young black techies to travel in many lanes. Young people </p>
 
     <a href="/youth-programme"><button type="button" class="read-more mt-50">EXPLORE</button></a>
 <br>
