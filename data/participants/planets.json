@@ -4,20 +4,20 @@
         "name": "Mars",
         "image": "img/mars.png",
         "short_bio": "Making Station ages 4–7",
-        "long_bio": "Ready to explore and full of unknown wonders, this station is for our ever curious techies. We have a range of projects from our supporter TechWillSaveUs, where you can build your own interactive responsive monster or a moving sound system out of play dough (gluten free playground will be provided)."
+        "long_bio": "Full of unknown wonders and ready to explore, this station is for our ever curious techies. We have a range of projects from our supporter TechWillSaveUs, where you can build your own interactive responsive monster or a moving sound system out of play dough (gluten free playground will be provided)."
     },
     {
         "featured": "true",
         "name": "Moon",
         "image": "img/moon.png",
         "short_bio": "Making Station ages 8–11",
-        "long_bio": "Bright and always ready to show us something new, this station is for our on the ball techies. With this station projects include building your first (or maybe second or third?!) computer with Kano, creating a fruity controller to play Pacman on the Makey Makey or perhaps soldering together a D-I-Y gameboy."
+        "long_bio": "Bright and always ready to show us something new, this station is for our on the ball techies. With this making station projects include building your first computer with Kano, creating a fruity controller to play Pacman on the Makey Makey or perhaps soldering together a D-I-Y gameboy."
     },
     {
         "featured": "true",
         "name": "Mercury",
         "image": "img/mercury.png",
-        "short_bio": "Making Station ages 12+",
-        "long_bio": "Under pressure but taking it in your stride, this station is for our critical movers. This station provides more challenging projects with coming to grips with live-coding on Foxdot, soldering and building Mammoths Electronics musical stomp boxes or designing motion sensor artwork with conductive paint."
+        "short_bio": "Making Station age 12+",
+        "long_bio": "Under pressure but taking it in your stride, this making station is for our critical movers. Providing  more challenging projects such as coming to grips with live-coding on Foxdot, building a computer with a Raspberry Pi, soldering and building Mammoths Electronics musical stomp boxes or designing a motion sensor with conductive paint."
     }
 ]

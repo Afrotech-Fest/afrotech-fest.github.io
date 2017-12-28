@@ -2,17 +2,18 @@
     {
         "featured": "true",
         "name": "Tolu",
-        "image": "img/participants/alex-fefegha.png",
+        "image": "img/participants/tolulope-ogunremi.png",
         "url": "",
-        "short_bio": "Product Designer, Comuzi",
-        "long_bio": "Alex Fefegha is a product designer and creative technologist bridging the gaps between art, design and technology, the physical and the conceptual, virtual and the real worlds. Alex is a partner at Comuzi, a small team of builders, thinkers, designers, and explorers using technology to build a better future. Alex is also the creator of the Creative Hustle <a href=''>creativehustle.org</a>"
+        "short_bio": "Founder, Coders of Colour",
+        "twitter_handle": "@codersofcolour",
+        "long_bio": "Founder of Coders of Colour and a university student. Tolulope has loved technology from a young age and taught herself to code at age 13. After attending several hackathons and tech conferences, she realised that hardly any attendees resembled her. She set up Coders of Colour to show young people of colour that not only do they have the capability to pursue a career in tech, but there are already people in the industry that they can look up to."
     },
     {
         "featured": "true",
         "name": "South London Raspberry Jam",
-        "image": "img/participants/chisa-nwabara.png",
+        "image": "img/participants/grace-owolade-coombes.png",
         "url": "https://twitter.com/chisology",
-        "short_bio": "Programme Manager, Pivotal London",
+        "short_bio": "Role?",
         "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. She has helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs chisology.com"
     },
     {
