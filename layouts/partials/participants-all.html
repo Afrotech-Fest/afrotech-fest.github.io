@@ -16,9 +16,14 @@
                         {{ .short_bio }}
                     </p>
                     <span class="speakers__long" data-bio>
-                        <a href="{{ .url_twitter }}" class="twitter_handle">{{ .twitter_handle }}</a>
-                            
+                        <p><b>{{ safeHTML .item }}</b></p>
+                        <hr>
+
+                        <p style="font-size: 1em;">{{ safeHTML .item_description }}</p> 
+<p  class="about-participant" style="margin-bottom:-10px;">ABOUT {{ .name }}</p>
                         {{ safeHTML .long_bio }} 
+                        <a href="{{ .url_twitter }}" class="twitter_handle">{{ .twitter_handle }}</a>
+
                     </span>
                 </button>
             </li>

@@ -111,15 +111,20 @@
         "featured": "true",
         "name": "Adam Campbell",
         "image": "img/participants/adam-campbell.png",
+        "item": "PANEL: DIVERSITY IN GAMES",
+        "item_description": "Afrotech Fest offers BAME in Games a vital opportunity to engage with the black African and Caribbean community directly and hopefully build relationships with organisations and people beyond the games industry to encourage inclusivity. Games are an exciting medium that offer new ways to tell stories and the panel explores ways people can get involved and may even inspire them to make their own games.",
         "twitter_handle": "@AC_Revolution",
         "url_twitter": "https://twitter.com/AC_Revolution",
         "short_bio": "Game Production Manager, Azoomee",
         "long_bio": "Game Production Manager at Azoomee, Deputy Chair at BAME in Games and recently inaugurated BAFTA member, Adam is a fast rising games industry pro with a career spanning nearly a decade. His range of interests include rich virtual worlds, cutting edge technologies, games with purpose and diverse representation in games."
+
     },
     {
         "featured": "true",
         "name": "Michael Anderson",
         "image": "img/participants/michael-anderson.png",
+        "item": "PANEL: DIVERSITY IN GAMES",
+        "item_description": "Afrotech Fest offers BAME in Games a vital opportunity to engage with the black African and Caribbean community directly and hopefully build relationships with organisations and people beyond the games industry to encourage inclusivity. Games are an exciting medium that offer new ways to tell stories and the panel explores ways people can get involved and may even inspire them to make their own games.",
         "twitter_handle": "@gravykun",
         "url_twitter": "https://twitter.com/gravykun",
         "short_bio": "QA Lead/Produce, ustwo Games",
@@ -129,6 +134,8 @@
         "featured": "true",
         "name": "Chella Ramanan",
         "image": "img/participants/chella-ramanan.png",
+        "item": "PANEL: DIVERSITY IN GAMES",
+        "item_description": "Afrotech Fest offers BAME in Games a vital opportunity to engage with the black African and Caribbean community directly and hopefully build relationships with organisations and people beyond the games industry to encourage inclusivity. Games are an exciting medium that offer new ways to tell stories and the panel explores ways people can get involved and may even inspire them to make their own games.",
         "twitter_handle": "@chellaramanan",
         "url_twitter": "https://twitter.com/chellaramanan",
         "short_bio": "Freelance Video Games Journalist",
@@ -138,6 +145,8 @@
         "featured": "true",
         "name": "Albert Marshall",
         "image": "img/participants/albert-marshall.png",
+        "item": "PANEL: DIVERSITY IN GAMES",
+        "item_description": "Afrotech Fest offers BAME in Games a vital opportunity to engage with the black African and Caribbean community directly and hopefully build relationships with organisations and people beyond the games industry to encourage inclusivity. Games are an exciting medium that offer new ways to tell stories and the panel explores ways people can get involved and may even inspire them to make their own games.",
         "twitter_handle": "",
         "url_twitter": "https://twitter.com/",
         "short_bio": "Founder, Marshall Media",
@@ -216,7 +225,7 @@
         "url_twitter": "https://twitter.com/",
         "short_bio": "",
         "long_bio": ""
-    },
+        },
     {
         "featured": "false",
         "name": "Abi Mohamed",
