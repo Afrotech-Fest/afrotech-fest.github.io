@@ -69,6 +69,11 @@ color: inherit;}
 }
 
 
+.atf-bgcolor--black {
+    background-color: #061A25;
+}
+
+
 .atf-bgcolor--light-green {
     background-color: #E0ED3A;
 }
@@ -367,7 +372,25 @@ textarea.form-control{
     text-align: center;
     width: 100%;
     list-style-type: none;
+    margin-bottom: 2em;
 }
+
+.speakers__item::before{
+    transition: transform .4s ease-out,opacity .4s ease-out;
+    opacity: 0;
+}
+
+[data-animate-in].in-view{
+    opacity:1;
+    transition:transform 3s ease, opacity 1s ease;
+}
+
+[data-animate-in="up"]{
+    opacity:0;
+    transition:transform 1.2s ease, opacity 1s ease
+}
+
+
 
 @media(min-width: 480px) {
     .speakers__item {
@@ -431,10 +454,26 @@ textarea.form-control{
 
 #speaker-header {
     background: url(../img/about-banner.svg) center/cover no-repeat;
-    height: 300px;
+    min-height: 200px;
     background-color: #061A25;    
     
+
 }
+
+#speaker-header-youth {
+    background-image: url(../img/bg-youth.png);
+    background-size: cover;
+	background-position: 75% 75%;
+    background-repeat: no-repeat;
+    min-height: 200px;
+}
+
+@media (min-width: 768px) {
+    #speaker-header-youth, #speaker-header  {
+        height: 300px;
+    }
+}
+
 
 .speaker-header {
     margin-top: 8%;
@@ -612,6 +651,11 @@ textarea.form-control{
     width: 100%;
     margin-top: 1em;
 }
+.installations__img-container-youth {
+    width: 100%;
+    margin-top: 1em;
+    padding-left: 0;
+}
 
 @media (min-width: 768px) {
     .installations__img-container {
@@ -619,6 +663,12 @@ textarea.form-control{
         margin-top: 0;
         margin-left: 2em;
     }
+    .installations__img-container-youth {
+        width: 30%;
+        margin-top: 0;
+        margin-left: 0;
+    }
+
 }
 
 .installations__img {
@@ -640,6 +690,8 @@ textarea.form-control{
 #programme * {
     color: #fff;
 }
+
+
 
 .programme__item {
     margin-bottom: 3em;
@@ -716,6 +768,7 @@ textarea.form-control{
     margin: 0 auto;
     text-align: center;
 }
+
 
 @media (min-width: 768px) {
     .programme__detail-container {
@@ -1009,13 +1062,18 @@ background-color: #fff;
     min-width: 15%;
 }
 
-.pattern-2 {
+.pattern-2, .pattern-2-1 {
     display: block;
     position: absolute;
     top: 10%;
     left: 80%;
     z-index: -1;
     min-width: 15%;
+}
+
+.pattern-2-1 {
+    left: 100%;
+    min-width: 20%;
 }
 
 .pattern-3 img {

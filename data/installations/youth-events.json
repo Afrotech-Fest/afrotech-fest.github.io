@@ -1,8 +1,38 @@
 [
-
     {
         "name": "WORKSHOPS",
-        "description": "We have connected with exciting community groups who are bringing us some fun and challenging workshops. They’ll be exploring topics from from robotics to text-based gaming to data visualisation through sound, all with the help of kits donated from our supporters."
+        "schedule": [
+            {
+                "name": "Rijole Bitata",
+                "time": "10:30am – 11:30am",
+                "title": "Title to come",
+                "description": "Description"
+            },
+            {
+                "name": "Coders of Colour",
+                "time": "11:00am – 12:00pm",
+                "title": "Title to come",
+                "description": "Description"
+            },
+            {
+                "name": "Momo Pixel",
+                "time": "12:30pm – 1:30pm",
+                "title": "Title to come",
+                "description": "Description"
+            },
+            {
+                "name": "Alisha Fisher VR + Architecture",
+                "time": "1:50pm – 2:50pm",
+                "title": "Title to come",
+                "description": "Description"
+            },
+            {
+                "name": "South London Raspberry Jam",
+                "time": "1:50pm – 2:50pm",
+                "title": "Title to come",
+                "description": "Description"
+            }
+        ]
     },
     {
         "name": "MAKING STATIONS",

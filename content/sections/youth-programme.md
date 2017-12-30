@@ -11,7 +11,7 @@ weight: 5
 
 <h2>YOUTH PROGRAMME</h2>
 
-<p>Our youth track empowers young black techies to travel in many lanes. Young people </p>
+<p>Our youth track allows young black techies to travel in many lanes. It includes a tech fair, making stations, coding sessions and dozens of free kits from our supporters Makey Makey and Micro:bit.</p>
 
     <a href="/youth-programme"><button type="button" class="read-more mt-50">EXPLORE</button></a>
 <br>

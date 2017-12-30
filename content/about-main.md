@@ -26,8 +26,7 @@ layout: "about-main"
     <h4>Youth programme</h4>
     <p>
         Our youth track allows young black techies to travel in many lanes. It includes a tech fair, making stations,
-        coding sessions and dozens of free kits from our supporters Makey Makey and Micro:bit. More content to
-        come.
+        coding sessions and dozens of free kits from our supporters Makey Makey and Micro:bit.
     </p>
     <div class="about__btn">
         <a class="btn--cta" href="/youth-programme">

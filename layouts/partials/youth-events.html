@@ -1,66 +1,124 @@
-{{ $installations := getJSON "data/installations/youth-events.json" }}
-
-{{ if gt (len .Site.Data.installations) 0 }}
-    <ul class="installations__list">
+{{ $installations := getJSON "data/installations/youth-events.json" }} {{ if gt (len .Site.Data.installations) 0 }}
+<ul class="installations__list">
 
     {{ range first 1 $installations }}
-            <li class="installations__list-item-youth">
-                <h3>{{ .name }}</h3>
-                <div class="installations__content">
-                    <p>{{ .description }}</p>
-                
-                </div>
-            </li>
-        {{ end }}
+    <li class="installations__list-item-youth">
+        <h3>{{ .name }}</h3>
+        <p>{{ .description }}</p>
 
-        <li class="installations__list-item-youth">
-                <h3>Making station</h3>
-                <div class="installations__content">
-                    <p>For young people from age 4 all the way up to 18, with each station holding a special place for any young person who sees themself artist, builder, community organiser, developer, educator or maybe all five. We have connected with community groups who are bringing us some fun and challenging workshops, exploring topics from from robotics to data to life through sound.</p>
-                </div>
+        <div>
+            {{ range .schedule }}
 
-            </li>
-    </ul>
+            <h4>{{ .name }}</h4>
+            <p>{{ .time }} </p>
+            <p>
+                <b>{{ .title }}</b>
+            </p>
+            <p class="subtitles">{{ .description }} </p>
 
-    {{ $speakers := getJSON "data/participants/planets.json" }}
-
-    {{ if gt (len .Site.Data.participants) 0 }}
-    <div class="speakers-container">
-        <ul class="speakers__list">
-    
-            {{ range $speakers }}
-                <li class="speakers__item" title="{{ .name }}">
-                    <button class="speakers__more" data-speaker-button>
-                        <div class="speakers__img-container">
-                            <img src="/{{ .image }}" alt="{{ .name }}" class="speakers__img" data-speaker-img />
-                        </div>
-                        <h3 data-speaker-name>{{ .name }}</h3>
-                        <p class="team-caption">
-                            {{ .short_bio }}
-                        </p>
-                        <span class="speakers__long" data-bio>
-                            {{ htmlUnescape .long_bio | safeHTML }}
-                        </span>
-    
-                    </button>
-                </li>
             {{ end }}
-    
-        </ul>
-    </div>
+        </div>
+    </li>
+
+
     {{ end }}
 
-            <ul class="installations__list">
+    <li class="installations__list-item-youth">
+        <h3>Making station</h3>
+        <div class="installations__content">
+            <p>For young people from age 4 all the way up to 18, with each station holding a special place for any young person
+                who sees themself artist, builder, community organiser, developer, educator or maybe all five. We have connected
+                with community groups who are bringing us some fun and challenging workshops, exploring topics from from
+                robotics to data to life through sound.</p>
+        </div>
 
-        {{ range after 2 $installations }}
-            <li class="installations__list-item-youth">
-                <h3>{{ .name }}</h3>
-                <div class="installations__content">
-                    <p clas>{{ .description }}</p>
-                
+    </li>
+</ul>
+
+{{ $speakers := getJSON "data/participants/planets.json" }} {{ if gt (len .Site.Data.participants) 0 }}
+<div class="speakers-container">
+    <ul class="speakers__list">
+
+        {{ range $speakers }}
+        <li class="speakers__item" title="{{ .name }}">
+            <button class="speakers__more" data-speaker-button>
+                <div class="speakers__img-container">
+                    <img src="/{{ .image }}" alt="{{ .name }}" class="speakers__img" data-speaker-img />
                 </div>
-            </li>
+                <h3 data-speaker-name>{{ .name }}</h3>
+                <p class="team-caption">
+                    {{ .short_bio }}
+                </p>
+                <span class="speakers__long" data-bio>
+                    {{ htmlUnescape .long_bio | safeHTML }}
+                </span>
+
+            </button>
+        </li>
         {{ end }}
 
     </ul>
+</div>
+{{ end }}
+
+
+
+<ul class="installations__list">
+
+        <li class="installations__list-item-youth">
+            <h3>TECH FAIR</h3>
+            <div class="">
+                <p>Our tech fair opens at 10:30am on Saturday and will showcase inventions from young people all over the UK. Submissions are still open and can be submitted here.</p>
+                <br>
+                <p><span style="background-color: #4FF0D6">&nbsp; Young techies can enter their ideas for the tech fair by <b><a href="https://goo.gl/forms/Ai0vqSPTwyH2trps1">filling out this form</a></b>.&nbsp;</span></p>
+                <p><span style="background-color: #4FF0D6">&nbsp; Download our <a href="http://bit.ly/2o3Ni8N"><b>tech fair guidelines</b></a> for more information.&nbsp;</span></p>
+            </div>
+        </li>
+    
+    </ul>
+
+    <h3>INSTALLATIONS</h3>
+    <p>We have three exciting installations in the youth programme suitable for all ages.</p>
+    <ul class="installations__list">
+            <li class="installations__list-item-youth">
+                        <h4>MOMO PIXEL</h4>
+                        <p class="subtitles">A travel game about a black woman who is tired of people touching her hair.</p>
+                        <div class="installations__img-container-youth">
+                            <img class="installations__img" src="http://d33wubrfki0l68.cloudfront.net/ea408686ba0e9e763aa8073122f63eb5e48490cf/84cef/img/tech-fair.png" alt="TECH FAIR">
+                        </div>
+            </li>
+
+            <li class="installations__list-item-youth">
+                    <h4>KANO</h4>
+                    <p class="subtitles">Create the backdrop to your own game or design your face with pixel art using the Kano app.</p>
+                    <div class="installations__img-container-youth">
+                        <img class="installations__img" src="http://d33wubrfki0l68.cloudfront.net/ea408686ba0e9e763aa8073122f63eb5e48490cf/84cef/img/tech-fair.png" alt="TECH FAIR">
+                    </div>
+        </li>
+        <li class="installations__list-item-youth">
+                <h4>AFROTECH FEST CHARACTERS</h4>
+                <p class="subtitles">Touch our conductive wall to find out the origin stories and the quest of ATF characters. Add your own voice to the journey.</p>
+                <div class="installations__img-container-youth">
+                    <img class="installations__img" src="http://d33wubrfki0l68.cloudfront.net/ea408686ba0e9e763aa8073122f63eb5e48490cf/84cef/img/tech-fair.png" alt="TECH FAIR">
+                </div>
+    </li>
+        
+        </ul>
+
+
+   
+
+<ul class="installations__list">
+
+    {{ range after 4 $installations }}
+    <li class="installations__list-item-youth">
+        <h3>{{ .name }}</h3>
+        <div class="installations__content">
+            <p>{{ .description }}</p>
+
+        </div>
+    </li>
+    {{ end }}
+
+</ul>
 {{ end }}
