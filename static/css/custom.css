@@ -54,7 +54,9 @@ h4 {
 
 a {
 text-decoration: underline;
-color: inherit;}
+color: inherit;
+font-weight: bold;
+}
 
 a:hover, a:focus {
 text-decoration: none;
@@ -87,8 +89,15 @@ color: inherit;}
 }
 
 .atf-bgcolor--gradient-orange {
-    background: linear-gradient(90deg, rgba(253, 116, 108, 1) 0%, rgba(255, 144, 104, 1) 100%);
-}
+        background: -moz-linear-gradient(0% 50% 0deg, rgba(253, 116, 108, 1) 0%, rgba(255, 144, 104, 1) 100%);
+        background: -webkit-linear-gradient(0deg, rgba(253, 116, 108, 1) 0%, rgba(255, 144, 104, 1) 100%);
+        background: -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0, rgba(253, 116, 108, 1)), color-stop(1, rgba(255, 144, 104, 1)));
+        background: -o-linear-gradient(0deg, rgba(253, 116, 108, 1) 0%, rgba(255, 144, 104, 1) 100%);
+        background: -ms-linear-gradient(0deg, rgba(253, 116, 108, 1) 0%, rgba(255, 144, 104, 1) 100%);
+        -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FD746C', endColorstr='#FF9068' ,GradientType=0)";
+        background: linear-gradient(90deg, rgba(253, 116, 108, 1) 0%, rgba(255, 144, 104, 1) 100%);
+        filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#FD746C', endColorstr='#FF9068', GradientType=1);
+    }
 
 .atf-bgcolor--gradient-green {
     background: -moz-linear-gradient(0% 50% 0deg, rgba(224, 237, 58, 1) 0%, rgba(79, 240, 214, 1) 100%);
@@ -115,12 +124,14 @@ color: inherit;}
 
 .atf-bgcolor--gradient-pink {
     background: linear-gradient(90deg, rgba(255, 81, 47, 1) 0%, rgba(221, 36, 118, 1) 100%);
-
-  
 }
 
 .atf-bgcolor--dark {
     background-color: #061a25;
+}
+
+.atf-bgcolor--beige {
+    background-color: #FBF7EE;
 }
 
 .white {
@@ -549,7 +560,9 @@ hr {
 
 .about-participant {
     font-weight: 300;
-    margin-bottom: -20px;
+    margin-top: 15px;
+    font-size: 1.1em;
+    margin-bottom: -15px;
     text-transform: uppercase;
 }
 @media(min-width: 480px) {
@@ -708,7 +721,6 @@ hr {
 #programme * {
     color: #fff;
 }
-
 
 
 .programme__item {
@@ -1343,7 +1355,6 @@ button.read-more--light:focus {
 .bio-caption {
     font-size: 1em;
     padding: 0 20px;
-    margin-bottom: 50px;
     margin-top: -15px;
     white-space: pre-line;
 }

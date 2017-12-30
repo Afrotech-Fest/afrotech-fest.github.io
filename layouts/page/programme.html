@@ -23,12 +23,12 @@
         </div>
 
         <div class="container-fluid animated fadeIn">
-            <div class="row">
+            <div class="row" style="min-height:400px;">
                 <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
                     {{ .Content }}
                 </div>
             </div>
-         </div>
+        </div>
 
         <div class="container-fluid animated fadeIn">
 
@@ -45,27 +45,34 @@
                 </div>
 
             </div>
-                    <!-- /.row -->
+            <!-- /.row -->
 
 
-            <div class="row">
+            <div class="row atf-bgcolor--beige">
 
                 <div class="col-md-10 col-md-offset-1 pb-50" id="parties">
                     <h2>PARTIES</h2>
                     {{ partial "programme-parties.html" . }}
                 </div>
+</div>
+
+<div class="row atf-bgcolor--gradient-orange">
+
+        <div class="col-md-10 col-md-offset-1 pb-50" id="hubs">
+            <h2 class="white">HUBS</h2>
+            {{ partial "hubs.html" . }}
+        </div>
+</div>
 
                 <!-- /.row -->
-            </div>
             <!-- /.container -->
+</div>
 
-        </div>
+        {{ partial "footer.html" . }}
 
-            {{ partial "footer.html" . }}
-            
-        </div>
+    </div>
 
-        <!-- /#content -->
+    <!-- /#content -->
 
 
     <!-- /#all -->
