@@ -61,6 +61,24 @@
     },
     {
         "featured": "false",
+        "name": "Perola Da Cruz",
+        "image": "img/participants/perola-dacruz.png",
+        "twitter_handle": "@perolajanice",
+        "url_twitter": "https://twitter.com/perolajanice",
+        "short_bio": "Software Engineer Apprentice, TalkTalk",
+        "long_bio": "Perola works as a Software Engineer Apprentice at TalkTalk whilst studying towards a Digital and Technology Solutions Degree. She is also the web developer for fashion start-up Noemie Wilson as well as an active blackgirl.tech volunteer, helping black women, girls and non-binary people learn more about technology. "
+    },
+    {
+        "featured": "false",
+        "name": "Erica Dos Santos",
+        "image": "img/participants/erica-dos-santos.png",
+        "twitter_handle": "@EricaDxs",
+        "url_twitter": "https://twitter.com/EricaDxs",
+        "short_bio": "Web Developer",
+        "long_bio": "Erica is a full-time BSc. Computer Science student and freelance Web Developer. She enjoys programming and problem solving. With strengths in Python and Java, Erica constantly learns different languages and libraries to enhance not only her knowledge, but her computing freedom. Understanding a number of languages has allowed Erica to work on a range of projects and gain a better understanding of developing software."
+    },
+    {
+        "featured": "false",
         "name": "Loraine James",
         "image": "img/participants/loraine-james.png",
         "twitter_handle": "@LoJamMusic",
@@ -222,28 +240,28 @@
         "featured": "false",
         "name": "Paris Petgrave",
         "image": "img/participants/paris-petgrave.png",
-        "twitter_handle": "",
-        "url_twitter": "https://twitter.com/",
-        "short_bio": "",
-        "long_bio": ""
+        "twitter_handle": "@ParisPetgrave",
+        "url_twitter": "https://twitter.com/ParisPetgrave",
+        "short_bio": "CEO, We Love Work",
+        "long_bio": "Paris Petgrave is the CEO of We Love Work, an award winning people analytics platform that uses employee data on a company’s organisational culture  to predict performance and fit. She is also the founder and managing partner of Rare Seed Capital, a seed fund which invests in early stage technology companies. Paris is a passionate entrepreneur and advocate for women in tech and entrepreneurship. In 2017  she was listed as the top 100 EMpower leaders in the Financial Times and a Rising Star in the Power list 2018."
     },
     {
         "featured": "false",
         "name": "Temi Lasade-Anderson",
         "image": "img/participants/temi-lasade-anderson.png",
-        "twitter_handle": "",
-        "url_twitter": "https://twitter.com/",
-        "short_bio": "",
-        "long_bio": ""
+        "twitter_handle": "@temilasade",
+        "url_twitter": "https://twitter.com/@temilasade",
+        "short_bio": "Channel Marketing Manager, Mozilla",
+        "long_bio": "Temi is an award-winning marketer, with seven years social strategy and performance marketing experience across agencies, clients and start-ups in EMEA and APAC. Her work experience spans the eCommerce, FMCG, Media, and Tech industries. Temi currently works on Mozilla's Advocacy Media marketing team, working to the keep the internet healthy by educating and mobilising citizens online."
     },
     {
         "featured": "false",
         "name": "Wale Ogundipe",
         "image": "img/participants/wale-ogundipe.png",
-        "twitter_handle": "",
-        "url_twitter": "https://twitter.com/",
-        "short_bio": "",
-        "long_bio": ""
+        "twitter_handle": "@kopasetik",
+        "url_twitter": "https://twitter.com/kopasetik",
+        "short_bio": "Software Developer, Avvo",
+        "long_bio": "Walé Ogundipe is a software developer based in the US. He enjoys cultivating the programming community at large and as co-organizer of SeattleJS."
         },
     {
         "featured": "false",
@@ -271,5 +289,14 @@
         "url_twitter": "https://twitter.com/thisischichi",
         "short_bio": "Lead Developer, Assenty",
         "long_bio": "Chi-chi Ekweozor is the founder and lead developer at social Q&A startup <a href='https://assenty.com/'>Assenty</a>. A former social media marketer turned software engineer, and one of a handful of UK tech female founders, she is a passionate believer in the power of technology to raise aspirations of girls and young people worldwide."
+    },
+    {
+        "featured": "false",
+        "name": "Tara Ojo",
+        "image": "img/participants/tara-ojo.png",
+        "twitter_handle": "@tara_ojo",
+        "url_twitter": "https://twitter.com/tara_ojo",
+        "short_bio": "Software engineer, FutureLearn",
+        "long_bio": "Tara is a software engineer at digital education platform FutureLearn and a noob to the speaking world. Her role as a STEM ambassador allows her to work with young people from diverse backgrounds, inspiring them towards careers in tech."
     }
 ]

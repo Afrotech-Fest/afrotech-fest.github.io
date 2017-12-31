@@ -10,12 +10,20 @@ weight: 4
 
 <h2>PROGRAMME</h2>
 
+<h3>GENERAL</h3>
+
+
 <p>We've put together an exciting programme covering everything from working in games, to exploring possible futures using Wakanda as a touch point. Afrotech Fest offers interactive events across three venue spaces, including talks, workshops, a hackathon and an exciting <a href="/youth-programme">youth track</a> and <a href="/programme/#parties">parties</a> on both nights. Across the space will be hubs where the like-minded can jam, pair programme or just discuss what the possible impacts of AI and machine learning are on the Black community. We hope that everyone who attends finds their people.</p>
 
     <a href="/programme"><button type="button" class="read-more--light mt-50">EXPLORE</button></a>
 <br>
 <br>
 
+<h3>YOUTH</h3>
+<p>Our youth track allows young black techies to travel in many lanes. It includes a tech fair, making stations, coding sessions and dozens of free kits from our supporters Makey Makey and Micro:bit.</p>
+
+
+    <a href="/youth-programme"><button type="button" class="read-more--light mt-50">EXPLORE</button></a>
 
 </div>
 </div>
