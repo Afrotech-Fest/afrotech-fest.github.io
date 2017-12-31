@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+<body>
+
+    <div id="all">
+
+        <header>
+
+            {{ partial "nav.html" . }}
+
+        </header>
+
+        <div class="container-fluid">
+            <div class="row" id="speaker-header">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 speaker-header">
+                    <h1 class="white">INSTALLATIONS</h1>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="container-fluid atf-bgcolor--gradient-pink animated fadeIn">
+            <div class="row">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
+                    {{ .Content }}
+                </div>
+            </div>
+         </div>
+
+        <div class="container-fluid animated fadeIn">
+
+        <div class="row" id="installations">
+
+            <div class="about-svg-1"></div>
+
+            {{ partial "installations.html" . }}
+
+        </div>
+            <!-- /.container -->
+
+        </div>
+
+            {{ partial "footer.html" . }}
+            
+        </div>
+
+        <!-- /#content -->
+
+
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+</body>
+
+</html>

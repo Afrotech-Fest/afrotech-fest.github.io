@@ -3,7 +3,7 @@ title: "Venue"
 slug: "venue"
 id: "venue"
 date: 2017-08-09T12:08:36+01:00
-weight: 6
+weight: 7
 ---
 
 <div class="svgcontent">

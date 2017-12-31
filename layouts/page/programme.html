@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+<body>
+
+    <div id="all">
+
+        <header>
+
+            {{ partial "nav.html" . }}
+
+        </header>
+
+        <div class="container-fluid">
+            <div class="row" id="speaker-header">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 speaker-header">
+                    <h1 class="white">PROGRAMME</h1>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="container-fluid animated fadeIn">
+            <div class="row" style="min-height:400px;">
+                <div class="col-xs-12 col-md-10 col-md-offset-1 pb-50 mt-10 stack">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid animated fadeIn">
+
+            <div class="row atf-bgcolor--dark">
+
+                <div class="col-md-10 col-md-offset-1 pb-50" id="programme">
+
+                    <h2> PROGRAMME OUTLINE</h2>
+
+                    <div>
+                        {{ partial "programme.html" . }}
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- /.row -->
+
+
+            <div class="row atf-bgcolor--beige">
+
+                <div class="col-md-10 col-md-offset-1 pb-50" id="parties">
+                    <h2>PARTIES</h2>
+                    {{ partial "programme-parties.html" . }}
+                </div>
+</div>
+
+<div class="row atf-bgcolor--gradient-orange">
+
+        <div class="col-md-10 col-md-offset-1 pb-50" id="hubs">
+            <h2 class="white">HUBS</h2>
+            {{ partial "hubs.html" . }}
+        </div>
+</div>
+
+                <!-- /.row -->
+            <!-- /.container -->
+</div>
+
+        {{ partial "footer.html" . }}
+
+    </div>
+
+    <!-- /#content -->
+
+
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+</body>
+
+</html>

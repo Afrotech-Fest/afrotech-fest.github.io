@@ -1,30 +1,23 @@
-{{ $speakers := getJSON "data/participants/participants.json" }}
+{{ $speakers := getJSON "data/participants/planets.json" }}
 
 {{ if gt (len .Site.Data.participants) 0 }}
 <div class="speakers-container">
     <ul class="speakers__list">
 
         {{ range $speakers }}
-            <li class="speakers__item in-view" data-animate-in="up" title="{{ .name }}">
+            <li class="speakers__item" title="{{ .name }}">
                 <button class="speakers__more" data-speaker-button>
                     <div class="speakers__img-container">
                         <img src="/{{ .image }}" alt="{{ .name }}" class="speakers__img" data-speaker-img />
                     </div>
                     <h3 data-speaker-name>{{ .name }}</h3>
-                    
                     <p class="team-caption">
                         {{ .short_bio }}
                     </p>
                     <span class="speakers__long" data-bio>
-                        <p style="text-transform:uppercase;"><b>{{ safeHTML .item }}</b></p>
-                        <hr>
-
-                        <p style="font-size: 1em; margin-bottom: 0px;">{{ safeHTML .item_description }}</p> 
-<p  class="about-participant">ABOUT {{ .name }}</p>
-                        {{ safeHTML .long_bio }} 
-                        <a href="{{ .url_twitter }}" class="twitter_handle">{{ .twitter_handle }}</a>
-
+                        {{ htmlUnescape .long_bio | safeHTML }}
                     </span>
+
                 </button>
             </li>
         {{ end }}
@@ -32,8 +25,3 @@
     </ul>
 </div>
 {{ end }}
-
-
-        <p style="font-size: 1.5em" class="center"><b>More participants to be announced.</b></p>
-        
-

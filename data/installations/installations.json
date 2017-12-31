@@ -1,22 +1,32 @@
-[
+[ {
+    "name": "Let This Be A Warning (VR Film)",
+    "image": "../img/lethisbe.png",
+    "description": "A group of Africans have left the Earth to create a colony on a distant planet. They respond with disquiet to the arrival of an uninvited guest. Let This Be A Warning was a response to the idea of 'black worlds', and how accessible they have always been to outsides parties both in fiction and reality. <br><br><b> Credits:</b> <a href='http://www.jimchuchu.com/'>Jim Chuchu</a> is a visual artist, filmmaker and musician from Nairobi, Kenya. He is also the co-founder and Creative Director at the <a href='http://www.thisisthenest.com/'>NEST</a>, a multidisciplinary art space in Nairobi."
+
+},
     {
         "name": "The Black Techies Project",
         "image": "../img/blacktechies.png",
-        "description": "The Black Techies is an interactive photography and interview project that aims to increase the visibility of Black people working within the tech industry in the UK."
+        "description": "The Black Techies is an interactive photography and interview project that focuses exclusively on black people in tech, in all their varied identities, but also as a specifically underrepresented group in technical roles within the industry. It presents an opportunity for a variety of conversations - on one side, the importance of representation, that you ‘Can’t be what you can’t see’ whilst on the flip side, black techies who might be isolated in their places of work, or their careers can see others like themselves. The Black Techies Project was inspired by Helena Price's <a href='http://www.techiesproject.com/'>Techies Project</a>. <br><br> <b>Credits:</b> The project was commissioned by Afrotech Fest and delivered by <a href='https://twitter.com/HeyLeeReed'>Hayley Reid</a>, a film-maker and oral historian, and <a href='http://roxene-anderson.com/'>Roxene Anderson</a>, a photographer."
     },
     {
-        "name": "Missing Dataset",
+        "name": "The Library of Missing Datasets",
         "image": "../img/missing-datasets.png",
-        "description": "Missing Datasets are blank spots in otherwise data-saturated spaces. The Library of Missing Datasets (2016) is an ongoing physical repository of these things that have been excluded in a society where so much else is collected."
+        "description": "Missing Datasets are blank spots in otherwise data-saturated spaces. The Library of Missing Datasets (2016) is an ongoing physical repository of these things that have been excluded in a society where so much else is collected. <br><br><b>Credits:</b> <a href='http://mimionuoha.com'>Mimi Onuoha</a> is a Brooklyn-based artist and researcher whose work explores missing data and the ways in which people are abstracted, represented, and classified."
     },
     {
-        "name": "Coding and braiding transmissions",
+        "name": "CBT: Pull Requests",
         "image": "../img/cbt.png",
-        "description": "CBT (Coding: Braiding: Transmission) invites you to your assessment - CBT: Pull Requests is a performance-installation combining the practices of coding and braiding; an experiment in digital activism and critical aesthetics."
+        "description": "CBT: Pull Requests is a performance-installation combining the practices of coding and braiding; an experiment in digital activism and critical aesthetics. In this networked-salon, each strand of hair that is woven and unwoven; signals information passing, the encryption and decryption of private messaging. Inspired by cryptology, biometrics, feedback loops and the possibilities of cybernetic resistance. <br><br><b>Credits:</b> <a href='http://isaackariuki.com/'>Isaac Kariuki</a> is a visual artist and writer working between London and Nairobi. His work centres on the body, internet culture, autonomy and identity. <br><br><a href='https://www.tamarclarkebrown.com/'>Tamar Clarke-Brown</a> is a London based freelance curator, critic and creator. interdisciplinary practice is focused on experimental futurisms, digital culture, representation and the black diaspora."
     },
     {
         "name": "Brooklyn Pakathi",
         "image": "../img/brooklyn.png",
-        "description": "In searching for the connectors of cause, meaning and sense of resolve, Brooklyn j’s work fundamentally speaks to the tragic vulnerability of romance. He explores these themes of an existential nature, plagued by fragility, through video vignettes, digital observations, and photographic interrogations."
+        "description": "In searching for the connectors of cause, meaning and sense of resolve, Brooklyn j’s work fundamentally speaks to the tragic vulnerability of romance. He explores these themes of an existential nature, plagued by fragility, through video vignettes, digital observations, and photographic interrogations. "
+    },
+    {
+        "name": "Hairnah",
+        "image": "../img/brooklyn.png",
+        "description": "In searching for the connectors of cause, meaning and sense of resolve, Brooklyn j’s work fundamentally speaks to the tragic vulnerability of romance. He explores these themes of an existential nature, plagued by fragility, through video vignettes, digital observations, and photographic interrogations. "
     }
 ]

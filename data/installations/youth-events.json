@@ -1,17 +1,53 @@
 [
     {
-        "name": "TECH FAIR",
-        "image": "../img/tech-fair.png",
-        "description": "Our tech fair will showcase inventions from young people from schools and youth groups as well as curious bedroom inventors. Those whose bold ideas leap off the paper, who take things apart to see what is inside and who have a burning desire to change how the world works."
-    },
-    {
         "name": "WORKSHOPS",
-        "image": "../img/workshop.png",
-        "description": "We have connected with exciting community groups who are bringing us some fun and challenging workshops. They’ll be exploring topics from from robotics to text-based gaming to data visualisation through sound, all with the help of kits donated from our supporters."
+        "schedule": [
+            {
+                "name": "Rijole Bitata",
+                "time": "10:30am – 11:30am",
+                "title": "Title to come",
+                "description": "Description to come"
+            },
+            {
+                "name": "Coders of Colour",
+                "time": "11:00am – 12:00pm",
+                "title": "Title to come",
+                "description": "Description to come"
+            },
+            {
+                "name": "Momo Pixel",
+                "time": "12:30pm – 1:30pm",
+                "title": "Title to come",
+                "description": "Description to come"
+            },
+            {
+                "name": "Alisha Fisher VR + Architecture",
+                "time": "1:50pm – 2:50pm",
+                "title": "Title to come",
+                "description": "Description to come"
+            },
+            {
+                "name": "South London Raspberry Jam",
+                "time": "1:50pm – 2:50pm",
+                "title": "Title to come",
+                "description": "Description to come"
+            }
+        ]
     },
     {
         "name": "MAKING STATIONS",
-        "image": "../img/workstation.png",
-        "description": "For young people from age 4 all the way up to 18, with each station holding a special place for any young person who sees themself artist, builder, community organiser, developer, educator or maybe all five. We have connected with community groups who are bringing us some fun and challenging workshops, exploring topics from from robotics to data to life through sound."
+        "description": "Everyone is welcome to stop by and build a project at one of our making stations which start at age 4 and go all the way to 18. Parents and guardians are welcome to join in on the fun. Each station has a different level of difficulty, varied challenges and mind twisting kits to get stuck into."
+    },
+    {
+        "name": "TECH FAIR",
+        "description": "Our tech fair opens at 10:30am on Saturday and will showcase inventions from young people all over the UK. Submissions are still open and can be submitted here."
+    },
+    {
+        "name": "INSTALLATIONS",
+        "description": "We have three exciting installations in the youth programme suitable for all ages."
+    },
+    {
+        "name": "JOIN A CONSTELLATION",
+        "description": "A chance to connect... On the day, coloured stickers will be available for all the young people in the youth programme to find the constellation that fits to them best."
     }
 ]
