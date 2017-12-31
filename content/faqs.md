@@ -9,11 +9,11 @@ slug: "faqs"
 #### I’m not black, can I attend/speak/host a workshop at the festival?
 We welcome  people of all races, ethnicities and cultural backgrounds to attend Afrotech Fest. For talks, workshops and panels we will only be showcasing the skills and talents of black people of African and Caribbean heritage at the event.
 
-#### When will tickets go on sale?
-Festival tickets will be released in early November, 2017.
+#### I have a problem with my order, how do I get in touch?
+You can get in touch about any ticket queries or questions by emailing us at info@afrotechfest.co.uk
 
 #### Can I volunteer at the event?
-Volunteers are an important part of Afrotech Fest 2018 and we welcome anyone interesting in volunteering to register their interest using our <a href="/participants/#volunteer">volunteer contact form</a>.
+Volunteers are an important part of Afrotech Fest 2018 and we welcome anyone interesting in volunteering to register their interest using our <a href="/#volunteer">volunteer contact form</a>.
 
 #### I’d like to attend but not sure I can afford the ticket price.
 We'll also be offering concessionary tickets to those unable to afford the full cost of tickets. If you're unable to afford concession tickets please email us at info@afrotechfest.co.uk
