@@ -14,10 +14,23 @@
         "featured": "false",
         "name": "Chisa Nwabara",
         "image": "img/participants/chisa-nwabara.png",
+        "item": "WORKSHOP: D&I lessons from 'The Matrix': <br>Bridging the Awareness Gap at your Company",
+        "item_description": "This workshop will break down and address common diversity and inclusion problems using The Matrix as a case study. We know it sounds ridiculous but stick with us! There are interesting parallels between the film and many issues employee groups/D&I teams are facing within their organisations. Initial context will be built as we share some patterns we've noticed as working to build up a D&I space at a global level within Pivotal. We will also talk about where we feel most companies today fall on the spectrum, and dissect how you can aid in closing the gap between problems of D&I and true empathic understanding.",
         "twitter_handle": "@chisology",
         "url_twitter": "https://twitter.com/chisology",
         "short_bio": "Programme Manager, Pivotal London",
         "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. She has helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs <a href='http://chisology.com'>chisology.com</a>"
+    },
+    {
+        "featured": "false",
+        "name": "Papa Akuffo",
+        "image": "img/participants/papa-akuffo.png",
+        "item": "WORKSHOP: D&I lessons from 'The Matrix': <br>Bridging the Awareness Gap at your Company",
+        "item_description": "This workshop will break down and address common diversity and inclusion problems using The Matrix as a case study. We know it sounds ridiculous but stick with us! There are interesting parallels between the film and many issues employee groups/D&I teams are facing within their organisations. Initial context will be built as we share some patterns we've noticed as working to build up a D&I space at a global level within Pivotal. We will also talk about where we feel most companies today fall on the spectrum, and dissect how you can aid in closing the gap between problems of D&I and true empathic understanding.",
+        "twitter_handle": "@sirdooks",
+        "url_twitter": "https://twitter.com/sirdooks",
+        "short_bio": "Senior Product Manager, Pivotal London",
+        "long_bio": "Papa has a background in digital strategy and execution working on a wide range of projects ranging from national political campaigns through to Open Innovation consulting for multinational enterprise-level organisations. Alongside his day to day work he also sits on Pivotal's Diversity and Inclusion Council representing EMEA - he currently leads on the training strategy which aims to raise the understanding of D&I and its importance across the organisation."
     },
     {
         "featured": "false",
@@ -82,7 +95,7 @@
         "twitter_handle": "@camerapop",
         "url_twitter": "https://twitter.com/camerapop",
         "short_bio": "Web Developer",
-        "long_bio": "Erin tries to answer the question of ‘how can technology bring people together offline and improve lives”. Community drives her passion for technology, web application development and security. To that end, she's developing Extraqueericular, an online platform connecting the LGBTQ+ community to LGBT-friendly services and events. Erin is a tech conference addict, recently attending ThingMonk and Web Summit. The community, opportunities for collaboration, and free flow of ideas are what motivated her career change to tech, and she recently completed an MA in Web Design and Content Planning at the University of Greenwich."
+        "long_bio": "Erin tries to answer the question of ‘how can technology bring people together offline and improve lives”. Community drives her passion for technology, web application development and security. To that end, she's developing Extraqueericular, an online platform connecting the LGBTQ+ community to LGBT-friendly services and events."
     },
     {
         "featured": "false",

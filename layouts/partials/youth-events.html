@@ -2,26 +2,28 @@
 <ul class="installations__list">
 
     {{ range first 1 $installations }}
-    <li class="installations__list-item-youth">
-        <h3>{{ .name }}</h3>
+    <h3>{{ .name }}</h3>
+
+    <li class="installations__list-item-youth youth-schedule">
         <p>{{ .description }}</p>
 
-        <div>
             {{ range .schedule }}
-
+<div class="youth-schedule__item atf-bgcolor--beige">
             <h4>{{ .name }}</h4>
             <p>{{ .time }} </p>
             <p>
                 <b>{{ .title }}</b>
             </p>
             <p class="subtitles">{{ .description }} </p>
+        </div>
 
             {{ end }}
-        </div>
-    </li>
 
+    </li>
+</ul>
 
     {{ end }}
+    <ul class="installations__list">
 
     <li class="installations__list-item-youth">
         <h3>Making station</h3>
@@ -37,7 +39,7 @@
 
 {{ $speakers := getJSON "data/participants/planets.json" }} {{ if gt (len .Site.Data.participants) 0 }}
 <div class="speakers-container">
-    <ul class="speakers__list">
+    <ul class="speakers__list" style="margin-bottom:0;">
 
         {{ range $speakers }}
         <li class="speakers__item" title="{{ .name }}">
@@ -64,7 +66,6 @@
 
 
 <ul class="installations__list">
-
         <li class="installations__list-item-youth">
             <h3>TECH FAIR</h3>
             <div class="">

@@ -19,6 +19,7 @@ p, li {
     orphans: 3;
     font-family: "Source Sans Pro";
     font-size: 1.2em;
+    line-height: 1.5;
     
 }
 
@@ -54,13 +55,18 @@ h4 {
 
 a {
 text-decoration: underline;
-color: inherit;
 font-weight: bold;
+color: inherit;
+}
+
+#footer a {
+    font-weight: normal; 
 }
 
 a:hover, a:focus {
 text-decoration: none;
-color: inherit;}
+color: inherit;
+}
 
 .atf-center {
     text-align: center;
@@ -549,7 +555,7 @@ textarea.form-control{
 }
 
 hr {
-    margin-top: -10px;
+    margin-top: -20px;
     margin-bottom: -20px;
     border: none;
     height: 4px;
@@ -560,9 +566,9 @@ hr {
 
 .about-participant {
     font-weight: 300;
-    margin-top: 15px;
+    margin-top: 10px;
     font-size: 1.1em;
-    margin-bottom: -15px;
+    margin-bottom: -20px;
     text-transform: uppercase;
 }
 @media(min-width: 480px) {
@@ -647,6 +653,25 @@ hr {
     list-style-type: none;
     width: 100%;
     margin: 0 auto 1em;
+
+}
+
+.youth-schedule {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+   
+}
+
+.youth-schedule__item {
+padding: 1em;   
+margin: 5px 5px 0px 0px;
+flex-grow: 1;
+min-width: 25%;
 }
 
 @media (min-width: 768px) {
