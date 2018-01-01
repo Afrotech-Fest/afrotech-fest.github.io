@@ -22,7 +22,7 @@ We'll also be offering concessionary tickets to those unable to afford the full 
 Yes, please see our <a href="/accessibility">Accessibility and Inclusion</a> page. 
 
 #### Can I bring small children? 
-We welcome tiny people with big ideas, our youth track will have a soft play area and a nursing area. Rich Mix has changing areas on the ground and first floor. 
+We welcome tiny people with big ideas, our youth track will have a soft play area and a nursing area. Rich Mix also has changing areas on the ground and first floor. 
 
 
 #### CAN I TRANSFER MY TICKET TO SOMEONE ELSE? 

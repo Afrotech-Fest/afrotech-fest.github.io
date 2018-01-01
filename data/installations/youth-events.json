@@ -3,34 +3,43 @@
         "name": "WORKSHOPS",
         "schedule": [
             {
-                "name": "Rijole Bitata",
+                "name": "Ballon Power Car with Rijole Bitata",
                 "time": "10:30am – 11:30am",
                 "title": "Title to come",
-                "description": "Description to come"
+                "description": "You don't have to spend a lot of money to get started into the world of STEM: everyday objects can be used to create very simple projects or the most complicated ones. In this workshop you will learn how to build your own powered car using a balloon. The project will taste your patience, dexterity and creativity . All you need is tonnes of positive thinking! ",
+                "age": "Age: All ages welcome"
+
             },
             {
-                "name": "Coders of Colour",
+                "name": "Text-based Adventure Games in Java with Coders of Colour",
                 "time": "11:00am – 12:00pm",
                 "title": "Title to come",
-                "description": "Description to come"
+                "description": "A short and gentle introduction to programming by making a simple text based adventure game.",
+                "age": "Age: 10+"
             },
             {
                 "name": "Momo Pixel",
                 "time": "12:30pm – 1:30pm",
                 "title": "Title to come",
-                "description": "Description to come"
+                "description": "Description to come",
+                "age": "Age: "
+
             },
             {
-                "name": "Alisha Fisher VR + Architecture",
+                "name": "'Virtual Reality + Architecture Futures' with Alisha Fisher and Bola Lasisi-Agiri",
                 "time": "1:50pm – 2:50pm",
                 "title": "Title to come",
-                "description": "Description to come"
+                "description": "If you could design your own communities and cities better, how would you envision them to be? We're giving you the tools and challenging you to create and play with your future realities.",
+                "age": "Age: 14+"
+
             },
             {
                 "name": "South London Raspberry Jam",
                 "time": "1:50pm – 2:50pm",
                 "title": "Title to come",
-                "description": "Description to come"
+                "description": "Description to come",
+                "age": "Age: All ages welcome"
+
             }
         ]
     },

@@ -9,6 +9,8 @@
     font-size: 16px;
     background-color: white;   
     overflow-x: hidden !important;    
+    -webkit-font-smoothing: subpixel-antialiased;
+
 }
 
 
@@ -46,7 +48,7 @@ h3 {
     }
 
 h4 {
-    font-weight: lighter;
+    font-weight: 300;
     text-transform: uppercase;        
     color: #F83C7A;
     margin: 30px 0 0 0;
@@ -519,6 +521,7 @@ textarea.form-control{
 
 }
 
+
 .speakers__modal-overlay {
     position: fixed;
     top: 0;
@@ -541,7 +544,9 @@ textarea.form-control{
     background-color: #FBF7EE;
     z-index: 1000;
     text-align: center;
-    overflow-y: scroll;
+    overflow-y: auto;
+
+    max-height: calc(100% - 20px);
 }
 
 [data-speaker-modal-title]
@@ -654,24 +659,22 @@ hr {
     width: 100%;
     margin: 0 auto 1em;
 
+
+}
+
+.youth-schedule > div {
+    float: left;
 }
 
 .youth-schedule {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 0;
-   
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));   
 }
 
 .youth-schedule__item {
 padding: 1em;   
-margin: 5px 5px 0px 0px;
-flex-grow: 1;
-min-width: 25%;
+grid-auto-flow: row;
 }
 
 @media (min-width: 768px) {

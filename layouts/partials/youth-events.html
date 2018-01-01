@@ -5,16 +5,17 @@
     <h3>{{ .name }}</h3>
 
     <li class="installations__list-item-youth youth-schedule">
-        <p>{{ .description }}</p>
 
             {{ range .schedule }}
 <div class="youth-schedule__item atf-bgcolor--beige">
             <h4>{{ .name }}</h4>
-            <p>{{ .time }} </p>
-            <p>
+            <p><b>{{ .time }}</b></p>
+            <!-- <p>
                 <b>{{ .title }}</b>
-            </p>
-            <p class="subtitles">{{ .description }} </p>
+            </p> -->
+            <p style="font-size:0.9em;">{{ .description }} </p>
+            <p style="font-size:0.9em;">{{ .age }} </p>
+
         </div>
 
             {{ end }}
@@ -69,10 +70,8 @@
         <li class="installations__list-item-youth">
             <h3>TECH FAIR</h3>
             <div class="">
-                <p>Our tech fair opens at 10:30am on Saturday and will showcase inventions from young people all over the UK. Submissions are still open and can be submitted here.</p>
-                <br>
-                <p><span style="background-color: #4FF0D6">&nbsp; Young techies can enter their ideas for the tech fair by <b><a href="https://goo.gl/forms/Ai0vqSPTwyH2trps1">filling out this form</a></b>.&nbsp;</span></p>
-                <p><span style="background-color: #4FF0D6">&nbsp; Download our <a href="http://bit.ly/2o3Ni8N"><b>tech fair guidelines</b></a> for more information.&nbsp;</span></p>
+                <p>Our tech fair opens at 10:30am on Saturday and will showcase inventions from young people all over the UK. Submissions are still open and can be submitted by <b><a href="https://goo.gl/forms/Ai0vqSPTwyH2trps1">filling out this form</a></b>.&nbsp;</span></p>
+                <p>Download our <a href="http://bit.ly/2o3Ni8N">tech fair guidelines</a> for more information.</p>
             </div>
         </li>
     

@@ -15,14 +15,13 @@ weight: 6
 <p>We can't wait for our attendees to interact with our digital and digitally-inspired art installations.</p>
 
     <a href="/installations"><button type="button" class="read-more mt-50">EXPLORE</button></a>
-<br>
-<br>
+
 
 <div class="svgcontent">
 <div class="pattern-2-1">
 <img src="img/svg-patterns/pattern-35.svg" width="100%" alt="">
 </div>
-
 </div>
+
 </div>
 </div>
