@@ -18,12 +18,7 @@ weight: 6
 
 
 
-<div class="svgcontent">
-    <div class="pattern-6-1">
-        <img src="img/svg-patterns/pattern-35.svg" width="80%" alt="">
-    </div>
-    
-</div>
+
 
 </div>
 </div>

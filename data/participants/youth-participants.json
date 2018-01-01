@@ -25,5 +25,12 @@
         "url_twitter": "https://twitter.com/STEAMPOWERLTD",
         "short_bio": "Mentor, S.T.E.A.M POWER",
         "long_bio": "Rijole Bitata is an educator with over 10 years experience working with children in and around London. She is currently collaborating with different community groups to allow children and young people to have an insight into a field she believes holds the key to problems that many communities face today."
+    },
+    {
+        "featured": "true",
+        "name": "Alisha Fisher",
+        "image": "img/participants/alisha-fisher.png",
+        "short_bio": "",
+        "long_bio": "Alisha Fisher is an urban researcher and architectural designer intrigued by identity politics within the built environment. Fisher is also the founder of the design collective, ‘3.09’ which critically analyses intersecting narratives through research, virtual reality and film."
     }
 ]
