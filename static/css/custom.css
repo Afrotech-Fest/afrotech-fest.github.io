@@ -1200,16 +1200,40 @@ background-color: #fff;
     position: absolute;
     top: 10%;
     left: 30%;
-    min-width: 10%;
+    min-width: 5%;
+    overflow: hidden;
+
 }
 
-.star-cluster-2 {
+.star-cluster-1b {
     position: absolute;
-    bottom: 0%;
-    left: 30%;
-    min-width: 10%;
+    top:40%;
+    right: 50%;
+    min-width: 5%;
+    overflow: hidden;
+
     
 }
+
+.star-cluster-2a {
+    position: absolute;
+    top: 10%;
+    left: -20%;
+    min-width: 5%;
+    
+}
+
+.star-cluster-2b {
+    position: absolute;
+    top: 70%;
+    left: 60%;
+    min-width: 8%;
+    transform: rotate(45);
+    overflow: hidden;
+    
+}
+
+
 
 @-webkit-keyframes rotate {
     from {
