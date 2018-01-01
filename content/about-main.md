@@ -14,7 +14,7 @@ layout: "about-main"
 <br>
 <div class="about__item">
     <h4>General programme</h4>
-    <p>The two-day programme will kick off on Friday afternoon where attendees will have the chance to explore impressive installations from black artists and get to know fellow attendees.</p>
+    <p>The two-day programme will kick off on Friday afternoon where attendees will have the chance to listen to speakers from all sectors of the tech industry.</p>
     <div class="about__btn">
         <a class="btn--cta" href="/programme">
             View general programme
