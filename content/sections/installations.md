@@ -17,10 +17,12 @@ weight: 6
     <a href="/installations"><button type="button" class="read-more mt-50">EXPLORE</button></a>
 
 
+
 <div class="svgcontent">
-<div class="pattern-2-1">
-<img src="img/svg-patterns/pattern-35.svg" width="100%" alt="">
-</div>
+    <div class="pattern-6-1">
+        <img src="img/svg-patterns/pattern-35.svg" width="80%" alt="">
+    </div>
+    
 </div>
 
 </div>

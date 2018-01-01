@@ -232,40 +232,6 @@
 
     {
         "featured": "false",
-        "name": "Eunice Baguma Ball",
-        "image": "img/participants/eunice-baguma-ball.png",
-        "item": "",
-        "item_description": "",
-        "twitter_handle": "@eb_ball",
-        "url_twitter": "https://twitter.com/eb_ball",
-        "short_bio": "Founder and Director, Africa Technology Business Network (ATBN)",
-        "long_bio": ""
-    },
-    {
-        "featured": "false",
-        "name": "Kelly Foster",
-        "image": "img/participants/kelly-foster.png",
-        "item": "Workshop: untold histories and empty pages<br> in black history on Wikipedia",
-        "item_description": "",
-        "twitter_handle": "@LondonLabrish",
-        "url_twitter": "https://twitter.com/LondonLabrish",
-        "short_bio": "Organiser, AfroCROWD",
-        "long_bio": ""
-    },
-    {
-        "featured": "false",
-        "name": "Makayla Miranda",
-        "image": "img/participants/makayla-miranda.png",
-        "item": "",
-        "item_description": "",
-        "twitter_handle": "",
-        "url_twitter": "https://twitter.com/",
-        "short_bio": "",
-        "long_bio": ""
-    },
-
-    {
-        "featured": "false",
         "name": "Paris Petgrave",
         "image": "img/participants/paris-petgrave.png",
         "item": "TALK: Democratizing Venture Capital ",

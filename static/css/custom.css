@@ -1168,6 +1168,14 @@ background-color: #fff;
     min-width: 15%;
 }
 
+.pattern-6-1 {
+    display: inline-block;
+    position: absolute;
+    top: 55%;
+    left:90%;
+    min-width: 20%;
+    z-index: -1;
+}
 .pattern-7 {
     display: inline-block;
     position: absolute;

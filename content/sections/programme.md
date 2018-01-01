@@ -23,5 +23,15 @@ weight: 4
 
     <a href="/youth-programme"><button type="button" class="read-more--light mt-50">EXPLORE</button></a>
 
+
+<div class="star-cluster" style="top:50%; min-width:2%">
+        <img src="../img/star-cluster-1.svg" width="50%" alt="">
+</div>
+
+<div class="star-cluster" style="top:80%; left: 100%;min-width:15%; transform: rotate(45deg);
+">
+        <img src="../img/star-cluster-1.svg" width="100%" alt="">
+</div>
+
 </div>
 </div>
