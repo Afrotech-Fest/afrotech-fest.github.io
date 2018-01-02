@@ -3,7 +3,7 @@
         "name": "WORKSHOPS",
         "schedule": [
             {
-                "name": "Ballon Power Car with Rijole Bitata",
+                "name": "Build a ballon Power Car with Rijole Bitata",
                 "time": "10:30am – 11:30am",
                 "title": "Title to come",
                 "description": "In this workshop you will learn how to build your own powered car using a balloon. The project will test your patience, dexterity and creativity. All you need is tons of positive thinking!",
@@ -29,7 +29,7 @@
     },
     {
         "name": "MAKING STATIONS",
-        "description": "Everyone is welcome to stop by and build a project at one of our making stations which start at age 4 and go all the way to 18. Parents and guardians are welcome to join in on the fun. Each station has a different level of difficulty, varied challenges and mind twisting kits to get stuck into."
+        "description": "For young people from age 4 all the way up to 18, with each station holding a special place for any young person who sees themself as an artist, builder, community organiser, developer, educator or maybe all five. We have connected with community groups who are bringing us some fun and challenging workshops, exploring topics from from robotics to data to life through sound."
     },
     {
         "name": "TECH FAIR",

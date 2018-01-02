@@ -30,7 +30,14 @@
         "featured": "true",
         "name": "Alisha Fisher",
         "image": "img/participants/alisha-fisher.png",
-        "short_bio": "",
+        "short_bio": "Architectural Designer",
         "long_bio": "Alisha Fisher is an urban researcher and architectural designer intrigued by identity politics within the built environment. Fisher is also the founder of the design collective, ‘3.09’ which critically analyses intersecting narratives through research, virtual reality and film."
+    },
+    {
+        "featured": "true",
+        "name": "Bola Lasisi-Agiri",
+        "image": "img/participants/bola-lasisi-agiri.png",
+        "short_bio": "Designer",
+        "long_bio": "Bola is a creative multi-disciplinary designer from South-East London. Whilst working as an architectural assistant, he and his business partner also run a multi-media design company entitled ‘Tamed Designs.’ Their aim is to help brand enterprises, large and small, improve their identity in the market, packaging their assets in the best image possible."
     }
 ]
