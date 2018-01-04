@@ -3,7 +3,7 @@
         "name": "WORKSHOPS",
         "schedule": [
             {
-                "name": "Build a ballon Power Car with Rijole Bitata",
+                "name": "Build a Ballon-powered Car with Rijole Bitata",
                 "time": "10:30am – 11:30am",
                 "title": "Title to come",
                 "description": "In this workshop you will learn how to build your own powered car using a balloon. The project will test your patience, dexterity and creativity. All you need is tons of positive thinking!",
@@ -16,6 +16,13 @@
                 "title": "Title to come",
                 "description": "A short and gentle introduction to programming by making a simple text-based adventure game.",
                 "age": "Age: 10+"
+            },
+            {
+                "name": "You got a dope idea, now what? with Momo Pixel",
+                "time": "12:30pm – 1:30pm",
+                "title": "Title to come",
+                "description": "Momo will walk you through how to take a game idea from inside your head, onto paper, and into production.",
+                "age": "Age: All ages welcome"
             },
             {
                 "name": "'Virtual Reality + Architecture Futures' with Alisha Fisher and Bola Lasisi-Agiri",

@@ -19,8 +19,17 @@
     },
     {
         "featured": "true",
+        "name": "Momo Pixel",
+        "image": "img/participants/momo-pixel.png",
+        "twitter_handle": "@MomoUhOh",
+        "url_twitter": "https://twitter.com/MomoUhOh",
+        "short_bio": "Art Director and Game Designer",
+        "long_bio": "Momo Pixel is an Art Director, Pixel Designer, Singer, and Game Designer. Starting her career as a copywriter, Momo wrote commercials for Nintendo and later went on to create Momoland, an annual interactive pixel-art experience. As Momoland grew, Momo incorporated more technology into her work and in 2017 released <a href='http://hairnah.com/'>Hair Nah</a>, a video game to keep people from touching black women’s hair. It has since become a global sensation, featured in CNN, Rolling Stone, Essence, Teen Vogue, Vice UK and many more."
+    },
+    {
+        "featured": "true",
         "name": "Rijole Bitata",
-        "image": "img/participants/holding-image.png",
+        "image": "img/participants/rijole-bitata.png",
         "twitter_handle": "@STEAMPOWERLTD",
         "url_twitter": "https://twitter.com/STEAMPOWERLTD",
         "short_bio": "Mentor, S.T.E.A.M POWER",
