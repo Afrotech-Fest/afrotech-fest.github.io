@@ -669,7 +669,7 @@ hr {
 .youth-schedule {
     display: grid;
     grid-gap: 5px;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));   
+    grid-template-columns: repeat(auto-fill, minmax(370px, 1fr));   
 }
 
 .youth-schedule__item {
