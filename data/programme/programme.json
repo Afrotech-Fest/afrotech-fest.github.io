@@ -4,7 +4,7 @@
         "day": "friday",
         "times": [
             {
-                "time": "1:00pm",
+                "time": "12:30pm",
                 "events": [
                     {
                         "event_name": "Opening and registration"
@@ -15,51 +15,156 @@
                 "time": "1:45pm",
                 "events": [
                     {
-                        "event_name": "Welcome Speech"
+                        "event_name": "Welcome to Afrotech Fest",
+                        "event_participants": "Hosts",
+                        "event_label": "Talk",
+                        "event_venue": "Main space"
                     }
                 ]
             },
             {
-                "time": "2:00pm",
+                "time": "2:30pm – 3:30pm",
                 "events": [
                     {
+                        "event_venue": "Main space",
                         "event_name": "YSYS: Founders stories",
-                        "event_participants": "Andy Ayim, Andy Ayim, Andy Ayim",
+                        "event_participants": "– Andy Ayim, Dayo Akinrinade, Darren Tenkorang, Urenna Okonkwo",
                         "event_label": "Panel"
-
-
                     }
+                ]
+            },
+            {
+                "time": "2:50pm – 3:00pm",
+                "events": [
+                    {
+                            "event_venue": "Venue 2",
+                            "event_name": "An introduction to Android development",
+                            "event_participants": "– Funmi Adewodu, Teresa Ng",
+                            "event_label": "Workshop"
+    
+                        }
                 ]
             },
             {
                 "time": "4:00pm",
                 "events": [
                     {
-                        "event_name": "Keynote talk"
+                        "event_venue": "Main space",
+                        "event_name": "Keynote",
+                        "event_participants": "– Makayla Lewis",
+                        "event_label": "Talk"                    
                     }
                 ]
             },
             {
-                "time": "5:00pm",
+                "time": "5:10pm – 5:30pm",
                 "events": [
                     {
-                        "event_name": "Talks, Lightning talks and Workshops"
+                        "event_venue": "Main space",
+                        "event_name": "Designing Internet Culture into Artificial Intelligence",
+                        "event_participants": "– Nathalie Nzeyimana",
+                        "event_label": "Talk"                     
+                    },
+                    {
+                        "event_venue": "Venue 2",
+                        "event_name": "Literary Activisim: Archiving for the future",
+                        "event_participants": "– Yovanaka Paidago",
+                        "event_label": "Talk"                     
+                    }
+                ]
+            },
+        {
+            "time": "5:10pm – 6:10pm",
+            "events": [
+                {
+                    "event_venue": "Venue 2",
+                    "event_name": "Digital Ethics and the Social Media Generation",
+                    "event_participants": "– Alexander Fefegha",
+                    "event_label": "Workshop"                     
+                },
+                {
+                    "event_venue": "Venue 2",
+                    "event_name": "Service design Talk and workshop",
+                    "event_participants": "– Daniel Blyden, Florence Okoye",
+                    "event_label": "Workshop"                     
+                }
+            ]
+        },
+            
+            {
+                "time": "5:40pm – 6:00pm",
+                "events": [
+                    {
+                        "event_venue": "Main space",
+                        "event_name": "TBC",
+                        "event_participants": "– Joseph Nwosu",
+                        "event_label": "Talk"                    
                     }
                 ]
             },
             {
-                "time": "6:00pm",
+                "time": "5:40pm – 6:30pm",
                 "events": [
                     {
-                        "event_name": "Keynote"
+                        "event_venue": "Venue 2",
+                        "event_name": "What does Open Source at Microsoft Look like?",
+                        "event_participants": "– Cecil Phillip, Jasmine Greenaway",
+                        "event_label": "Talk"                    
                     }
                 ]
             },
             {
-                "time": "8:00pm",
+                "time": "6:10pm – 6:30pm",
                 "events": [
                     {
-                        "event_name": "Opening party"
+                        "event_venue": "Main space",
+                        "event_name": "Codeyourfuture: Refugees diversifying tech",
+                        "event_participants": "– Mozafar Haider, Sentayhu M Ali",
+                        "event_label": "Talk"                    
+                    }
+                ]
+            },
+            {
+                "time": "7:00pm – 7:45pm",
+                "events": [
+                    {
+                        "event_venue": "Main space",
+                        "event_name": "Keynote",
+                        "event_participants": "– Ian Forrester",
+                        "event_label": "Talk"                    
+                    }
+                ]
+            },
+            {
+                "time": "7:45pm – 7:55pm",
+                "events": [
+                    {
+                        "event_venue": "Main space",
+                        "event_name": "Closing poem",
+                        "event_participants": "– Nikky Norton",
+                        "event_label": "Engagement"                    
+                    }
+                ]
+            },
+            {
+                "time": "8:00pm – 8:45pm",
+                "events": [
+                    {
+                        "event_venue": "Lower cafe",
+                        "event_name": "CBT: Pull Request",
+                        "event_participants": "– Tamar Clarke-Brown, Isaac Kariuki",
+                        "event_label": "Performance"                    
+                    }
+                ]
+            },
+            {
+                "time": "9:30pm – 11:00pm",
+                "events": [
+                    {
+                        "event_venue": "Main space",
+                        "event_name": "Interactive dance party",
+                        "event_participants": "– Hayden Anyasi, Lula Mebrahtu",
+                        "event_label": "Performance"                    
                     }
                 ]
             }

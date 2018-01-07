@@ -28,12 +28,14 @@
                     <div class="programme__event-group">
                         {{ range .events }}
                             <div class="programme__event-container programme__detail">
-                                <p class="programme__event">
-                                    {{ .event_name }}
-                                    {{ .event_participants }}
-                                    {{ .event_label }}
+                                <ul class="programme__event">
+                                    
+                                    <li>{{ .event_name }}</li>
+                                    <li class="subtitles" style="text-transform:none; margin-bottom:10px;"> {{ .event_participants }}</li>
+                                    <li class="subtitles"><span class="event-label" style="margin-right:5px">{{ .event_label }}</span><span class="event-label">{{ .event_venue }}</span></li>
 
-                                </p>
+
+                                </ul>
                             </div>
                         {{ end }}
                     </div>
