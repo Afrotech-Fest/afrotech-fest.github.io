@@ -878,8 +878,16 @@ grid-auto-flow: row;
     margin: 0 auto;
 }
 
-.event-label {
-    border: 1px solid #e0ed3a;    text-transform: none;
+.programme-friday .event-label {
+    border: 1px solid #e0ed3a;    
+    text-transform: none;
+    border-radius: 2px;
+    padding: 3px 4px;
+}
+
+.programme-saturday .event-label {
+    border: 1px solid #f83c7a;    
+    text-transform: none;
     border-radius: 2px;
     padding: 3px 4px;
 }

@@ -4,10 +4,10 @@
         "day": "friday",
         "times": [
             {
-                "time": "1:00pm",
+                "time": "12:30pm",
                 "events": [
                     {
-                        "event_name": "Opening and registration"
+                        "event_name": "Welcome and registration"
                     }
                 ]
             },
@@ -23,8 +23,9 @@
                 "time": "2:00pm",
                 "events": [
                     {
+                        "event_venue": "Main stage",
                         "event_name": "YSYS: Founders stories",
-                        "event_participants": "Andy Ayim, Andy Ayim, Andy Ayim",
+                        "event_participants": "– Andy Ayim, Dayo Akinrinade, Darren Tenkorang, Urenna Okonkwo",
                         "event_label": "Panel"
 
 
