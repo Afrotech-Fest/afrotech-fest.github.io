@@ -32,6 +32,7 @@
     demo()
     contactForm()
     speakersModal()
+    programmeTabs()
   })
 
   var lastFocusedElement;
@@ -52,6 +53,26 @@
     })
   }
 
+  function programmeTabs() {
+    var tabs = $('[data-programme-tab]')
+
+    tabs.each(function () {
+      var $this = $(this)
+      var day = $this[0].dataset.programmeTab
+      var dayContent = $('.programme-' + day)
+
+      $this.click(function () {
+        var activeTab = $('.programme__tab-container.is-active')
+        var activeTabContent = $('.programme__item.is-active')
+
+        activeTab.removeClass('is-active')
+        activeTabContent.removeClass('is-active')
+
+        $this.addClass('is-active')
+        dayContent.addClass('is-active')
+      })
+    })
+  }
 
   $(document).keyup(function (e) {
     if (e.keyCode == 27) {
@@ -101,11 +122,9 @@
 
   }
 
-
   function detectViewport() {
     return state.isMobile = window.innerWidth < options.tabletBreakpoint
   }
-
 
   // Ajax contact
   function contactForm() {
