@@ -28,7 +28,8 @@
                     {
                         "event_venue": "Main space",
                         "event_name": "YSYS: Founders stories",
-                        "event_participants": "– Andy Ayim, Dayo Akinrinade, Darren Tenkorang, Urenna Okonkwo",
+                        "event_description": "Lorem ipsum dolor sit amet",
+                        "event_participants": "Andy Ayim, Andy Ayim, Andy Ayim",
                         "event_label": "Panel"
                     }
                 ]
