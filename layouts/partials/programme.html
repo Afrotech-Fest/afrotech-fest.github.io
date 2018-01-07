@@ -4,11 +4,19 @@
 {{ $programme := getJSON "data/programme/programme.json" }}
 
 <div class="programme-container">
-    {{ range $programme }}
-        <div class="programme__item programme-{{ .day }}">
-            <div class="programme__day-container programme__day-{{ .day }}">
+    <ul class="programme__tabs">
+        {{ range $i, $e := $programme }}
+            <li
+                class="programme__tab-container programme__tab-{{ .day }} {{ if eq $i 0 }}is-active{{ end }}"
+                data-programme-tab="{{ .day }}"
+            >
                 <h3 class="programme__day">{{ .day }}</h3>
-            </div>
+            </li>
+        {{ end }}
+    </ul>
+
+    {{ range $i, $e := $programme }}
+        <div class="programme__item programme-{{ .day }} {{ if eq $i 0 }}is-active{{ end }}">
             {{ range .times }}
                 <div class="programme__detail-container">
                     <div class="programme__time-container programme__detail">
