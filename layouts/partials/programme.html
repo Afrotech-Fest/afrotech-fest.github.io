@@ -6,7 +6,7 @@
 <div class="programme-container">
     <ul class="programme__tabs">
         {{ range $i, $e := $programme }}
-            <li
+           <li
                 class="programme__tab-container programme__tab-{{ .day }} {{ if eq $i 0 }}is-active{{ end }}"
                 data-programme-tab="{{ .day }}"
             >
@@ -25,14 +25,14 @@
                         </h4>
                     </div>
 
-                    <div class="programme__event-group">
+                    <div class="programme__event-group" data-programme-button>
                         {{ range .events }}
                             <div class="programme__event-container programme__detail">
                                 <p class="programme__event">
-                                    {{ .event_name }}
-                                    {{ .event_participants }}
-                                    {{ .event_label }}
-
+                                <span data-programme-name>{{ .event_name }}</span>
+                                <span class="programme__description" data-programme-description>{{ .event_description }}</span>
+                                <span data-programme-participants>{{ .event_participants }}</span>
+                                <span data-programme-label>{{ .event_label }}</span>
                                 </p>
                             </div>
                         {{ end }}
