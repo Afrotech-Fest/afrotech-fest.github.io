@@ -876,7 +876,12 @@ grid-auto-flow: row;
 
 .programme__event {
     margin: 0 auto;
-    text-align: center;
+}
+
+.event-label {
+    border: 1px solid #e0ed3a;    text-transform: none;
+    border-radius: 2px;
+    padding: 3px 4px;
 }
 
 
