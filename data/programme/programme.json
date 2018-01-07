@@ -7,7 +7,7 @@
                 "time": "12:30pm",
                 "events": [
                     {
-                        "event_name": "Welcome and registration"
+                        "event_name": "Opening and registration"
                     }
                 ]
             },
@@ -15,53 +15,90 @@
                 "time": "1:45pm",
                 "events": [
                     {
-                        "event_name": "Welcome Speech"
+                        "event_name": "Welcome to Afrotech Fest",
+                        "event_participants": "",
+                        "event_label": "Talk",
+                        "event_venue": "Main space"
                     }
                 ]
             },
             {
-                "time": "2:00pm",
+                "time": "2:30pm – 3:30pm",
                 "events": [
                     {
-                        "event_venue": "Main stage",
+                        "event_venue": "Main space",
                         "event_name": "YSYS: Founders stories",
                         "event_participants": "– Andy Ayim, Dayo Akinrinade, Darren Tenkorang, Urenna Okonkwo",
                         "event_label": "Panel"
-
-
                     }
+                ]
+            },
+            {
+                "time": "2:50pm – 3:00pm",
+                "events": [
+                    {
+                            "event_venue": "Venue 2",
+                            "event_name": "An introduction to Android development",
+                            "event_participants": "– Funmi Adewodu, Teresa Ng",
+                            "event_label": "Workshop"
+    
+                        }
                 ]
             },
             {
                 "time": "4:00pm",
                 "events": [
                     {
-                        "event_name": "Keynote talk"
+                        "event_venue": "Main space",
+                        "event_name": "Keynote",
+                        "event_participants": "– Makayla Lewis",
+                        "event_label": "Talk"                    
                     }
                 ]
             },
             {
-                "time": "5:00pm",
+                "time": "5:10pm – 5:30pm",
                 "events": [
                     {
-                        "event_name": "Talks, Lightning talks and Workshops"
+                        "event_venue": "Main space",
+                        "event_name": "Designing Internet Culture into Artificial Intelligence",
+                        "event_participants": "– Nathalie Nzeyimana",
+                        "event_label": "Talk"                     
+                    },
+                    {
+                        "event_venue": "Venue 2",
+                        "event_name": "Literary Activisim: Archiving for the future",
+                        "event_participants": "– Yovanaka Paidago",
+                        "event_label": "Talk"                     
                     }
                 ]
             },
+        {
+            "time": "5:10pm – 6:10pm",
+            "events": [
+                {
+                    "event_venue": "Venue 2",
+                    "event_name": "Digital Ethics and the Social Media Generation",
+                    "event_participants": "– Alexander Fefegha",
+                    "event_label": "Workshop"                     
+                },
+                {
+                    "event_venue": "Venue 2",
+                    "event_name": "Service design Talk and workshop",
+                    "event_participants": "– Daniel Blyden, Florence Okoye",
+                    "event_label": "Workshop"                     
+                }
+            ]
+        },
+            
             {
-                "time": "6:00pm",
+                "time": "5:40pm",
                 "events": [
                     {
-                        "event_name": "Keynote"
-                    }
-                ]
-            },
-            {
-                "time": "8:00pm",
-                "events": [
-                    {
-                        "event_name": "Opening party"
-                    }
+                        "event_venue": "Main space",
+                        "event_name": "TBC",
+                        "event_participants": "– Joseph Nwosu",
+                        "event_label": "Talk"                    }
                 ]
             }
         ]
