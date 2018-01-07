@@ -24,10 +24,9 @@
                 "events": [
                     {
                         "event_name": "YSYS: Founders stories",
+                        "event_description": "Lorem ipsum dolor sit amet",
                         "event_participants": "Andy Ayim, Andy Ayim, Andy Ayim",
                         "event_label": "Panel"
-
-
                     }
                 ]
             },

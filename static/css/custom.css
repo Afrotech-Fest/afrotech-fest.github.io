@@ -297,7 +297,7 @@ color: inherit;
 .subheading--black {
     color: #061A25;
     font-family: Futura, Arial, sans-serif;
-	font-weight: bold;
+    font-weight: bold;
     font-size: 1.3em;
     margin-top: 40px;
     line-height: 1.2;
@@ -501,7 +501,7 @@ textarea.form-control{
 #speaker-header-youth {
     background-image: url(../img/bg-youth.png);
     background-size: cover;
-	background-position: 75% 75%;
+    background-position: 75% 75%;
     background-repeat: no-repeat;
     min-height: 200px;
 }
@@ -541,7 +541,7 @@ textarea.form-control{
 }
 
 
-.speakers__modal-overlay {
+.modal-overlay {
     position: fixed;
     top: 0;
     left: 0;
@@ -553,6 +553,7 @@ textarea.form-control{
 
 }
 
+.programme__modal,
 .speakers__modal {
     position: fixed;
     width: 100vw;
@@ -596,6 +597,7 @@ hr {
     text-transform: uppercase;
 }
 @media(min-width: 480px) {
+    .programme__modal,
     .speakers__modal {
         width: 70vw;
         height: auto;
@@ -606,6 +608,7 @@ hr {
 }
 
 @media(min-width: 900px) {
+    .programme__modal,
     .speakers__modal {
         width: 50vw;
     }
@@ -625,6 +628,19 @@ hr {
     width: 1.5em;
     height: 1.5em;
     outline: none;
+}
+
+.programme__modal {
+  text-align: left;
+  border: 1px solid #061a25;
+}
+
+[data-programme-modal-name] {
+  margin-top: 20px;
+}
+
+.programme__description {
+  display: none;
 }
 
 .about-svg-1 {
@@ -877,6 +893,10 @@ grid-auto-flow: row;
 .programme__event {
     margin: 0 auto;
     text-align: center;
+}
+
+.programme__event-group {
+  cursor: pointer;
 }
 
 
