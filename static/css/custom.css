@@ -639,6 +639,9 @@ hr {
 [data-programme-modal-name] {
   margin-top: 20px;
 }
+.programme__event-group:hover {
+opacity: 0.8;
+  }
 
 .programme__description {
   display: none;
