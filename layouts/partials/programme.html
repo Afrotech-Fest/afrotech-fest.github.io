@@ -28,23 +28,14 @@
                     <div class="programme__event-group" data-programme-button>
                         {{ range .events }}
                             <div class="programme__event-container programme__detail">
-<<<<<<< HEAD
+                  
                                 <ul class="programme__event">
-                                    
-                                    <li>{{ .event_name }}</li>
-                                    <li class="subtitles" style="text-transform:none; margin-bottom:10px;"> {{ .event_participants }}</li>
-                                    <li class="subtitles"><span class="event-label" style="margin-right:5px">{{ .event_label }}</span><span class="event-label">{{ .event_venue }}</span></li>
-
+                                <li data-programme-name>{{ .event_name }}</li>
+                                <li class="programme__description subtitles" data-programme-description>{{ .event_description }}</li>
+                                <li data-programme-participants style="text-transform:none; margin-bottom:10px;">{{ .event_participants }}</li>
+                                <li data-programme-label class="subtitles"><span class="event-label" style="margin-right:5px">{{ .event_label }}</span><span data-programme-label class="event-label">{{ .event_venue }}</span></li>
 
                                 </ul>
-=======
-                                <p class="programme__event">
-                                <span data-programme-name>{{ .event_name }}</span>
-                                <span class="programme__description" data-programme-description>{{ .event_description }}</span>
-                                <span data-programme-participants>{{ .event_participants }}</span>
-                                <span data-programme-label>{{ .event_label }}</span>
-                                </p>
->>>>>>> b95cd629f8312d2e4a5d53a7302f52623e493e60
                             </div>
                         {{ end }}
                     </div>
