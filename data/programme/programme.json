@@ -109,6 +109,7 @@
                     {
                         "event_venue": "Venue 2",
                         "event_name": "What does Open Source at Microsoft Look like?",
+                        "event_description": "In recent years Microsoft has become a strong contributor to open source. They've integrated open source into projects, while also collaborating on open source projects and initiatives. In this talk we're going to show you some of the areas how embracing open source has changed the way we build products and engage with the community.",
                         "event_participants": "– Cecil Phillip, Jasmine Greenaway",
                         "event_label": "Talk"                    
                     }

@@ -541,7 +541,7 @@ textarea.form-control{
 }
 
 
-.modal-overlay {
+.speakers__modal-overlay, .programme__modal-overlay {
     position: fixed;
     top: 0;
     left: 0;
@@ -632,8 +632,9 @@ hr {
 
 .programme__modal {
   text-align: left;
-  border: 1px solid #061a25;
+  font-size: 0.9em;
 }
+
 
 [data-programme-modal-name] {
   margin-top: 20px;
