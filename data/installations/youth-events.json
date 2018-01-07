@@ -3,40 +3,40 @@
         "name": "WORKSHOPS",
         "schedule": [
             {
-                "name": "Rijole Bitata",
+                "name": "Build a Ballon-powered Car with Rijole Bitata",
                 "time": "10:30am – 11:30am",
                 "title": "Title to come",
-                "description": "Description to come"
+                "description": "In this workshop you will learn how to build your own powered car using a balloon. The project will test your patience, dexterity and creativity. All you need is tons of positive thinking!",
+                "age": "Age: All ages welcome"
+
             },
             {
-                "name": "Coders of Colour",
+                "name": "Text-based Adventure Games in Java with Coders of Colour",
                 "time": "11:00am – 12:00pm",
                 "title": "Title to come",
-                "description": "Description to come"
+                "description": "A short and gentle introduction to programming by making a simple text-based adventure game.",
+                "age": "Age: 10+"
             },
             {
-                "name": "Momo Pixel",
+                "name": "You got a dope idea, now what? with Momo Pixel",
                 "time": "12:30pm – 1:30pm",
                 "title": "Title to come",
-                "description": "Description to come"
+                "description": "Momo will walk you through how to take a game idea from inside your head, onto paper, and into production.",
+                "age": "Age: 10+"
             },
             {
-                "name": "Alisha Fisher VR + Architecture",
+                "name": "'Virtual Reality + Architecture Futures' with Alisha Fisher and Bola Lasisi-Agiri",
                 "time": "1:50pm – 2:50pm",
                 "title": "Title to come",
-                "description": "Description to come"
-            },
-            {
-                "name": "South London Raspberry Jam",
-                "time": "1:50pm – 2:50pm",
-                "title": "Title to come",
-                "description": "Description to come"
+                "description": "If you could design your own communities and cities better, how would you envision them to be? We're giving you the tools and challenging you to create and play with your future realities.",
+                "age": "Age: 14+"
+
             }
         ]
     },
     {
         "name": "MAKING STATIONS",
-        "description": "Everyone is welcome to stop by and build a project at one of our making stations which start at age 4 and go all the way to 18. Parents and guardians are welcome to join in on the fun. Each station has a different level of difficulty, varied challenges and mind twisting kits to get stuck into."
+        "description": "For young people from age 4 all the way up to 18, with each station holding a special place for any young person who sees themself as an artist, builder, community organiser, developer, educator or maybe all five. We have connected with community groups who are bringing us some fun and challenging workshops, exploring topics from from robotics to data to life through sound."
     },
     {
         "name": "TECH FAIR",

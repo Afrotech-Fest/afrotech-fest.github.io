@@ -3,7 +3,7 @@
         "featured": "false",
         "name": "Alex Fefegha",
         "image": "img/participants/alex-fefegha.png",
-        "item": "WORKSHOP: Digital Ethics and the Social Media Generation",
+        "item": "",
         "item_description": "",
         "twitter_handle": "@fxfegha",
         "url_twitter": "https://twitter.com/fxfegha",
@@ -15,27 +15,29 @@
         "name": "Chisa Nwabara",
         "image": "img/participants/chisa-nwabara.png",
         "item": "WORKSHOP: D&I lessons from 'The Matrix': <br>Bridging the Awareness Gap at your Company",
-        "item_description": "This workshop will break down and address common diversity and inclusion problems using The Matrix as a case study. We know it sounds ridiculous but stick with us! There are interesting parallels between the film and many issues employee groups/D&I teams are facing within their organisations. Initial context will be built as we share some patterns we've noticed as working to build up a D&I space at a global level within Pivotal. We will also talk about where we feel most companies today fall on the spectrum, and dissect how you can aid in closing the gap between problems of D&I and true empathic understanding.",
+        "item_description": "This workshop will break down and address common diversity and inclusion problems using 'The Matrix' as a case study. There are interesting parallels between the film and many issues employee groups/D&I teams are facing within their organisations. Initial context will be built as we share some patterns we've noticed as working to build up a D&I space at a global level within Pivotal.",
         "twitter_handle": "@chisology",
         "url_twitter": "https://twitter.com/chisology",
         "short_bio": "Programme Manager, Pivotal London",
-        "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. She has helped organisations, large and small, improve overall operations, expand the reach of their offerings, strengthen internal controls and maximise their profitability. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs <a href='http://chisology.com'>chisology.com</a>"
+        "long_bio": "Chisa helps enterprises improve their operational performance and capabilities through evidence-based project management methodologies. Chisa is also a member of Pivotal's Global Diversity and Inclusion Council with whom she focuses specifically on supporting the EMEA region. In her spare time, Chisa also runs <a href='http://chisology.com'>chisology.com</a>"
     },
     {
         "featured": "false",
         "name": "Papa Akuffo",
         "image": "img/participants/papa-akuffo.png",
         "item": "WORKSHOP: D&I lessons from 'The Matrix': <br>Bridging the Awareness Gap at your Company",
-        "item_description": "This workshop will break down and address common diversity and inclusion problems using The Matrix as a case study. We know it sounds ridiculous but stick with us! There are interesting parallels between the film and many issues employee groups/D&I teams are facing within their organisations. Initial context will be built as we share some patterns we've noticed as working to build up a D&I space at a global level within Pivotal. We will also talk about where we feel most companies today fall on the spectrum, and dissect how you can aid in closing the gap between problems of D&I and true empathic understanding.",
+        "item_description": "This workshop will break down and address common diversity and inclusion problems using 'The Matrix' as a case study. There are interesting parallels between the film and many issues employee groups/D&I teams are facing within their organisations. Initial context will be built as we share some patterns we've noticed as working to build up a D&I space at a global level within Pivotal.",
         "twitter_handle": "@sirdooks",
         "url_twitter": "https://twitter.com/sirdooks",
         "short_bio": "Senior Product Manager, Pivotal London",
-        "long_bio": "Papa has a background in digital strategy and execution working on a wide range of projects ranging from national political campaigns through to Open Innovation consulting for multinational enterprise-level organisations. Alongside his day to day work he also sits on Pivotal's Diversity and Inclusion Council representing EMEA - he currently leads on the training strategy which aims to raise the understanding of D&I and its importance across the organisation."
+        "long_bio": "Papa has a background in digital strategy and execution working on a wide range of projects ranging from national political campaigns through to Open Innovation consulting for multinational enterprise-level organisations. Alongside his day to day work he also sits on Pivotal's Diversity and Inclusion Council representing EMEA."
     },
     {
         "featured": "false",
         "name": "Mozafar Haider",
         "image": "img/participants/mozafar-haider.png",
+        "item": "Talk: CodeYourFuture: Refugees Diversifying Tech",
+        "item_description": "CodeYourFuture is a volunteer-run organisation that teaches programming to refugees. This is the story of its origins, its journey so far and how it embraces diversity to create a community that transcends coding and gives a sense of hope and purpose to both students and volunteers.",
         "twitter_handle": "@kabaros",
         "url_twitter": "https://twitter.com/kabaros",
         "short_bio": "Software Developer, CodeYourFuture",
@@ -45,6 +47,8 @@
         "featured": "false",
         "name": "Sentayhu M Ali",
         "image": "img/participants/sentayhu-m-ali.png",
+        "item": "Talk: CodeYourFuture: Refugees Diversifying Tech",
+        "item_description": "CodeYourFuture is a volunteer-run organisation that teaches programming to refugees. This is the story of its origins, its journey so far and how it embraces diversity to create a community that transcends coding and gives a sense of hope and purpose to both students and volunteers.",
         "twitter_handle": "@jo_sentayhu",
         "url_twitter": "https://twitter.com/jo_sentayhu",
         "short_bio": "Full Stack Developer, Financial Times",
@@ -54,6 +58,8 @@
         "featured": "false",
         "name": "Jessica Jordan",
         "image": "img/participants/jessica-jordan.png",
+        "item": "Talk: A Glimmer of Hope - The Modern State of Web Components",
+        "item_description": "The browser support of web components has been getting increasingly better over the past few years and besides other component libraries, including Polymer or X-Tag, the Ember community presents its own new library - Glimmer.js - enabling you to create easy-to-use web components today.",
         "twitter_handle": "​@jjordan_dev",
         "url_twitter": "https://twitter.com/jjordan_dev",
         "short_bio": "Software Engineer, Simplabs",
@@ -61,8 +67,32 @@
     },
     {
         "featured": "false",
+        "name": "Perola Da Cruz",
+        "image": "img/participants/perola-dacruz.png",
+        "item": "Workshop: Self love with p5.js",
+        "item_description": "Introduction to p5.js (which is a javascript library) and using p5.js to make a random quote generator with quotes and affirmations based on self love/mental health. By the the end of the workshop attendees will become more aware of mental health issues, what self love is and have a broader understanding of p5.js",
+        "twitter_handle": "@perolajanice",
+        "url_twitter": "https://twitter.com/perolajanice",
+        "short_bio": "Software Engineer Apprentice, TalkTalk",
+        "long_bio": "Perola works as a Software Engineer Apprentice at TalkTalk whilst studying towards a Digital and Technology Solutions Degree. She is also the web developer for fashion start-up Noemie Wilson as well as an active <a href='blackgirl.tech'>blackgirl.tech</a> volunteer, helping black women, girls and non-binary people learn more about technology. "
+    },
+    {
+        "featured": "false",
+        "name": "Erica Dos Santos",
+        "image": "img/participants/erica-dos-santos.png",
+        "item": "Workshop: Self love with p5.js",
+        "item_description": "Introduction to p5.js (which is a javascript library) and using p5.js to make a random quote generator with quotes and affirmations based on self love/mental health. By the the end of the workshop attendees will become more aware of mental health issues, what self love is and have a broader understanding of p5.js",
+        "twitter_handle": "@EricaDxs",
+        "url_twitter": "https://twitter.com/EricaDxs",
+        "short_bio": "Web Developer",
+        "long_bio": "Erica is a full-time BSc. Computer Science student and freelance Web Developer. She enjoys programming and problem solving. With strengths in Python and Java, Erica constantly learns different languages and libraries to enhance not only her knowledge, but her computing freedom. Understanding a number of languages has allowed Erica to work on a range of projects and gain a better understanding of developing software."
+    },
+    {
+        "featured": "false",
         "name": "Loraine James",
         "image": "img/participants/loraine-james.png",
+        "item": "",
+        "item_description": "",
         "twitter_handle": "@LoJamMusic",
         "url_twitter": "https://twitter.com/LoJamMusic",
         "short_bio": "Electronic Artist",
@@ -83,6 +113,8 @@
         "featured": "false",
         "name": "Ashley Patricks",
         "image": "img/participants/ashley-patricks.png",
+        "item": "",
+        "item_description": "",
         "twitter_handle": "@ash_patricks",
         "url_twitter": "https://twitter.com/ash_patricks",
         "short_bio": "Tech Lead, Lloyds Innovation Labs",
@@ -92,6 +124,8 @@
         "featured": "false",
         "name": "Erin Burns",
         "image": "img/participants/erin-burns.png",
+        "item": "",
+        "item_description": "",
         "twitter_handle": "@camerapop",
         "url_twitter": "https://twitter.com/camerapop",
         "short_bio": "Web Developer",
@@ -102,7 +136,7 @@
         "name": "Dawn Duhaney",
         "image": "img/participants/dawn-duhaney.png",
         "item": "TALK: Data science in Government: algorithms and diversity",
-        "item_description": "Around the world, governments are getting ready to use data science, AI and algorithms to support decision making and improve efficiency. With the rise of algorithms and AI, we need diversity in the government tech industry now more than ever.",
+        "item_description": "Around the world, governments are getting ready to use data science, AI and algorithms to support decision-making and improve efficiency. With the rise of algorithms and AI, we need diversity in the government tech industry now more than ever.",
         "twitter_handle": "@duhaneydawn",
         "url_twitter": "https://twitter.com/duhaneydawn",
         "short_bio": "Policy Advisor, Government Digital Service",
@@ -112,6 +146,8 @@
         "featured": "false",
         "name": "Helen Gould",
         "image": "img/participants/helen-medea.png",
+        "item": "",
+        "item_description": "",
         "twitter_handle": "@Alecto101",
         "url_twitter": "https://twitter.com/Alecto101",
         "short_bio": "Writer and Speaker",
@@ -121,6 +157,8 @@
         "featured": "false",
         "name": "Brian Akperi",
         "image": "img/participants/brian-akperi.png",
+        "item": "Talk: The Good and Evils of Machine Learning",
+        "item_description": "There has been some discussion in the media recently about bias or deficiencies in machine learning algorithms. For example, facial recognition software being unable to process darker skin tones or chatbots which can be trained to spout racist tweets (Microsoft’s Tay). This talk discussed, in beginner-friendly terms, why this is occurring and in particular how biased algorithms can have a negative impact on the quality of life for people of colour.",
         "twitter_handle": "@BrianAkperi",
         "url_twitter": "https://twitter.com/BrianAkperi",
         "short_bio": "Data Scientist, Qbiz UK",
@@ -135,7 +173,7 @@
         "twitter_handle": "@AC_Revolution",
         "url_twitter": "https://twitter.com/AC_Revolution",
         "short_bio": "Game Production Manager, Azoomee",
-        "long_bio": "Game Production Manager at Azoomee, Deputy Chair at BAME in Games and recently inaugurated BAFTA member, Adam is a fast rising games industry pro with a career spanning nearly a decade. His range of interests include rich virtual worlds, cutting edge technologies, games with purpose and diverse representation in games."
+        "long_bio": "Game Production Manager at <a href='http://azoomee.com/'>Azoomee</a>, Deputy Chair at <a href='http://www.bameingames.org/'>BAME in Games</a> and recently inaugurated BAFTA member, Adam is a fast rising games industry pro with a career spanning nearly a decade. His range of interests include rich virtual worlds, cutting edge technologies, games with purpose and diverse representation in games."
 
     },
     {
@@ -147,7 +185,7 @@
         "twitter_handle": "@gravykun",
         "url_twitter": "https://twitter.com/gravykun",
         "short_bio": "QA Lead/Produce, ustwo Games",
-        "long_bio": "Michael Anderson is QA Lead/Producer for the multi award-winning mobile game studio ustwo games, the team behind the Monument Valley series, Land’s End, Whale Trail and Blip Blup. During his nearly 9 year career in the games industry, he’s worked at AAA game studios such as SEGA and Lionhead before realising the potential of mobile as a gaming platform."
+        "long_bio": "Michael Anderson is QA Lead/Producer for the multi award-winning mobile game studio <a href='https://ustwogames.co.uk/'>ustwo games</a>, the team behind the Monument Valley series, Land’s End, Whale Trail and Blip Blup. During his nearly 9 year career in the games industry, he’s worked at AAA game studios such as SEGA and Lionhead before realising the potential of mobile as a gaming platform."
     },
     {
         "featured": "true",
@@ -169,86 +207,80 @@
         "twitter_handle": "",
         "url_twitter": "https://twitter.com/",
         "short_bio": "Founder, Marshall Media",
-        "long_bio": "Albert Marshall has worked in the games industry for nearly two decades. First, as a lawyer at PlayStation and then at Take-Two (owner of Rockstar and 2K Games labels). In 2012 he set up Marshall Media (www.marshallmedia.biz), a legal and business affairs consultancy to games developers, publishers, and other creative and technology companies. Albert also helped to found Quiztix, a series of mobile quiz games and has served as a BAFTA Games Awards juror. When not doing any of the above, Albert can often be found playing electric bass."
+        "long_bio": "Albert Marshall has worked in the games industry for nearly two decades. First, as a lawyer at PlayStation and then at Take-Two (owner of Rockstar and 2K Games labels). In 2012 he set up <a href='http://marshallmedia.biz'>Marshall Media</a>, a legal and business affairs consultancy to games developers, publishers, and other creative and technology companies. Albert also helped to found Quiztix, a series of mobile quiz games and has served as a BAFTA Games Awards juror. When not doing any of the above, Albert can often be found playing electric bass."
     },
     {
         "featured": "true",
         "name": "Jasmine Greenaway",
         "image": "img/participants/jasmine-greenaway.png",
+        "item": "Talk: What does Open Source at Microsoft Look like?",
+        "item_description": "In recent years Microsoft has become a strong contributor to open source. They've integrated open source into projects, while also collaborating on open source projects and initiatives. In this talk we're going to show you some of the areas how embracing open source has changed the way we build products and engage with the community.",
         "twitter_handle": "@paladique",
         "url_twitter": "https://twitter.com/paladique",
         "short_bio": "Cloud Developer Advocate, Microsoft",
-        "long_bio": "Jasmine Greenaway is a NYC based Cloud Developer Advocate at Microsoft, where she illustrates the cool things about Azure through words and code. She also is an adjunct professor at LaGuardia Community College in Queens, NYC where she primarily teaches front and back end web development. Outside of work, she volunteers as a co-organiser at BrooklynJS, a monthly meetup held in the Cobble Hill area of Brooklyn, NYC."
+        "long_bio": "Jasmine Greenaway is a NYC based Cloud Developer Advocate at Microsoft, where she illustrates the cool things about Azure through words and code. She also is an adjunct professor at LaGuardia Community College in Queens, NYC where she primarily teaches front and back end web development. Outside of work, she volunteers as a co-organiser at <a href='http://brooklynjs.com/'>BrooklynJS</a>, a monthly meetup held in the Cobble Hill area of Brooklyn, NYC."
     },
     {
         "featured": "true",
         "name": "Cecil Philip",
         "image": "img/participants/cecil-philip.png",
+        "item": "Talk: What does Open Source at Microsoft Look like?",
+        "item_description": "In recent years Microsoft has become a strong contributor to open source. They've integrated open source into projects, while also collaborating on open source projects and initiatives. In this talk we're going to show you some of the areas how embracing open source has changed the way we build products and engage with the community.",
         "twitter_handle": "@cecilphillip",
         "url_twitter": "https://twitter.com/cecilphillip",
         "short_bio": "Cloud Developer Advocate, Microsoft",
-        "long_bio": "Cecil Phillip is teacher, podcaster and a Cloud Developer Advocate at Microsoft where he focuses on the .NET experience in Azure. He has a passion for software architecture, software testing and web technologies. Prior to joining Microsoft, he spent many years building software for various industries such as healthcare, finance, education and human resources. Cecil co-hosts, Away from the Keyboard, a weekly podcast which talks to people in technology and tells their stories."
-    },
-
-    {
-        "featured": "false",
-        "name": "Eunice Baguma Ball",
-        "image": "img/participants/eunice-baguma-ball.png",
-        "twitter_handle": "",
-        "url_twitter": "https://twitter.com/",
-        "short_bio": "",
-        "long_bio": ""
+        "long_bio": "Cecil Phillip is teacher, podcaster and a Cloud Developer Advocate at Microsoft where he focuses on the .NET experience in Azure. He has a passion for software architecture, software testing and web technologies. Prior to joining Microsoft, he spent many years building software for various industries such as healthcare, finance, education and human resources. Cecil co-hosts, <a href='http://awayfromthekeyboard.com/'>Away from the Keyboard</a>, a weekly podcast which talks to people in technology and tells their stories."
     },
     {
         "featured": "false",
-        "name": "Kelly Foster",
-        "image": "img/participants/kelly-foster.png",
-        "twitter_handle": "",
-        "url_twitter": "https://twitter.com/",
-        "short_bio": "",
-        "long_bio": ""
+        "name": "Andy Ayim",
+        "image": "img/participants/andy-ayim.png",
+        "item": "PANEL: YSYS Founders Stories",
+        "item_description": "A panel on using technology to drive inclusion and diversity in today's fragmented communities.",
+        "twitter_handle": "@AndysHVC",
+        "url_twitter": "https://twitter.com/AndysHVC",
+        "short_bio": "Product Manager, World First",
+        "long_bio": "Andy has experience as both an intrapreneur and an entrepreneur. Currently a Product Manager and startup advisor, he started his career in Management Consulting. Beyond his job as a Product Manager, Andy coaches startups on how to build inclusive cultures and develop products customers love. He also co-founded <a href='http://www.mixtapemadness.com/'>Mixtape Madness</a>, a music discovery, streaming and distribution platform with over half a billion streams to date."
     },
-    {
-        "featured": "false",
-        "name": "Makayla Miranda",
-        "image": "img/participants/makayla-miranda.png",
-        "twitter_handle": "",
-        "url_twitter": "https://twitter.com/",
-        "short_bio": "",
-        "long_bio": ""
-    },
-
     {
         "featured": "false",
         "name": "Paris Petgrave",
         "image": "img/participants/paris-petgrave.png",
-        "twitter_handle": "",
-        "url_twitter": "https://twitter.com/",
-        "short_bio": "",
-        "long_bio": ""
+        "item": "TALK: Democratizing Venture Capital ",
+        "item_description": "This talk examines how Block chain technology and the rise of ICO's presents a significant opportunity to disrupt traditional VC models and present a more inclusive, democratized model for financing startups within the community.",
+        "twitter_handle": "@ParisPetgrave",
+        "url_twitter": "https://twitter.com/ParisPetgrave",
+        "short_bio": "Partner, Rareseed Capital",
+        "long_bio": "Paris Petgrave is the CEO of <a href='http://www.welovework.com/'>We Love Work</a>, an award-winning people analytics platform that uses employee data on a company’s organisational culture to predict performance and fit. She is also the founder and managing partner of <a href='https://www.rareseedcapital.com/'>Rare Seed Capital</a>, a seed fund which invests in early stage technology companies. Paris is a passionate entrepreneur and advocate for women in tech and entrepreneurship. In 2017 she was listed as the top 100 EMpower leaders in the Financial Times and a Rising Star in the Power list 2018."
     },
     {
         "featured": "false",
         "name": "Temi Lasade-Anderson",
         "image": "img/participants/temi-lasade-anderson.png",
-        "twitter_handle": "",
-        "url_twitter": "https://twitter.com/",
-        "short_bio": "",
-        "long_bio": ""
+        "item": "Talk: Privacy Not Included: Marketing a Consumer Demand <br>for Online Privacy & Security",
+        "item_description": "'Privacy Not Included' is the latest campaign from Mozilla's Advocacy team in which a buyer's guide for connected devices was produced, based on their privacy and security. In this talk, Temi discusses how it's vitally important to educate and inform the general public, in order to drive demand for change by manufacturers, so that privacy is the new default in technology.",
+        "twitter_handle": "@temilasade",
+        "url_twitter": "https://twitter.com/@temilasade",
+        "short_bio": "Channel Marketing Manager, Mozilla",
+        "long_bio": "Temi is an award-winning marketer, with seven years social strategy and performance marketing experience across agencies, clients and start-ups in EMEA and APAC. Her work experience spans the eCommerce, FMCG, Media, and Tech industries. Temi currently works on Mozilla's Advocacy Media marketing team, working to the keep the internet healthy by educating and mobilising citizens online."
     },
     {
         "featured": "false",
         "name": "Wale Ogundipe",
         "image": "img/participants/wale-ogundipe.png",
-        "twitter_handle": "",
-        "url_twitter": "https://twitter.com/",
-        "short_bio": "",
-        "long_bio": ""
+        "item": "Talk: Tinker Tailor Coder Spy - Breaking the dev down into... less pretentious roles",
+        "item_description": "In this talk, Wales uses code samples and other content to help listeners identify where they’re plumbers, first responders, legislators, and repair-people. This way they can approach programming with more humility and/or few feelings of intimidation!",
+        "twitter_handle": "@kopasetik",
+        "url_twitter": "https://twitter.com/kopasetik",
+        "short_bio": "Software Developer, Avvo",
+        "long_bio": "Walé Ogundipe is a software developer based in the US. He enjoys cultivating the programming community at large and as co-organizer of <a href='http://seattlejs.com/'>SeattleJS</a>."
         },
     {
         "featured": "false",
         "name": "Abi Mohamed",
         "image": "img/participants/abshira-mohamed.png",
+        "item": "Consenting to what ? and how much is it worth?",
+        "item_description": "This talk will be a short introduction into the ethical issue surrounding giving permission to your personal data and where it goes and for how long. It also proposes whether we should consider personal data boundary and where should it start or end.",
         "twitter_handle": "@abii_mohamed",
         "url_twitter": "https://twitter.com/abii_mohamed",
         "short_bio": "Co-founder, Community Growth Ventures (CGV)",
@@ -258,6 +290,8 @@
         "featured": "false",
         "name": "Yovanka Perdigao",
         "image": "img/participants/yovanka-perdigao.png",
+        "item": "Talk: Literary Activisim: Archiving for the future",
+        "item_description": "This talk centres on the topic of digital activism as seen through digital African literary magazines. These digital magazines are documenting our times, an essential task that might determine the future.",
         "twitter_handle": "@yova_nka",
         "url_twitter": "https://twitter.com/yova_nka",
         "short_bio": "Writer, Terra Crioula",
@@ -267,9 +301,44 @@
         "featured": "false",
         "name": "Chi-chi Ekweozor",
         "image": "img/participants/chi-chi.png",
+        "item": "Workshop: New to Functional Programming? Meet Elixir!",
+        "item_description": "A short workshop introducing Elixir, the functional language that's taking the programming world by storm. Learn how to get started with thinking in terms of functions, and find out why Elixir is used by a growing number of companies around the world to build scalable, fault tolerant and concurrent web and mobile apps.",
         "twitter_handle": "@thisischichi",
         "url_twitter": "https://twitter.com/thisischichi",
         "short_bio": "Lead Developer, Assenty",
         "long_bio": "Chi-chi Ekweozor is the founder and lead developer at social Q&A startup <a href='https://assenty.com/'>Assenty</a>. A former social media marketer turned software engineer, and one of a handful of UK tech female founders, she is a passionate believer in the power of technology to raise aspirations of girls and young people worldwide."
+    },
+    {
+        "featured": "false",
+        "name": "Tara Ojo",
+        "image": "img/participants/tara-ojo.png",
+        "item": "Lighting talk: Junior.next()",
+        "item_description": "Life as a “junior” developer can be intense, overwhelming, but rewarding. How can juniors move on to the next level? And, what can employers, mentors and communities do to support the next generation of developers?",
+        "twitter_handle": "@tara_ojo",
+        "url_twitter": "https://twitter.com/tara_ojo",
+        "short_bio": "Software engineer, FutureLearn",
+        "long_bio": "Tara is a software engineer at digital education platform <a href='https://www.futurelearn.com/'>FutureLearn</a> and a noob to the speaking world. Her role as a STEM ambassador allows her to work with young people from diverse backgrounds, inspiring them towards careers in tech."
+    },
+    {
+        "featured": "false",
+        "name": "Clàudia T. Lopes",
+        "image": "img/participants/claudia-t-lopes.png",
+        "item": "",
+        "item_description": "",
+        "twitter_handle": "@lilasoul_ctl",
+        "url_twitter": "https://twitter.com/lilasoul_ctl",
+        "short_bio": "Art Lead, Runaway",
+        "long_bio": "Clàudia T. Lopes is a game artist with a great enthusiasm for arts and crafts. Currently a lead game artist at game developer and publisher Runway, she has previously worked on TV commercials, independent films and with the children’s gaming industry."
+    },
+    {
+        "featured": "false",
+        "name": "Kelly Foster",
+        "image": "img/participants/kelly-foster.png",
+        "item": "Workshop: Untold histories and empty pages <br>in black history on Wikipedia",
+        "item_description": "This workshop explores how to become a wikipedia editor. It explains and discusses the impact of Wikimedia and suggests projects you might like to join as an editor.",
+        "twitter_handle": "@LondonLabrish",
+        "url_twitter": "https://twitter.com/LondonLabrish",
+        "short_bio": "Wikipedia contributor",
+        "long_bio": "Kelly Foster is a public historian specialising in community and digital history. She is a founding member of TRANSMISSION, a collective of archivists and historians of African descent working towards. Kelly is the UK organiser for <a href='http://www.afrocrowd.org/'>AfroCROWD</a> an initiative that increases the number of people of African Descent who contribute to Wikimedia and the open movement. She was named 2017 UK Wikimedian of the Year."
     }
 ]

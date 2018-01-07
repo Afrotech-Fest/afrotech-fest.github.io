@@ -1,7 +1,7 @@
 [
     {
         "featured": "true",
-        "name": "Tolu",
+        "name": "Tolulope Ogunremi",
         "image": "img/participants/tolulope-ogunremi.png",
         "twitter_handle": "@codersofcolour",
         "short_bio": "Founder, Coders of Colour",
@@ -14,16 +14,39 @@
         "image": "img/participants/grace-owolade-coombes.png",
         "twitter_handle": "@gowolad",
         "url_twitter": "https://twitter.com/gowolade",
-        "short_bio": "Volunteer",
+        "short_bio": "",
         "long_bio": "South London Raspberry Jam promote inclusive and equal access to all things coding by running free  events for children and young people between 5 and 15. They give young people the chance to explore coding, physical computing and web page design in a fully inclusive environment whilst encouraging youth people to become young coding mentors."
     },
     {
         "featured": "true",
+        "name": "Momo Pixel",
+        "image": "img/participants/momo-pixel.png",
+        "twitter_handle": "@MomoUhOh",
+        "url_twitter": "https://twitter.com/MomoUhOh",
+        "short_bio": "Art Director and Game Designer",
+        "long_bio": "Momo Pixel is an Art Director, Pixel Designer, Singer, and Game Designer. Starting her career as a copywriter, Momo wrote commercials for Nintendo and later went on to create Momoland, an annual interactive pixel-art experience. As Momoland grew, Momo incorporated more technology into her work and in 2017 released <a href='http://hairnah.com/'>Hair Nah</a>, a video game to keep people from touching black women’s hair. It has since become a global sensation, featured in CNN, Rolling Stone, Essence, Teen Vogue, Vice UK and many more."
+    },
+    {
+        "featured": "true",
         "name": "Rijole Bitata",
-        "image": "img/participants/tolulope-ogunremi.png",
+        "image": "img/participants/rijole-bitata.png",
         "twitter_handle": "@STEAMPOWERLTD",
         "url_twitter": "https://twitter.com/STEAMPOWERLTD",
         "short_bio": "Mentor, S.T.E.A.M POWER",
-        "long_bio": "Long bio."
+        "long_bio": "Rijole Bitata is an educator with over 10 years experience working with children in and around London. She is currently collaborating with different community groups to allow children and young people to have an insight into a field she believes holds the key to problems that many communities face today."
+    },
+    {
+        "featured": "true",
+        "name": "Alisha Fisher",
+        "image": "img/participants/alisha-fisher.png",
+        "short_bio": "Architectural Designer",
+        "long_bio": "Alisha Fisher is an urban researcher and architectural designer intrigued by identity politics within the built environment. Fisher is also the founder of the design collective, ‘3.09’ which critically analyses intersecting narratives through research, virtual reality and film."
+    },
+    {
+        "featured": "true",
+        "name": "Bola Lasisi-Agiri",
+        "image": "img/participants/bola-lasisi-agiri.png",
+        "short_bio": "Designer",
+        "long_bio": "Bola is a creative multi-disciplinary designer from South-East London. Whilst working as an architectural assistant, he and his business partner also run a multi-media design company entitled ‘Tamed Designs.’ Their aim is to help brand enterprises, large and small, improve their identity in the market, packaging their assets in the best image possible."
     }
 ]

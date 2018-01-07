@@ -4,18 +4,37 @@ slug: "programme"
 date: 2017-08-09T12:08:23+01:00
 weight: 4
 ---
-
+<div class="svgcontent">
+    <div class="star-cluster-1b">
+        <img src="../img/star-cluster-1.svg" width="50%" alt="">
+    </div>
+        <div class="star-cluster-2b">
+        <img src="../img/star-cluster-2.svg" width="100%" alt="">
+    </div>
+            <div class="star-cluster-2a">
+        <img src="../img/star-cluster-2.svg" width="100%" alt="">
+    </div>
+</div>
 <div class="row">
 <div class="col-xs-12 col-md-9 mt-10">
 
 <h2>PROGRAMME</h2>
 
-<p>We've put together an exciting programme covering everything from working in games, to exploring possible futures using Wakanda as a touch point. Afrotech Fest offers interactive events across three venue spaces, including talks, workshops, a hackathon and an exciting <a href="/youth-programme">youth track</a> and <a href="/programme/#parties">parties</a> on both nights. Across the space will be hubs where the like-minded can jam, pair programme or just discuss what the possible impacts of AI and machine learning are on the Black community. We hope that everyone who attends finds their people.</p>
+
+<p>We've put together an exciting programme covering everything from working in games, to exploring possible futures using Wakanda as a touch point. Afrotech Fest offers interactive events across three venue spaces, including talks, workshops, a hackathon and <a href="/programme/#parties">parties</a> on both nights. There will be <a href="/programme/#hubs">hubs</a> across the venue space where the like-minded can jam, pair programme or just discuss what the possible impacts of AI and machine learning are on the Black community. We hope that everyone who attends finds their people.</p>
 
     <a href="/programme"><button type="button" class="read-more--light mt-50">EXPLORE</button></a>
 <br>
 <br>
 
+<h3>YOUTH PROGRAMME</h3>
+<p>Our youth track allows young black techies to travel in many lanes. It includes a tech fair, making stations, coding sessions and dozens of free kits from our supporters Makey Makey, TechWillSaveUs and Micro:bit. We hope to support and encourage the future designers, thinkers and innovators in tech.</p>
+
+
+    <a href="/youth-programme"><button type="button" class="read-more--light mt-50">EXPLORE</button></a>
+
+
 
 </div>
 </div>
+
