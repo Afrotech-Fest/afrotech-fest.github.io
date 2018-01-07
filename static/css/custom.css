@@ -11,7 +11,13 @@
     overflow-x: hidden !important;    
 }
 
+ul {
+    padding-left: 0;
+}
 
+li {
+    list-style-type: none; 
+}
 
 p, li {
     
@@ -388,7 +394,6 @@ textarea.form-control{
 .speakers__item {
     text-align: center;
     width: 100%;
-    list-style-type: none;
     margin-bottom: 2em;
 }
 
@@ -642,7 +647,6 @@ hr {
 }
 
 .installations__list-item {
-    list-style-type: none;
     width: 100%;
     padding: 0 1em;
     margin: 0 auto 1em;
@@ -650,7 +654,6 @@ hr {
 }
 
 .installations__list-item-youth {
-    list-style-type: none;
     width: 100%;
     margin: 0 auto 1em;
 
@@ -747,20 +750,53 @@ min-width: 25%;
     color: #fff;
 }
 
-
 .programme__item {
-    margin-bottom: 3em;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    transition: opacity .4s ease-in-out;
 }
-.programme__day-container {
+
+.programme__item.is-active {
+    opacity: 1;
+    height: auto;
+}
+
+.programme__tabs {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2em;
+}
+
+.programme__tab-container {
+    width: 50%;
     padding: 1em;
-    margin-bottom: 1em;
+    border: 2px solid #fff;
 }
+
+.programme__tab-container:first-child {
+    margin-right: .5em;
+}
+
+.programme__tab-container.is-active {
+    border: none;
+}
+
+.programme__tab-container:hover,
+.programme__tab-container:focus {
+    cursor: pointer;
+}
+
+.programme__tab-container.is-active h3 {
+    color: #061A25 !important;
+}
+
 .programme__day {
     margin: 0;
     font-family: "Source Sans Pro"
 }
 
-.programme-friday .programme__day-friday {
+.programme-friday .programme__tab-friday {
     border: 3px solid #54f0d0;
     border-image-source: linear-gradient(90deg, rgba(224, 237, 58, 1) 0%, rgba(79, 240, 214, 1) 100%);
     border-image-slice: 20;
@@ -771,7 +807,7 @@ min-width: 25%;
     border: 2px solid #e0ed3a;
 }
 
-.programme-saturday .programme__day-saturday {
+.programme-saturday .programme__tab-saturday {
     border: 3px solid #f8473e;
     border-image-source: linear-gradient(90deg, rgba(255, 81, 47, 1) 0%, rgba(221, 36, 118, 1) 100%);
     border-image-slice: 20;
@@ -782,12 +818,13 @@ min-width: 25%;
     border: 2px solid #f83c7a;
 }
 
-.programme-saturday .programme__detail.programme__time-container {
+.programme-saturday .programme__detail.programme__time-container,
+.programme__tab-saturday.is-active {
     background: linear-gradient(90deg, rgba(255, 81, 47, 1) 0%, rgba(221, 36, 118, 1) 100%);
     border: none;
 }
 
-.programme__day-friday > .programme__day-friday {
+.programme__tab-friday > .programme__tab-friday {
     border: 2px solid #e0ed3a;
 }
 
@@ -807,7 +844,8 @@ min-width: 25%;
     
 }
 
-.programme-friday .programme__detail.programme__time-container {
+.programme-friday .programme__detail.programme__time-container,
+.programme__tab-friday.is-active {
     background: linear-gradient(90deg, rgba(224, 237, 58, 1) 0%, rgba(79, 240, 214, 1) 100%);
     border: none;
 }
