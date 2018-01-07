@@ -23,7 +23,11 @@
                 "time": "2:00pm",
                 "events": [
                     {
-                        "event_name": "Talks, Lightning talks and Workshops"
+                        "event_name": "YSYS: Founders stories",
+                        "event_participants": "Andy Ayim, Andy Ayim, Andy Ayim",
+                        "event_label": "Panel"
+
+
                     }
                 ]
             },
