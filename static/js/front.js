@@ -78,6 +78,8 @@
 
         $this.addClass('is-active')
         dayContent.addClass('is-active')
+
+        programmeModal();
       })
     })
   }
@@ -92,16 +94,17 @@
       var participants = $this.find('[data-programme-participants]')[0].innerText;
       var label = $this.find('[data-programme-label]')[0].innerText;
 
-      $this.click(function () {
+      $this.unbind('click.modal');
+      $this.bind('click.modal', function () {
         openProgrammeModal(name, description, participants, label);
       })
     })
 
-    $('[data-programme-overlay]').on('click', function () {
+    $('[data-programme-overlay]').off('click').on('click', function () {
       closeProgrammeModal();
     })
 
-    $('[data-programme-close]').on('click', function () {
+    $('[data-programme-close]').off('click').on('click', function () {
       closeProgrammeModal();
     })
   }
