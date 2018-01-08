@@ -5,7 +5,7 @@
     <ul class="installations__list">
 
         {{ range $installations }}
-            <li class="installations__list-item">
+            <li class="installations__list-item" id="{{ .id }}">
                 <h3 class="subheading--black">{{ .name }}</h4>
                 <div class="installations__content">
                     <p class="subtitles">{{ safeHTML .description }}</p>
