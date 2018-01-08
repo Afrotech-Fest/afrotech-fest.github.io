@@ -23,14 +23,12 @@
                 ]
             },
             {
-                "time": "2:30pm – 3:30pm",
+                "time": "2:00pm – 3:30pm",
                 "events": [
                     {
-                        "event_venue": "Main space",
-                        "event_name": "YSYS: Founders stories",
-                        "event_description": "Lorem ipsum dolor sit amet",
-                        "event_participants": "Andy Ayim, Andy Ayim, Andy Ayim",
-                        "event_label": "Panel"
+                        "event_name": "Lunch",
+                        "event_venue": "Venue 2"
+
                     }
                 ]
             },
@@ -123,6 +121,14 @@
                         "event_name": "Codeyourfuture: Refugees diversifying tech",
                         "event_participants": "– Mozafar Haider, Sentayhu M Ali",
                         "event_label": "Talk"                    
+                    }
+                ]
+            },
+            {
+                "time": "6:30pm – 7:00pm",
+                "events": [
+                    {
+                        "event_name": "Break"
                     }
                 ]
             },

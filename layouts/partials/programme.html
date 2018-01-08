@@ -25,11 +25,11 @@
                         </h4>
                     </div>
 
-                    <div class="programme__event-group" data-programme-button>
+                    <div class="programme__event-group" >
                         {{ range .events }}
                             <div class="programme__event-container programme__detail">
                   
-                                <ul class="programme__event">
+                                <ul class="programme__event" data-programme-button>
                                 <li data-programme-name>{{ .event_name }}</li>
                                 <li class="programme__description subtitles" data-programme-description>{{ .event_description }}</li>
                                 <li data-programme-participants style="text-transform:none; margin-bottom:10px;">{{ .event_participants }}</li>
