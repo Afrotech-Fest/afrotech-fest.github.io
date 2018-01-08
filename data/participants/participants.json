@@ -211,6 +211,17 @@
     },
     {
         "featured": "true",
+        "name": "Momo Pixel",
+        "image": "img/participants/momo-pixel.png",
+        "item": "PANEL: DIVERSITY IN GAMES",
+        "item_description": "Afrotech Fest offers BAME in Games a vital opportunity to engage with the black African and Caribbean community directly and hopefully build relationships with organisations and people beyond the games industry to encourage inclusivity. Games are an exciting medium that offer new ways to tell stories and the panel explores ways people can get involved and may even inspire them to make their own games.",
+        "twitter_handle": "@MomoUhOh",
+        "url_twitter": "https://twitter.com/MomoUhOh",
+        "short_bio": "Art Director and Game Designer",
+        "long_bio": "Momo Pixel is an Art Director, Pixel Designer, Singer, and Game Designer. Starting her career as a copywriter, Momo wrote commercials for Nintendo and later went on to create Momoland, an annual interactive pixel-art experience. As Momoland grew, Momo incorporated more technology into her work and in 2017 released <a href='http://hairnah.com/'>Hair Nah</a>, a video game to keep people from touching black women’s hair. It has since become a global sensation, featured in CNN, Rolling Stone, Essence, Teen Vogue, Vice UK and many more."
+    },
+    {
+        "featured": "true",
         "name": "Jasmine Greenaway",
         "image": "img/participants/jasmine-greenaway.png",
         "item": "Talk: What does Open Source at Microsoft Look like?",
@@ -221,7 +232,7 @@
         "long_bio": "Jasmine Greenaway is a NYC based Cloud Developer Advocate at Microsoft, where she illustrates the cool things about Azure through words and code. She also is an adjunct professor at LaGuardia Community College in Queens, NYC where she primarily teaches front and back end web development. Outside of work, she volunteers as a co-organiser at <a href='http://brooklynjs.com/'>BrooklynJS</a>, a monthly meetup held in the Cobble Hill area of Brooklyn, NYC."
     },
     {
-        "featured": "true",
+        "featured": "false",
         "name": "Cecil Philip",
         "image": "img/participants/cecil-philip.png",
         "item": "Talk: What does Open Source at Microsoft Look like?",
@@ -241,6 +252,39 @@
         "url_twitter": "https://twitter.com/AndysHVC",
         "short_bio": "Product Manager, World First",
         "long_bio": "Andy has experience as both an intrapreneur and an entrepreneur. Currently a Product Manager and startup advisor, he started his career in Management Consulting. Beyond his job as a Product Manager, Andy coaches startups on how to build inclusive cultures and develop products customers love. He also co-founded <a href='http://www.mixtapemadness.com/'>Mixtape Madness</a>, a music discovery, streaming and distribution platform with over half a billion streams to date."
+    },
+    {
+        "featured": "false",
+        "name": "Urenna Okonkwo",
+        "image": "img/participants/urenna-okonkwo.png",
+        "item": "PANEL: YSYS Founders Stories",
+        "item_description": "A panel on using technology to drive inclusion and diversity in today's fragmented communities.",
+        "twitter_handle": "@CashmereTheApp",
+        "url_twitter": "https://twitter.com/CashmereTheApp",
+        "short_bio": "Founder, Cashmere",
+        "long_bio": "Urenna is the founder of <a href='https://www.cashmereapp.co.uk/'>Cashmere</a>, a social savings platform that helps millennials save towards and buy luxury fashion. In 2016, she was selected as one of the 6 Fashion-Tech entrepreneurs to be mentored by the Centre For Fashion Enterprise in partnership with London College of Fashion. Urenna is a passionate and creative innovator who has combined her love for fashion and technology with her background in finance to inspire and influence modern millennial women to enjoy luxury responsibly."
+    },
+    {
+        "featured": "false",
+        "name": "Dayo Akinrinade",
+        "image": "img/participants/dayo-akinrinade.png",
+        "item": "PANEL: YSYS Founders Stories",
+        "item_description": "A panel on using technology to drive inclusion and diversity in today's fragmented communities.",
+        "twitter_handle": "@africlick",
+        "url_twitter": "https://twitter.com/africlick",
+        "short_bio": "Founder, AfriClick",
+        "long_bio": "Dayo is the founder of <a href='https://www.africlick.co.uk/'>AfriClick</a>: a social discovery app for creatives and professionals of African descent, the mission is to empower global Afro-Caribbeans to connect through their culture. AfriClick was a recipient of the 2017 University College London Award for Enterprise and Entrepreneurship. She specialises in data analytics and Fintech. Dayo mentors young professionals and entrepreneurs via WCAN, BGR.LDN and the Wildhearts foundation and is a member of <a href='http://www.techlondonadvocates.org.uk/'>Tech London Advocates</a> and <a href='https://twitter.com/thisisysys'>YSYS</a>."
+    },
+    {
+        "featured": "false",
+        "name": "Darren Tenkorang",
+        "image": "img/participants/darren-tenkorang.png",
+        "item": "PANEL: YSYS Founders Stories",
+        "item_description": "A panel on using technology to drive inclusion and diversity in today's fragmented communities.",
+        "twitter_handle": "@Trimit_app",
+        "url_twitter": "https://twitter.com/Trimit_app",
+        "short_bio": "Founder, TRIM-IT",
+        "long_bio": "As CEO Darren’s job is to organise the team and steer <a href='https://trimitapp.co.uk/'>TRIM-IT</a> in the right direction. He came up with the idea in 2016. Winning various start-up competitions and straight after graduating from University of Sussex he has been building the company ever since."
     },
     {
         "featured": "false",

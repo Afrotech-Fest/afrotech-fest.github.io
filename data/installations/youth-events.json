@@ -3,7 +3,7 @@
         "name": "WORKSHOPS",
         "schedule": [
             {
-                "name": "Build a Ballon-powered Car with Rijole Bitata",
+                "name": "Build a Balloon-powered Car with Rijole Bitata",
                 "time": "10:30am – 11:30am",
                 "title": "Title to come",
                 "description": "In this workshop you will learn how to build your own powered car using a balloon. The project will test your patience, dexterity and creativity. All you need is tons of positive thinking!",
@@ -23,6 +23,14 @@
                 "title": "Title to come",
                 "description": "Momo will walk you through how to take a game idea from inside your head, onto paper, and into production.",
                 "age": "Age: 10+"
+            },
+            {
+                "name": "The Microbit Robot Challenge with South London Raspberry Jam.",
+                "time": "1:50pm – 2:50pm",
+                "title": "Title to come",
+                "description": "Participants will be given an introduction to the MicroBit with an ice-breaker, and then given a simple task to flash code on to the Microbit. The second part of the challenge will involve teams using the Robo:Bit Buggy, and downloading the BitBot library to complete increasingly difficult challenges.",
+                "age": "Age: All ages welcome"
+
             },
             {
                 "name": "'Virtual Reality + Architecture Futures' with Alisha Fisher and Bola Lasisi-Agiri",

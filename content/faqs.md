@@ -18,6 +18,9 @@ Volunteers are an important part of Afrotech Fest 2018 and we welcome anyone int
 #### I’d like to attend but not sure I can afford the ticket price.
 We'll also be offering concessionary tickets to those unable to afford the full cost of tickets. If you're unable to afford concession tickets please email us at info@afrotechfest.co.uk
 
+#### How do I book a workshop spot? 
+Workshop places will be allocated on a first come, first served basis and can not be booked in advance. You'll need to bring your laptop for some workshops.  
+
 #### Is the venue wheelchair accessible? 
 Yes, please see our <a href="/accessibility">Accessibility and Inclusion</a> page. 
 
