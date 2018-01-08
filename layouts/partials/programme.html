@@ -31,7 +31,7 @@
                   
                                 <ul class="programme__event" data-programme-button>
                                 <li data-programme-name>{{ .event_name }}</li>
-                                <li class="programme__description subtitles" data-programme-description>{{ .event_description }}</li>
+                                <li class="programme__description subtitles" data-programme-description>{{ htmlUnescape .event_description  | safeHTML }}</li>
                                 <li data-programme-participants style="text-transform:none; margin-bottom:10px;">{{ .event_participants }}</li>
                                 <li data-programme-label class="subtitles"><span class="event-label" style="margin-right:5px">{{ .event_label }}</span><span data-programme-label class="event-label">{{ .event_venue }}</span></li>
 
