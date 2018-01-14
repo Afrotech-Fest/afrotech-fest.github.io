@@ -12,7 +12,7 @@
                 ]
             },
             {
-                "time": "1:45pm",
+                "time": "2:00pm",
                 "events": [
                     {
                         "event_name": "Welcome to Afrotech Fest",
@@ -23,23 +23,14 @@
                 ]
             },
             {
-                "time": "2:00pm – 3:30pm",
+                "time": "2:30pm – 3:30pm",
                 "events": [
                     {
-                        "event_name": "Lunch",
-                        "event_venue": "Venue 2"
-                    }
-                ]
-            },
-            {
-                "time": "2:50pm – 3:00pm",
-                "events": [
-                    {
-                        "event_venue": "Venue 2",
-                        "event_name": "An introduction to Android development",
-                        "event_description": "",
-                        "event_participants": "– Funmi Adewodu, Teresa Ng",
-                        "event_label": "Workshop"
+                        "event_name": "YSYS Founders Stories",
+                        "event_participants": "Andy Ayim, Dayo Akinrinade, Darren Tenkorang, Urenna Okonkwo",
+                        "event_description": "Using technology to drive inclusion and diversity in today's fragmented communities",
+                        "event_label": "Panel",
+                        "event_venue": "Main space"
                     }
                 ]
             },
@@ -50,125 +41,131 @@
                         "event_venue": "Main space",
                         "event_name": "Keynote",
                         "event_description": "",
-                        "event_participants": "– Makayla Lewis",
+                        "event_participants": "Makayla Lewis",
                         "event_label": "Talk"
                     }
                 ]
             },
             {
-                "time": "5:10pm – 5:30pm",
+                "time": "5:15pm – 5:35pm",
                 "events": [
                     {
                         "event_venue": "Main space",
                         "event_name": "Designing Internet Culture into Artificial Intelligence",
                         "event_description": "",
-                        "event_participants": "– Nathalie Nzeyimana",
+                        "event_participants": "Nathalie Nzeyimana",
                         "event_label": "Talk"
                     },
                     {
                         "event_venue": "Venue 2",
                         "event_name": "Literary Activisim: Archiving for the future",
                         "event_description": "This talk centres on the topic of digital activism as seen through digital African literary magazines. These digital magazines are documenting our times, an essential task that might determine the future.",
-                        "event_participants": "– Yovanaka Paidago",
+                        "event_participants": "Yovanaka Paidago",
                         "event_label": "Talk"
                     }
                 ]
             },
             {
-                "time": "5:10pm – 6:10pm",
+                "time": "5:15pm – 6:15pm",
                 "events": [
                     {
                         "event_venue": "Venue 2",
                         "event_name": "Digital Ethics and the Social Media Generation",
                         "event_description": "",
-                        "event_participants": "– Alexander Fefegha",
-                        "event_label": "Workshop"
-                    },
-                    {
-                        "event_venue": "Venue 2",
-                        "event_name": "Service design Talk and workshop",
-                        "event_description": "",
-                        "event_participants": "– Daniel Blyden, Florence Okoye",
+                        "event_participants": "Alexander Fefegha",
                         "event_label": "Workshop"
                     }
                 ]
             },
+    
             {
-                "time": "5:40pm – 6:00pm",
+                "time": "5:45pm – 6:45pm",
                 "events": [
                     {
                         "event_venue": "Main space",
-                        "event_name": "TBC",
-                        "event_description": "",
-                        "event_participants": "– Joseph Nwosu",
-                        "event_label": "Talk"
-                    }
-                ]
-            },
-            {
-                "time": "5:40pm – 6:30pm",
-                "events": [
-                    {
-                        "event_venue": "Venue 2",
                         "event_name": "What does Open Source at Microsoft Look like?",
                         "event_description": "In recent years Microsoft has become a strong contributor to open source. They've integrated open source into projects, while also collaborating on open source projects and initiatives. In this talk we're going to show you some of the areas how embracing open source has changed the way we build products and engage with the community.",
-                        "event_participants": "– Cecil Phillip, Jasmine Greenaway",
+                        "event_participants": "Cecil Phillip, Jasmine Greenaway",
+                        "event_label": "Talk"
+                    },
+                    {
+                        
+                                "event_venue": "Venue 2",
+                                "event_name": "Service design Talk and workshop",
+                                "event_description": "",
+                                "event_participants": "Daniel Blyden, Florence Okoye",
+                                "event_label": "Workshop"
+                            }
+                ]
+            },
+            {
+                "time": "5:45pm – 6:05pm",
+                "events": [
+                    {
+                        "event_venue": "Venue 2",
+                        "event_name": "How simple technology can deliver life-changing solutions",
+                        "event_description": "",
+                        "event_participants": "Joseph Nwosu",
                         "event_label": "Talk"
                     }
                 ]
             },
             {
-                "time": "6:10pm – 6:30pm",
+                "time": "6:00pm – 7:00pm",
                 "events": [
                     {
-                        "event_venue": "Main space",
+                        "event_venue": "Venue 2",
+                        "event_name": "An Introduction to Android Development",
+                        "event_description": "Intro to Android",
+                        "event_participants": "Funmi Adewodu, Teresa Ng",
+                        "event_label": "Workshop"
+                    }
+                ]
+            },
+            {
+                "time": "6:15pm – 6:35pm",
+                "events": [
+                    {
+                        "event_venue": "Venue 2",
                         "event_name": "Codeyourfuture: Refugees diversifying tech",
                         "event_description": "CodeYourFuture is a volunteer-run organisation that teaches programming to refugees. This is the story of its origins, its journey so far and how it embraces diversity to create a community that transcends coding and gives a sense of hope and purpose to both students and volunteers.",
-                        "event_participants": "– Mozafar Haider, Sentayhu M Ali",
+                        "event_participants": "Mozafar Haider, Sentayhu M Ali",
                         "event_label": "Talk"
                     }
                 ]
             },
             {
-                "time": "6:30pm – 7:00pm",
-                "events": [
-                    {
-                        "event_name": "Break"
-                    }
-                ]
-            },
-            {
-                "time": "7:00pm – 7:45pm",
+                "time": "7:15pm – 8:00pm",
                 "events": [
                     {
                         "event_venue": "Main space",
                         "event_name": "Keynote",
                         "event_description": "",
-                        "event_participants": "– Ian Forrester",
+                        "event_participants": "Ian Forrester",
                         "event_label": "Talk"
                     }
                 ]
             },
             {
-                "time": "7:45pm – 7:55pm",
+                "time": "8:15pm – 8:30pm",
                 "events": [
                     {
                         "event_venue": "Main space",
                         "event_name": "Closing poem",
                         "event_description": "",
-                        "event_participants": "– Nikky Norton",
+                        "event_participants": "Nikky Norton",
                         "event_label": "Engagement"
                     }
                 ]
             },
             {
-                "time": "8:00pm – 8:45pm",
+                "time": "8:30pm – 9:30pm",
                 "events": [
                     {
                         "event_venue": "Lower cafe",
                         "event_name": "CBT: Pull Request",
                         "event_description": "CBT: Pull Requests is a performance-installation combining the practices of coding and braiding; an experiment in digital activism and critical aesthetics. In this networked-salon, each strand of hair that is woven and unwoven; signals information passing, the encryption and decryption of private messaging. Inspired by cryptology, biometrics, feedback loops and the possibilities of cybernetic resistance.",
-                        "event_participants": "– Tamar Clarke-Brown, Isaac Kariuki",
+                        "event_participants": "Tamar Clarke-Brown, Isaac Kariuki",
                         "event_label": "Performance"
                     }
                 ]
@@ -180,7 +177,7 @@
                         "event_venue": "Main space",
                         "event_name": "Interactive dance party",
                         "event_description": "The Friday opening party showcases visual and sound artists who have created special pieces for the festival.",
-                        "event_participants": "– Hayden Anyasi, Lula Mebrahtu",
+                        "event_participants": "Hayden Anyasi, Lula Mebrahtu",
                         "event_label": "Performance"
                     }
                 ]
