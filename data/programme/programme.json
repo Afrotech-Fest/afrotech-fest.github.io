@@ -193,7 +193,7 @@
                 "events": [
                     {
                         "event_venue": "Venue 1",
-                        "event_name": "Registration and breakfast",
+                        "event_name": "Registration and Welcome",
                         "event_description": "",
                         "event_participants": "",
                         "event_label": ""
@@ -211,6 +211,13 @@
                 "time": "10:30am – 11:30pm",
                 "events": [
                     {
+                        "event_venue": "Venue 1",
+                        "event_name": "Keynote",
+                        "event_description": "",
+                        "event_participants": "– Ade Adewunmi",
+                        "event_label": "Talk"
+                    },
+                    {
                         "event_venue": "Main space",
                         "event_name": "Build a balloon-powered car",
                         "event_description": "In this workshop you will learn how to build your own powered car using a balloon. The project will test your patience, dexterity and creativity. All you need is tons of positive thinking!",
@@ -220,39 +227,8 @@
                 ]
             },
             {
-                "time": "10:30am – 10:45am",
-                "events": [
-                    {
-                        "event_venue": "Venue 1",
-                        "event_name": "Welcome to Afrotech Fest",
-                        "event_description": "",
-                        "event_participants": "– Hosts",
-                        "event_label": "Talk"
-                    }
-                ]
-            },
-            {
-                "time": "10:45am – 11:30am",
-                "events": [
-                    {
-                        "event_venue": "Venue 1",
-                        "event_name": "Keynote",
-                        "event_description": "",
-                        "event_participants": "– Ade Adewunmi",
-                        "event_label": "Talk"
-                    }
-                ]
-            },
-            {
                 "time": "11:30am – 12:30pm",
                 "events": [
-                    {
-                        "event_venue": "Venue 1",
-                        "event_name": "Junior.next()",
-                        "event_description": "",
-                        "event_participants": "Tara Ojo",
-                        "event_label": "Talk"
-                    },
                     {
                         "event_name": "Text-based adventure games in Java",
                         "event_venue": "Main space",
@@ -263,26 +239,263 @@
                 ]
             },
             {
-                "time": "11:45am – 12:10pm",
+                "time": "11:45am – 5:40pm",
                 "events": [
                     {
-                        "event_name": "Lightning talks",
+                        "event_name": "Afrcorowd Editahon",
+                        "event_venue": "Venue 2",
+                        "event_description": "",
+                        "event_participants": "Kelly Foster",
+                        "event_label": "Workshop"
+                    }
+                ]
+            },
+            {
+                "time": "11:45am – 12:45pm",
+                "events": [
+                    {
+                        "event_name": "Service Design Workshop",
+                        "event_venue": "Venue 2",
+                        "event_description": "",
+                        "event_participants": "Dr Makayla Lewis",
+                        "event_label": "Workshop"
+                    },
+                    {
+                        "event_name": "An Introduction to Git and Github",
+                        "event_venue": "Venue 2",
+                        "event_description": "",
+                        "event_participants": "Olu Niyi-Owususi",
+                        "event_label": "Workshop"
+                    }
+                ]
+            },
+            {
+                "time": "11:45am – 12:15pm",
+                "events": [
+                    {
+                        "event_name": "Lighting Talks",
                         "event_venue": "Venue 1",
-                        "event_description": "The Truth About Technoculture: Description<br><br>Consenting to what ? How much is it worth?: Description ",
-                        "event_participants": "Ashley Particks, Abshira Mohamed",
+                        "event_description": "",
+                        "event_participants": "Eunice Bagoma Ball, Ab Mohamed",
                         "event_label": "Talk"
                     }
                 ]
             },
             {
-                "time": "11:45am – 2:30pm",
+                "time": "12:30pm – 12:50pm",
                 "events": [
                     {
-                        "event_name": "AfrowCrowd Editathon",
+                        "event_name": "Wakanda, Africa, and alternate futures",
+                        "event_venue": "Venue 1",
+                        "event_description": "",
+                        "event_participants": "Helen Gould",
+                        "event_label": "Talk"
+                    }
+                ]
+            },
+            {
+                "time": "1:00pm – 2:00pm",
+                "events": [
+                    {
+                        "event_name": "Lunch",
+                        "event_venue": "Venue 2"
+                    }
+                ]
+            },
+            {
+                "time": "1:50pm – 2:50pm",
+                "events": [
+                    {
+                        "event_name": "Alisha and Bola",
+                        "event_venue": "Main space",
+                        "event_description": "",
+                        "event_participants": "Alisha, Bola",
+                        "event_label": "Youth"
+                    },
+                    {
+                        "event_name": "South London Raspberry Jam",
+                        "event_venue": "Main space",
+                        "event_description": "",
+                        "event_participants": "Grace",
+                        "event_label": "Youth"
+                    }
+                
+                ]
+            },
+
+            {
+                "time": "2:30pm – 2:50pm",
+                "events": [
+                    {
+                        "event_name": "Democratising Venture Capital",
+                        "event_venue": "Venue 1",
+                        "event_description": "",
+                        "event_participants": "Paris Petgrave",
+                        "event_label": "Talk"
+                    },
+                    {
+                        "event_name": "Junior.next()",
                         "event_venue": "Venue 2",
                         "event_description": "",
-                        "event_participants": "Kelly Foster",
+                        "event_participants": "Tara Ojo",
+                        "event_label": "Talk"
+                    }
+                
+                ]
+            },
+            {
+                "time": "2:30pm – 3:30pm",
+                "events": [
+                    {
+                        "event_name": "What the Matrix can teach us about D&I",
+                        "event_venue": "Venue 2",
+                        "event_description": "",
+                        "event_participants": "Chisa, Papa",
                         "event_label": "Workshop"
+                    },
+                    {
+                        "event_name": "New to Functional Programming? Meet Elixir!",
+                        "event_venue": "Venue 2",
+                        "event_description": "",
+                        "event_participants": "Chi-chi Ekweozor",
+                        "event_label": "Workshop"
+                    }
+                
+                ]
+            },
+            {
+                "time": "3:00pm – 3:40pm",
+                "events": [
+                    {
+                        "event_name": "Lighting Talks",
+                        "event_venue": "Venue 1",
+                        "event_description": "",
+                        "event_participants": "Wale, Dawn, Ashley",
+                        "event_label": "Talk"
+                    }
+                ]
+            },
+            {
+                "time": "3:15pm – 3:35pm",
+                "events": [
+                    {
+                        "event_name": "Privacy Not Included: Marketing a Consumer Demand for Online Privacy & Security",
+                        "event_venue": "Venue 2",
+                        "event_description": "",
+                        "event_participants": "Temi",
+                        "event_label": "Talk"
+                    }
+                ]
+            },
+            {
+                "time": "3:45pm – 4:45pm",
+                "events": [
+                    {
+                        "event_name": "Practical Cryptocurrency 101",
+                        "event_venue": "Venue 2",
+                        "event_description": "",
+                        "event_participants": "Dre Ferdinand",
+                        "event_label": "Workshop"
+                    }
+                ]
+            },
+            {
+                "time": "4:00pm – 4:20pm",
+                "events": [
+                    {
+                        "event_name": "",
+                        "event_venue": "Venue 1",
+                        "event_description": "",
+                        "event_participants": "Claudia",
+                        "event_label": "Talk"
+                    },
+                    {
+                        "event_name": "",
+                        "event_venue": "Main space",
+                        "event_description": "",
+                        "event_participants": "Youth track closes",
+                        "event_label": ""
+                    }
+                ]
+            },
+            {
+                "time": "4:00pm – 4:20pm",
+                "events": [
+                    {
+                        "event_name": "The Good and Evils of Machine Learning",
+                        "event_venue": "Venue 2",
+                        "event_description": "",
+                        "event_participants": "Brian, Dawn, Absira",
+                        "event_label": "Panel"
+                    }
+                ]
+            },
+            {
+                "time": "4:30pm – 4:50pm",
+                "events": [
+                    {
+                        "event_name": "A Glimmer of Hope - The Modern State of Web Components",
+                        "event_venue": "Venue 1",
+                        "event_description": "",
+                        "event_participants": "Jessica Jordan",
+                        "event_label": "Talk"
+                    }
+                ]
+            },
+            {
+                "time": "5:00pm – 6:00pm",
+                "events": [
+                    {
+                        "event_name": "",
+                        "event_venue": "Venue 2",
+                        "event_description": "",
+                        "event_participants": "Loraine James",
+                        "event_label": "Workshop"
+                    }
+                ]
+            },
+            {
+                "time": "5:45pm – 6:45pm",
+                "events": [
+                    {
+                        "event_name": "BAME in Games",
+                        "event_venue": "Venue 1",
+                        "event_description": "",
+                        "event_participants": "Chella Ramanan",
+                        "event_label": "Panel"
+                    }
+                ]
+            },
+            {
+                "time": "7:00pm – 7:15pm",
+                "events": [
+                    {
+                        "event_name": "Closing Poem",
+                        "event_venue": "Venue 1",
+                        "event_description": "",
+                        "event_participants": "Nikky Norton",
+                        "event_label": "Talk"
+                    }
+                ]
+            },
+            {
+                "time": "8:00pm – 9:40pm",
+                "events": [
+                    {
+                        "event_name": "Cryptoparty",
+                        "event_venue": "Venue 1",
+                        "event_description": "",
+                        "event_participants": "BLM UK, XANA, Erin",
+                        "event_label": "Talk"
+                    }
+                ]
+            },
+            {
+                "time": "11:00pm",
+                "events": [
+                    {
+                        "event_name": "Festival Close"
+
                     }
                 ]
             }
