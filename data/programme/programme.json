@@ -242,7 +242,7 @@
                 "time": "11:45am – 5:40pm",
                 "events": [
                     {
-                        "event_name": "Afrcorowd Editahon",
+                        "event_name": "Afrocrowd Editahon",
                         "event_venue": "Venue 2",
                         "event_description": "",
                         "event_participants": "Kelly Foster",
@@ -364,7 +364,7 @@
                 ]
             },
             {
-                "time": "3:00pm – 3:40pm",
+                "time": "3:00pm – 3:45pm",
                 "events": [
                     {
                         "event_name": "Lighting Talks",
@@ -419,7 +419,7 @@
                 ]
             },
             {
-                "time": "4:00pm – 4:20pm",
+                "time": "4:00pm – 5:00pm",
                 "events": [
                     {
                         "event_name": "The Good and Evils of Machine Learning",
