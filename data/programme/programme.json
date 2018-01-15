@@ -16,9 +16,10 @@
                 "events": [
                     {
                         "event_name": "Welcome to Afrotech Fest",
-                        "event_participants": "Hosts",
-                        "event_label": "Talk",
-                        "event_venue": "Main space"
+                        "event_participants": "Abiola Babarinde, Carl Konadu",
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>"
+
                     }
                 ]
             },
@@ -29,8 +30,8 @@
                         "event_name": "YSYS Founders Stories",
                         "event_participants": "Andy Ayim, Dayo Akinrinade, Darren Tenkorang, Urenna Okonkwo",
                         "event_description": "Using technology to drive inclusion and diversity in today's fragmented communities",
-                        "event_label": "Panel",
-                        "event_venue": "Main space"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Panel</span>",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>"
                     }
                 ]
             },
@@ -38,11 +39,11 @@
                 "time": "4:00pm",
                 "events": [
                     {
-                        "event_venue": "Main space",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_name": "Keynote",
                         "event_description": "",
                         "event_participants": "Makayla Lewis",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
             },
@@ -50,18 +51,19 @@
                 "time": "5:15pm – 5:35pm",
                 "events": [
                     {
-                        "event_venue": "Main space",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_name": "Designing Internet Culture into Artificial Intelligence",
                         "event_description": "",
                         "event_participants": "Nathalie Nzeyimana",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     },
                     {
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_name": "Literary Activisim: Archiving for the future",
                         "event_description": "This talk centres on the topic of digital activism as seen through digital African literary magazines. These digital magazines are documenting our times, an essential task that might determine the future.",
                         "event_participants": "Yovanaka Paidago",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
             },
@@ -69,11 +71,12 @@
                 "time": "5:15pm – 6:15pm",
                 "events": [
                     {
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_name": "Digital Ethics and the Social Media Generation",
                         "event_description": "",
                         "event_participants": "Alexander Fefegha",
-                        "event_label": "Workshop"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
                 ]
             },
@@ -82,19 +85,19 @@
                 "time": "5:45pm – 6:45pm",
                 "events": [
                     {
-                        "event_venue": "Main space",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_name": "What does Open Source at Microsoft Look like?",
                         "event_description": "In recent years Microsoft has become a strong contributor to open source. They've integrated open source into projects, while also collaborating on open source projects and initiatives. In this talk we're going to show you some of the areas how embracing open source has changed the way we build products and engage with the community.",
                         "event_participants": "Cecil Phillip, Jasmine Greenaway",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     },
                     {
                         
-                                "event_venue": "Venue 2",
+                                "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>",
                                 "event_name": "Service design Talk and workshop",
                                 "event_description": "",
                                 "event_participants": "Daniel Blyden, Florence Okoye",
-                                "event_label": "Workshop"
+                                "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                             }
                 ]
             },
@@ -102,11 +105,12 @@
                 "time": "5:45pm – 6:05pm",
                 "events": [
                     {
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_name": "How simple technology can deliver life-changing solutions",
                         "event_description": "",
                         "event_participants": "Joseph Nwosu",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
             },
@@ -114,11 +118,12 @@
                 "time": "6:15pm – 7:15pm",
                 "events": [
                     {
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_name": "An Introduction to Android Development",
                         "event_description": "Intro to Android",
                         "event_participants": "Funmi Adewodu, Teresa Ng",
-                        "event_label": "Workshop"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
                 ]
             },
@@ -126,11 +131,12 @@
                 "time": "6:15pm – 6:35pm",
                 "events": [
                     {
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_name": "Codeyourfuture: Refugees diversifying tech",
                         "event_description": "CodeYourFuture is a volunteer-run organisation that teaches programming to refugees. This is the story of its origins, its journey so far and how it embraces diversity to create a community that transcends coding and gives a sense of hope and purpose to both students and volunteers.",
                         "event_participants": "Mozafar Haider, Sentayhu M Ali",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
             },
@@ -138,11 +144,11 @@
                 "time": "7:15pm – 8:00pm",
                 "events": [
                     {
-                        "event_venue": "Main space",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_name": "Keynote",
                         "event_description": "",
                         "event_participants": "Ian Forrester",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
             },
@@ -150,11 +156,11 @@
                 "time": "8:15pm – 8:30pm",
                 "events": [
                     {
-                        "event_venue": "Main space",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_name": "Closing poem",
                         "event_description": "",
                         "event_participants": "Nikky Norton",
-                        "event_label": "Engagement"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Engagement</span>"
                     }
                 ]
             },
@@ -166,7 +172,7 @@
                         "event_name": "CBT: Pull Request",
                         "event_description": "CBT: Pull Requests is a performance-installation combining the practices of coding and braiding; an experiment in digital activism and critical aesthetics. In this networked-salon, each strand of hair that is woven and unwoven; signals information passing, the encryption and decryption of private messaging. Inspired by cryptology, biometrics, feedback loops and the possibilities of cybernetic resistance.",
                         "event_participants": "Tamar Clarke-Brown, Isaac Kariuki",
-                        "event_label": "Performance"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Performance</span>"
                     }
                 ]
             },
@@ -174,11 +180,11 @@
                 "time": "9:30pm – 11:00pm",
                 "events": [
                     {
-                        "event_venue": "Main space",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_name": "Interactive dance party",
                         "event_description": "The Friday opening party showcases visual and sound artists who have created special pieces for the festival.",
                         "event_participants": "Hayden Anyasi, Lula Mebrahtu",
-                        "event_label": "Performance"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Performance</span>"
                     }
                 ]
             }
@@ -192,18 +198,14 @@
                 "time": "10:00am",
                 "events": [
                     {
-                        "event_venue": "Venue 1",
-                        "event_name": "Registration and Welcome",
-                        "event_description": "",
-                        "event_participants": "",
-                        "event_label": ""
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
+                        ,
+                        "event_name": "Registration and Welcome"
                     },
                     {
                         "event_name": "Youth Programme opens",
-                        "event_venue": "Main space",
-                        "event_description": "",
-                        "event_participants": "",
-                        "event_label": ""
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     }
                 ]
             },
@@ -211,18 +213,19 @@
                 "time": "10:30am – 11:30pm",
                 "events": [
                     {
-                        "event_venue": "Venue 1",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
+                        ,
                         "event_name": "Keynote",
                         "event_description": "",
-                        "event_participants": "– Ade Adewunmi",
-                        "event_label": "Talk"
+                        "event_participants": "Ade Adewunmi",
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     },
                     {
-                        "event_venue": "Main space",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_name": "Build a balloon-powered car",
                         "event_description": "In this workshop you will learn how to build your own powered car using a balloon. The project will test your patience, dexterity and creativity. All you need is tons of positive thinking!",
-                        "event_participants": "– Rijole Bitata",
-                        "event_label": "Youth"
+                        "event_participants": "Rijole Bitata",
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     }
                 ]
             },
@@ -231,10 +234,10 @@
                 "events": [
                     {
                         "event_name": "Text-based adventure games in Java",
-                        "event_venue": "Main space",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_description": "A short and gentle introduction to programming by making a simple text-based adventure game. For ages 10+",
                         "event_participants": "Coders of Colour",
-                        "event_label": "Youth"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     }
                 ]
             },
@@ -243,10 +246,11 @@
                 "events": [
                     {
                         "event_name": "Afrocrowd Editahon",
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Kelly Foster",
-                        "event_label": "Workshop"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
                 ]
             },
@@ -255,17 +259,19 @@
                 "events": [
                     {
                         "event_name": "Service Design Workshop",
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Dr Makayla Lewis",
-                        "event_label": "Workshop"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     },
                     {
                         "event_name": "An Introduction to Git and Github",
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Olu Niyi-Owususi",
-                        "event_label": "Workshop"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
                 ]
             },
@@ -274,10 +280,11 @@
                 "events": [
                     {
                         "event_name": "Lighting Talks",
-                        "event_venue": "Venue 1",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Eunice Bagoma Ball, Ab Mohamed",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
             },
@@ -286,10 +293,11 @@
                 "events": [
                     {
                         "event_name": "Wakanda, Africa, and alternate futures",
-                        "event_venue": "Venue 1",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Helen Gould",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
             },
@@ -298,7 +306,8 @@
                 "events": [
                     {
                         "event_name": "Lunch",
-                        "event_venue": "Venue 2"
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+
                     }
                 ]
             },
@@ -307,17 +316,17 @@
                 "events": [
                     {
                         "event_name": "Alisha and Bola",
-                        "event_venue": "Main space",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_description": "",
                         "event_participants": "Alisha, Bola",
-                        "event_label": "Youth"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     },
                     {
                         "event_name": "South London Raspberry Jam",
-                        "event_venue": "Main space",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_description": "",
                         "event_participants": "Grace",
-                        "event_label": "Youth"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     }
                 
                 ]
@@ -328,17 +337,19 @@
                 "events": [
                     {
                         "event_name": "Democratising Venture Capital",
-                        "event_venue": "Venue 1",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Paris Petgrave",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     },
                     {
                         "event_name": "Junior.next()",
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Tara Ojo",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 
                 ]
@@ -348,17 +359,19 @@
                 "events": [
                     {
                         "event_name": "What the Matrix can teach us about D&I",
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Chisa, Papa",
-                        "event_label": "Workshop"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     },
                     {
                         "event_name": "New to Functional Programming? Meet Elixir!",
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Chi-chi Ekweozor",
-                        "event_label": "Workshop"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
                 
                 ]
@@ -368,17 +381,18 @@
                 "events": [
                     {
                         "event_name": "Lighting Talks",
-                        "event_venue": "Venue 1",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Wale, Dawn, Ashley",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     },
                     {
                         "event_name": "",
-                        "event_venue": "Main space",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_description": "",
                         "event_participants": "Youth Programme closes",
-                        "event_label": ""
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     }
                 ]
             },
@@ -387,10 +401,11 @@
                 "events": [
                     {
                         "event_name": "Privacy Not Included: Marketing a Consumer Demand for Online Privacy & Security",
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Temi",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
             },
@@ -399,10 +414,11 @@
                 "events": [
                     {
                         "event_name": "Practical Cryptocurrency 101",
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Dre Ferdinand",
-                        "event_label": "Workshop"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
                 ]
             },
@@ -411,10 +427,11 @@
                 "events": [
                     {
                         "event_name": "",
-                        "event_venue": "Venue 1",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Claudia",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                     
                 ]
@@ -424,10 +441,11 @@
                 "events": [
                     {
                         "event_name": "The Good and Evils of Machine Learning",
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Brian, Dawn, Absira",
-                        "event_label": "Panel"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Panel</span>"
                     }
                 ]
             },
@@ -436,10 +454,10 @@
                 "events": [
                     {
                         "event_name": "A Glimmer of Hope - The Modern State of Web Components",
-                        "event_venue": "Venue 1",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>",
                         "event_description": "",
                         "event_participants": "Jessica Jordan",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
             },
@@ -448,10 +466,11 @@
                 "events": [
                     {
                         "event_name": "",
-                        "event_venue": "Venue 2",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Loraine James",
-                        "event_label": "Workshop"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
                 ]
             },
@@ -460,10 +479,11 @@
                 "events": [
                     {
                         "event_name": "BAME in Games",
-                        "event_venue": "Venue 1",
+                        "event_venue": "<span class='event-label'>Venue 1</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Chella Ramanan",
-                        "event_label": "Panel"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Panel</span>"
                     }
                 ]
             },
@@ -472,10 +492,11 @@
                 "events": [
                     {
                         "event_name": "Closing Poem",
-                        "event_venue": "Venue 1",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "Nikky Norton",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Engagement</span>"
                     }
                 ]
             },
@@ -484,10 +505,11 @@
                 "events": [
                     {
                         "event_name": "Cryptoparty",
-                        "event_venue": "Venue 1",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
+                        ,
                         "event_description": "",
                         "event_participants": "BLM UK, XANA, Erin",
-                        "event_label": "Talk"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
             },

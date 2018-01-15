@@ -549,7 +549,7 @@ textarea.form-control{
     width: 100%;
     height: 100%;
     opacity: .8;
-
+z-index: 100;
 
 }
 
@@ -633,11 +633,21 @@ hr {
     outline: none;
 }
 
+.modal__container .programme-participants {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #061A25;
+    font-family: 'Source Sans Pro'
+}
+
 .programme__modal {
   text-align: left;
   font-size: 0.9em;
 }
 
+.programme-label span {
+    margin-right: 5px;
+}
 
 [data-programme-modal-name] {
   margin-top: 20px;
@@ -917,6 +927,7 @@ grid-auto-flow: row;
     text-transform: none;
     border-radius: 2px;
     padding: 3px 4px;
+
 }
 
 .programme__event-group {

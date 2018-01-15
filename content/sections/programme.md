@@ -15,8 +15,9 @@ weight: 4
         <img src="../img/star-cluster-2.svg" width="100%" alt="">
     </div>
 </div>
+
 <div class="row">
-<div class="col-xs-12 col-md-9 mt-10">
+<div class="col-xs-12 col-md-9 mt-10 stack">
 
 <h2>PROGRAMME</h2>
 
@@ -26,8 +27,6 @@ weight: 4
 
 
 </div>
-
 </div>
 
 {{< programme >}}
-{{< modal >}}

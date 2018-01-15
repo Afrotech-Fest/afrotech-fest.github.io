@@ -92,11 +92,11 @@
       var name = $this.find('[data-programme-name]')[0].innerText;
       var description = $this.find('[data-programme-description]')[0].innerHTML;
       var participants = $this.find('[data-programme-participants]')[0].innerText;
-      var label = $this.find('[data-programme-label]')[0].innerText;
 
+  
       $this.unbind('click.modal');
       $this.bind('click.modal', function () {
-        openProgrammeModal(name, description, participants, label);
+        openProgrammeModal(name, description, participants);
       })
     })
 
@@ -144,12 +144,11 @@
     $('[data-programme-modal]').addClass('animated fadeIn').removeClass('display__none');
     $('[data-programme-overlay]').removeClass('display__none');
     $('[data-programme-close]').focus();
-
     $('[data-programme-modal-name]').text(name);
     $('[data-programme-modal-description]').html(description);
     $('[data-programme-modal-participants]').text(participants);
     $('[data-programme-modal-label]').text(label);
-    console.log('click');
+
   }
 
   function closeSpeakersModal() {
