@@ -21,7 +21,7 @@ weight: 4
 <h2>PROGRAMME</h2>
 
 
-<p>We've put together an exciting programme covering everything from working in games, to exploring possible futures using Wakanda as a touch point. Afrotech Fest offers interactive events across three venue spaces, including talks, workshops, a hackathon and <a href="/programme/#parties">parties</a> on both nights. There will be <a href="/programme/#hubs">hubs</a> across the venue space where the like-minded can jam, pair programme or just discuss what the possible impacts of AI and machine learning are on the Black community. We hope that everyone who attends finds their people.</p>
+<p>We've put together an exciting programme covering everything from working in games, to exploring possible futures using Wakanda as a touch point. Afrotech Fest offers interactive events across three venue spaces, including talks, workshops, and <a href="/programme/#parties">parties</a> on both nights. There will be <a href="/programme/#hubs">hubs</a> across the venue space where the like-minded can jam, pair programme or just discuss what the possible impacts of AI and machine learning are on the Black community. We hope that everyone who attends finds their people.</p>
 
     <a href="/programme"><button type="button" class="read-more--light mt-50">EXPLORE</button></a>
 <br>
