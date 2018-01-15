@@ -149,6 +149,7 @@
     $('[data-programme-modal-description]').html(description);
     $('[data-programme-modal-participants]').text(participants);
     $('[data-programme-modal-label]').text(label);
+    console.log('click');
   }
 
   function closeSpeakersModal() {

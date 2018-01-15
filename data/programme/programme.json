@@ -111,7 +111,7 @@
                 ]
             },
             {
-                "time": "6:00pm – 7:00pm",
+                "time": "6:15pm – 7:15pm",
                 "events": [
                     {
                         "event_venue": "Venue 2",
@@ -199,7 +199,7 @@
                         "event_label": ""
                     },
                     {
-                        "event_name": "Youth Progamme opens",
+                        "event_name": "Youth Programme opens",
                         "event_venue": "Main space",
                         "event_description": "",
                         "event_participants": "",
@@ -239,7 +239,7 @@
                 ]
             },
             {
-                "time": "11:45am – 5:40pm",
+                "time": "11:45am – 5:45pm",
                 "events": [
                     {
                         "event_name": "Afrocrowd Editahon",
@@ -324,7 +324,7 @@
             },
 
             {
-                "time": "2:30pm – 2:50pm",
+                "time": "2:30pm – 3:00pm",
                 "events": [
                     {
                         "event_name": "Democratising Venture Capital",
@@ -372,11 +372,18 @@
                         "event_description": "",
                         "event_participants": "Wale, Dawn, Ashley",
                         "event_label": "Talk"
+                    },
+                    {
+                        "event_name": "",
+                        "event_venue": "Main space",
+                        "event_description": "",
+                        "event_participants": "Youth Programme closes",
+                        "event_label": ""
                     }
                 ]
             },
             {
-                "time": "3:15pm – 3:35pm",
+                "time": "3:00pm – 3:20pm",
                 "events": [
                     {
                         "event_name": "Privacy Not Included: Marketing a Consumer Demand for Online Privacy & Security",
@@ -408,14 +415,8 @@
                         "event_description": "",
                         "event_participants": "Claudia",
                         "event_label": "Talk"
-                    },
-                    {
-                        "event_name": "",
-                        "event_venue": "Main space",
-                        "event_description": "",
-                        "event_participants": "Youth track closes",
-                        "event_label": ""
                     }
+                    
                 ]
             },
             {
@@ -479,7 +480,7 @@
                 ]
             },
             {
-                "time": "8:00pm – 9:40pm",
+                "time": "8:00pm – 10:00pm",
                 "events": [
                     {
                         "event_name": "Cryptoparty",

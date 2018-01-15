@@ -565,8 +565,11 @@ textarea.form-control{
     z-index: 1000;
     text-align: center;
     overflow-y: auto;
-
     max-height: calc(100% - 20px);
+}
+
+.programme__modal h3, .programme__modal p{
+    color: #061A25 !important;
 }
 
 [data-speaker-modal-title]
