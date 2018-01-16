@@ -513,7 +513,7 @@
                         "event_name": "Cryptoparty: Investigating Metadata",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
-                        "event_description": "A guest talk by BLM UK activists on tech activism during protests, and engagement online and within community.",
+                        "event_description": "What is metadata and why does it matter? Data traces are an important part of your digital footprint, it also allows services and companies to build a picture of who you are from the details embedded in your photos, bills and travel. But where does this information go? This is an introductory workshop on the data traces you leave behind and understanding metadata as a tool for tracking.",
                         "event_participants": "Xana",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     },
