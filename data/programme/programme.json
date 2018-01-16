@@ -168,7 +168,7 @@
                 "time": "8:30pm – 9:30pm",
                 "events": [
                     {
-                        "event_venue": "Lower cafe",
+                        "event_venue": "<span data-programme-label class='event-label'>Lower Cafe</span>",
                         "event_name": "CBT: Pull Request",
                         "event_description": "CBT: Pull Requests is a performance-installation combining the practices of coding and braiding; an experiment in digital activism and critical aesthetics. In this networked-salon, each strand of hair that is woven and unwoven; signals information passing, the encryption and decryption of private messaging. Inspired by cryptology, biometrics, feedback loops and the possibilities of cybernetic resistance.",
                         "event_participants": "Tamar Clarke-Brown, Isaac Kariuki",
