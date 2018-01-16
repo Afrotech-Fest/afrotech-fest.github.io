@@ -36,7 +36,7 @@
 
                 <div class="col-md-10 col-md-offset-1 pb-50" id="programme">
 
-                    <h2>OUTLINE</h2>
+                    <h2>SCHEDULE</h2>
 
                     <div>
                         {{ partial "programme.html" . }}
@@ -70,6 +70,19 @@
 
         {{ partial "footer.html" . }}
 
+    </div>
+
+    <!-- Modal -->
+    <div class="modal__container">
+        <div class="programme__modal-overlay display__none" tabindex="-1" data-programme-overlay></div>
+        <div class="programme__modal display__none" data-programme-modal>
+            <h3 data-programme-modal-name></h3>
+            <p class="programme-description" data-programme-modal-description></p>
+            <p class="programme-participants" data-programme-modal-participants></p>
+            <p class="programme-label" data-programme-modal-label></p>
+
+            <button class="button-close" data-programme-close></button>
+        </div>
     </div>
 
     <!-- /#content -->

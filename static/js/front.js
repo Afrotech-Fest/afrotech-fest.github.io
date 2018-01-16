@@ -32,6 +32,8 @@
     demo()
     contactForm()
     speakersModal()
+    programmeTabs()
+    programmeModal()
   })
 
   var lastFocusedElement;
@@ -46,29 +48,77 @@
       var name = $this.find('[data-speaker-name]')[0].innerText;
 
       $this.click(function () {
-        openModal(bio, imgUrl, name);
+        openSpeakersModal(bio, imgUrl, name);
       })
+    })
 
+    $('[data-speaker-overlay]').on('click', function () {
+      closeSpeakersModal();
+    })
+
+    $('[data-speaker-close]').on('click', function () {
+      closeSpeakersModal();
+    })
+  }
+
+  function programmeTabs() {
+    var tabs = $('[data-programme-tab]')
+
+    tabs.each(function () {
+      var $this = $(this)
+      var day = $this[0].dataset.programmeTab
+      var dayContent = $('.programme-' + day)
+
+      $this.click(function () {
+        var activeTab = $('.programme__tab-container.is-active')
+        var activeTabContent = $('.programme__item.is-active')
+
+        activeTab.removeClass('is-active')
+        activeTabContent.removeClass('is-active')
+
+        $this.addClass('is-active')
+        dayContent.addClass('is-active')
+
+        programmeModal();
+      })
+    })
+  }
+
+  function programmeModal() {
+    var programmeButtons = $('[data-programme-button]');
+
+    programmeButtons.each(function () {
+      var $this = $(this);
+      var name = $this.find('[data-programme-name]')[0].innerText;
+      var description = $this.find('[data-programme-description]')[0].innerHTML;
+      var participants = $this.find('[data-programme-participants]')[0].innerText;
+
+  
+      $this.unbind('click.modal');
+      $this.bind('click.modal', function () {
+        openProgrammeModal(name, description, participants);
+      })
+    })
+
+    $('[data-programme-overlay]').off('click').on('click', function () {
+      closeProgrammeModal();
+    })
+
+    $('[data-programme-close]').off('click').on('click', function () {
+      closeProgrammeModal();
     })
   }
 
 
   $(document).keyup(function (e) {
     if (e.keyCode == 27) {
-      closeModal();
+      closeSpeakersModal();
+      closeProgrammeModal();
     }
   });
 
-  $('[data-speaker-overlay]').on('click', function () {
-    closeModal();    
-  })
 
-
-  $('[data-speaker-close]').on('click', function () {
-    closeModal();
-  })
-
-  function openModal(bio, imgUrl, name) {
+  function openSpeakersModal(bio, imgUrl, name) {
     state.modalIsOpen = true;
 
     lastFocusedElement = document.activeElement;
@@ -82,11 +132,26 @@
     $('[data-speaker-modal-img]').attr('src', imgUrl);
     $('[data-speakers-modal-bio]').html(bio);
     $('[data-speaker-modal-title]').text(name);
+  }
 
+  function openProgrammeModal(name, description, participants, label) {
+    state.modalIsOpen = true;
+
+    lastFocusedElement = document.activeElement;
+
+    $('body').addClass('overflow-hidden');
+
+    $('[data-programme-modal]').addClass('animated fadeIn').removeClass('display__none');
+    $('[data-programme-overlay]').removeClass('display__none');
+    $('[data-programme-close]').focus();
+    $('[data-programme-modal-name]').text(name);
+    $('[data-programme-modal-description]').html(description);
+    $('[data-programme-modal-participants]').text(participants);
+    $('[data-programme-modal-label]').text(label);
 
   }
 
-  function closeModal() {
+  function closeSpeakersModal() {
     state.modalIsOpen = false;
 
     lastFocusedElement.focus();
@@ -98,14 +163,26 @@
     $('[data-speaker-modal-img]').attr('src', "");
     $('[data-speakers-modal-bio]').text("");
     $('[data-speaker-modal-title]').text("");
-
   }
 
+  function closeProgrammeModal() {
+    state.modalIsOpen = false;
+
+    lastFocusedElement.focus();
+
+    $('body').removeClass('overflow-hidden');
+    $('[data-programme-modal]').addClass('display__none');
+    $('[data-programme-overlay]').addClass('display__none');
+
+    $('[data-programme-modal-name]').text("");
+    $('[data-programme-modal-description]').text("");
+    $('[data-programme-modal-participants]').text("");
+    $('[data-programme-modal-type]').text("");
+  }
 
   function detectViewport() {
     return state.isMobile = window.innerWidth < options.tabletBreakpoint
   }
-
 
   // Ajax contact
   function contactForm() {
