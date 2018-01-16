@@ -121,7 +121,7 @@
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
                         "event_name": "An Introduction to Android Development",
-                        "event_description": "The workshop will be an introduction to android development using Java. We’ll cover the basics of android development and how to build a simple android app. The participants will be need a laptop with Android Studio already installed, an Android device (if they have one) and it’s usb cable.",
+                        "event_description": "The workshop will be an introduction to android development using Java. We’ll cover the basics of android development and how to build a simple android app. <br><br>The participants will be need a laptop with Android Studio already installed, an Android device (if they have one) and its usb cable.",
                         "event_participants": "Funmi Adewodu, Teresa Ng",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
@@ -376,7 +376,7 @@
                         "event_name": "New to Functional Programming? Meet Elixir!",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
-                        "event_description": "A short workshop introducing Elixir, the functional language that's taking the programming world by storm. Learn how to get started with thinking in terms of functions, and find out why Elixir is used by a growing number of companies around the world to build scalable, fault tolerant and concurrent web and mobile apps.",
+                        "event_description": "A short workshop introducing Elixir, the functional language that's taking the programming world by storm. Learn how to get started with thinking in terms of functions, and find out why Elixir is used by a growing number of companies around the world to build scalable, fault tolerant and concurrent web and mobile apps.<br><br>Bring your laptops and install Elixir before the workshop",
                         "event_participants": "Chi-chi Ekweozor",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
