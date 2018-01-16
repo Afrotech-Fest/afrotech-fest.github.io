@@ -29,7 +29,7 @@
                     {
                         "event_name": "YSYS Founders Stories",
                         "event_participants": "Andy Ayim, Dayo Akinrinade, Darren Tenkorang, Urenna Okonkwo",
-                        "event_description": "Using technology to drive inclusion and diversity in today's fragmented communities",
+                        "event_description": "A panel on using technology to drive inclusion and diversity in today's fragmented communities: Hear from members of YSYS on how they are building tech startups to empower their communities, and the importance of surrounding yourself with like-minded people.",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Panel</span>",
                         "event_venue": "<span data-programme-label class='event-label'>Main Space</span>"
                     }
@@ -42,7 +42,7 @@
                         "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_name": "Keynote",
                         "event_description": "",
-                        "event_participants": "Makayla Lewis",
+                        "event_participants": "Dr Makayla Lewis",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
@@ -108,7 +108,7 @@
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
                         "event_name": "How simple technology can deliver life-changing solutions",
-                        "event_description": "",
+                        "event_description": "This talk will look at how simple technology, used in a very specific context, can deliver life-changing solutions to millions of people.  We’ll also look at the ways in which we are cultivating and supporting African tech talent from education to seed funding and commercial support.",
                         "event_participants": "Joseph Nwosu",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
@@ -121,7 +121,7 @@
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
                         "event_name": "An Introduction to Android Development",
-                        "event_description": "Intro to Android",
+                        "event_description": "The workshop will be an introduction to android development using Java. We’ll cover the basics of android development and how to build a simple android app. The participants will be need a laptop with Android Studio already installed, an Android device (if they have one) and it’s usb cable.",
                         "event_participants": "Funmi Adewodu, Teresa Ng",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
@@ -146,7 +146,7 @@
                     {
                         "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_name": "Keynote",
-                        "event_description": "",
+                        "event_description": "In his talk, Ian will take a look at the external and internal challenges of diversity, he will put forward why it matters, show examples of progress and have the audience try practical steps during the talk.",
                         "event_participants": "Ian Forrester",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
@@ -215,8 +215,8 @@
                     {
                         "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
                         ,
-                        "event_name": "Keynote",
-                        "event_description": "",
+                        "event_name": "Keynote: Responsible Disruption",
+                        "event_description": "Africa’s potential for technological leapfrogging – the digital hubs, investors and tech practitioners – is exciting. But, even with African 'techpreneurs' in the lead, a truly equitable version of this future might not happen. Today we question the sustainability, societal cost and workings of the disruptive technologies powering the ‘sharing economy’. How might the replication of such models play in contexts without legacy institutions that protect the citizenry if this technologically enabled disruption is given free rein? Ade asks what, if any, responsibility technologists bear in shaping the technological disruption but also the systems that underpin it.",
                         "event_participants": "Ade Adewunmi",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     },
@@ -248,7 +248,7 @@
                         "event_name": "Afrocrowd Editahon",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
-                        "event_description": "",
+                        "event_description": "This workshop explores how to become a wikipedia editor. It explains and discusses the impact of Wikimedia and suggests projects you might like to join as an editor.",
                         "event_participants": "Kelly Foster",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
@@ -267,9 +267,8 @@
                     },
                     {
                         "event_name": "An Introduction to Git and Github",
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
-                        ,
-                        "event_description": "",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>",
+                        "event_description": "A beginner's overview of how git and github work. I intend to show how to use github in the simplest use case (add, commit and push) and to show more advanced workshoppers how to use github pages.",
                         "event_participants": "Olu Niyi-Owususi",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
@@ -282,8 +281,8 @@
                         "event_name": "Lighting Talks",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
                         ,
-                        "event_description": "",
-                        "event_participants": "Eunice Bagoma Ball, Ab Mohamed",
+                        "event_description": "<b>African Women who are #Bossing in Tech:</b> Black female founders receive less than 1% of global venture capital. Despite this, African women are defying the odds to build successful businesses and make an impact in tech. For my book Founding Women, I interviewed 20 female tech entrepreneurs originating from 13 African countries. In this talk I will share some of their inspiring stories and why I believe it is important  to celebrate and highlight these role models for young women everywhere. <br><br><b>Consenting to what? And how much is it work?:</b> This talk will be a short introduction into the ethical issue surrounding giving permission to your personal data and where it goes and for how long. It also proposes whether we should consider personal data boundary and where should it start or end.",
+                        "event_participants": "Eunice Bagoma Ball, Abi Mohamed",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
@@ -295,7 +294,7 @@
                         "event_name": "Wakanda, Africa, and alternate futures",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
                         ,
-                        "event_description": "",
+                        "event_description": "This talk will explore: the implications of a fictional African country rapidly outstripping the West; the history of African development; where we are now and whether a real Wakanda could be possible. In essence, if colonisation and imperialism had never happened, where would we be now?",
                         "event_participants": "Helen Gould",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
@@ -315,17 +314,17 @@
                 "time": "1:50pm – 2:50pm",
                 "events": [
                     {
-                        "event_name": "Alisha and Bola",
+                        "event_name": "Virtual Reality + Architecture Futures",
                         "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
-                        "event_description": "",
-                        "event_participants": "Alisha, Bola",
+                        "event_description": "If you could design your own communities and cities better, how would you envision them to be? We're giving you the tools and challenging you to create and play with your future realities.",
+                        "event_participants": "Alisha Fisher, Bola Lasisi-agiri",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     },
                     {
-                        "event_name": "South London Raspberry Jam",
+                        "event_name": "The Microbit Robot Challenge",
                         "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
-                        "event_description": "",
-                        "event_participants": "Grace",
+                        "event_description": "Participants will be given an introduction to the MicroBit with an ice-breaker, and then given a simple task to flash code on to the Microbit. The second part of the challenge will involve teams using the Robo:Bit Buggy, and downloading the BitBot library to complete increasingly difficult challenges.",
+                        "event_participants": "South London Raspberry Jam",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     }
                 
@@ -337,9 +336,8 @@
                 "events": [
                     {
                         "event_name": "Democratising Venture Capital",
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
-                        ,
-                        "event_description": "",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>",
+                        "event_description": "This talk examines how Block chain technology and the rise of ICO's presents a significant opportunity to disrupt traditional VC models and present a more inclusive, democratized model for financing startups within the community.",
                         "event_participants": "Paris Petgrave",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     },
@@ -347,7 +345,7 @@
                         "event_name": "Junior.next()",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
-                        "event_description": "",
+                        "event_description": "Life as a “junior” developer can be intense, overwhelming, but rewarding. How can juniors move on to the next level? And, what can employers, mentors and communities do to support the next generation of developers?",
                         "event_participants": "Tara Ojo",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
@@ -359,17 +357,16 @@
                 "events": [
                     {
                         "event_name": "What the Matrix can teach us about D&I",
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
-                        ,
-                        "event_description": "",
-                        "event_participants": "Chisa, Papa",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>",
+                        "event_description": "This workshop will break down and address common diversity and inclusion problems using 'The Matrix' as a case study. There are interesting parallels between the film and many issues employee groups/D&I teams are facing within their organisations. Initial context will be built as we share some patterns we've noticed as working to build up a D&I space at a global level within Pivotal.",
+                        "event_participants": "Chisa Nwabara, Papa Akuffo",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     },
                     {
                         "event_name": "New to Functional Programming? Meet Elixir!",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
-                        "event_description": "",
+                        "event_description": "A short workshop introducing Elixir, the functional language that's taking the programming world by storm. Learn how to get started with thinking in terms of functions, and find out why Elixir is used by a growing number of companies around the world to build scalable, fault tolerant and concurrent web and mobile apps.",
                         "event_participants": "Chi-chi Ekweozor",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
@@ -381,17 +378,16 @@
                 "events": [
                     {
                         "event_name": "Lighting Talks",
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
-                        ,
-                        "event_description": "",
-                        "event_participants": "Wale, Dawn, Ashley",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>",
+                        "event_description": "<b>Tinker Tailor Coder Spy - Breaking The Dev Down Into... Less Pretentious Roles:</b> In this talk, Wales uses code samples and other content to help listeners identify where they’re plumbers, first responders, legislators, and repair-people. This way they can approach programming with more humility and/or few feelings of intimidation!<br><br><b>Data Science In Government: Algorithms And Diversity:</b> Around the world, governments are getting ready to use data science, AI and algorithms to support decision-making and improve efficiency. With the rise of algorithms and AI, we need diversity in the government tech industry now more than ever.",
+                        "event_participants": "Wale Ogundipe, Dawn Duhaney, Ashley Patricks",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     },
                     {
-                        "event_name": "",
+                        "event_name": "Youth Programme closes",
                         "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_description": "",
-                        "event_participants": "Youth Programme closes",
+                        "event_participants": "",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     }
                 ]
@@ -403,8 +399,8 @@
                         "event_name": "Privacy Not Included: Marketing a Consumer Demand for Online Privacy & Security",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
-                        "event_description": "",
-                        "event_participants": "Temi",
+                        "event_description": "'Privacy Not Included' is the latest campaign from Mozilla's Advocacy team in which a buyer's guide for connected devices was produced, based on their privacy and security. In this talk, Temi discusses how it's vitally important to educate and inform the general public, in order to drive demand for change by manufacturers, so that privacy is the new default in technology.",
+                        "event_participants": "Temi Lasade-anderson",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
@@ -416,7 +412,7 @@
                         "event_name": "Practical Cryptocurrency 101",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
-                        "event_description": "",
+                        "event_description": "This workshop involves a walkthrough of everything needed to be able to play with cryptocurrencies (Bitcoin, Ethereum, NEO). We'll gift some crypto to each of the participants so by the end of the event people leave with the skills and tools needed to keep learning, and perhaps teach their friends.",
                         "event_participants": "Dre Ferdinand",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
@@ -430,7 +426,7 @@
                         "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
                         ,
                         "event_description": "",
-                        "event_participants": "Claudia",
+                        "event_participants": "Clàudia T. Lopes",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                     
@@ -443,8 +439,8 @@
                         "event_name": "The Good and Evils of Machine Learning",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
-                        "event_description": "",
-                        "event_participants": "Brian, Dawn, Absira",
+                        "event_description": "There has been some discussion in the media recently about bias or deficiencies in machine learning algorithms. For example, facial recognition software being unable to process darker skin tones or chatbots which can be trained to spout racist tweets (Microsoft’s Tay). This panel discusses, in beginner-friendly terms, why this is occurring and in particular how biased algorithms can have a negative impact on the quality of life for people of colour.",
+                        "event_participants": "Brian Akperi, Dawn Duhaney, Abi Mohamed",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Panel</span>"
                     }
                 ]
@@ -455,7 +451,7 @@
                     {
                         "event_name": "A Glimmer of Hope - The Modern State of Web Components",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>",
-                        "event_description": "",
+                        "event_description": "The browser support of web components has been getting increasingly better over the past few years and besides other component libraries, including Polymer or X-Tag, the Ember community presents its own new library - Glimmer.js - enabling you to create easy-to-use web components today.",
                         "event_participants": "Jessica Jordan",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
@@ -465,10 +461,9 @@
                 "time": "5:00pm – 6:00pm",
                 "events": [
                     {
-                        "event_name": "",
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
-                        ,
-                        "event_description": "",
+                        "event_name": "Electronic Live Performance Workshop",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>",
+                        "event_description": "This workshop consists of Loraine demonstrating her live set, then thoroughly deconstructing it, going through each gear she uses, and explaining its purpose towards her live sets.",
                         "event_participants": "Loraine James",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
@@ -479,16 +474,15 @@
                 "events": [
                     {
                         "event_name": "BAME in Games",
-                        "event_venue": "<span class='event-label'>Venue 1</span>"
-                        ,
-                        "event_description": "",
-                        "event_participants": "Chella Ramanan",
+                        "event_venue": "<span class='event-label'>Venue 1</span>",
+                        "event_description": "Afrotech Fest offers BAME in Games a vital opportunity to engage with the black African and Caribbean community directly and hopefully build relationships with organisations and people beyond the games industry to encourage inclusivity. Games are an exciting medium that offer new ways to tell stories and the panel explores ways people can get involved and may even inspire them to make their own games.",
+                        "event_participants": "Chella Ramanan, Adam Campbell, Michael Anderson, Albert Marshall, Momo Pixel",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Panel</span>"
                     }
                 ]
             },
             {
-                "time": "7:00pm – 7:15pm",
+                "time": "7:00pm – 7:30pm",
                 "events": [
                     {
                         "event_name": "Closing Poem",
@@ -501,15 +495,35 @@
                 ]
             },
             {
-                "time": "8:00pm – 10:00pm",
+                "time": "8:00pm – 8:45pm",
                 "events": [
                     {
-                        "event_name": "Cryptoparty",
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
-                        ,
-                        "event_description": "",
-                        "event_participants": "BLM UK, XANA, Erin",
+                        "event_name": "Cryptoparty: Black Lives Matter",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>",
+                        "event_description": "A guest talk by BLM UK activists on tech activism during protests, and engagement online and within community.",
+                        "event_participants": "BLM UK",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
+                    }
+                ]
+            },
+            {
+                "time": "8:45pm – 9:45pm",
+                "events": [
+                    {
+                        "event_name": "Cryptoparty: Investigating Metadata",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
+                        "event_description": "A guest talk by BLM UK activists on tech activism during protests, and engagement online and within community.",
+                        "event_participants": "Xana",
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
+                    },
+                    {
+                        "event_name": "Cryptoparty: Boosting the browser on your phone",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                        ,
+                        "event_description": "Understand browsers more and how you can improve your privacy and security while on the move with small changes which make a big difference. We'll also cover topics around mobile security and activism.",
+                        "event_participants": "Erin Burns",
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
                 ]
             },

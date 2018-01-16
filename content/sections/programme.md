@@ -29,4 +29,6 @@ weight: 4
 </div>
 </div>
 
+<h3>Schedule</h3>
+
 {{< programme >}}
