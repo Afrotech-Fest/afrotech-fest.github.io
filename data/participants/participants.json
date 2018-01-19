@@ -33,6 +33,17 @@
         "long_bio": "Ian Forrester is a well known and likeable character on the digital scene in the UK, currently based in Manchester, UK where he works for the BBC's R&D Future Experiences. He specialises in open innovation and new disruptive opportunities by creating value via open engagement and collaborations with startups, universities, early adopters and hackers."
     },
     {
+        "featured": "true",
+        "name": "Ade Adewunmi",
+        "image": "img/participants/ade-adewunmi.png",
+        "item": "Keynote: Responsible Disruption",
+        "item_description": "Africa’s potential for technological leapfrogging - the digital hubs, investors and tech practitioners - is exciting. But, even with African 'techpreneurs' in the lead, a truly equitable version of this future might not happen. Ade asks what, if any, responsibility technologists bear in shaping the technological disruption but also the systems that underpin it. She wonders what scope there is for a broader interpretation of systems thinking?",
+        "twitter_handle": "@Adewunmi",
+        "url_twitter": "https://twitter.com/@Adewunmi",
+        "short_bio": "Public Sector Industry Consultant, Think Big Analytics",
+        "long_bio": "Ade Adewunmi works at the increasingly complex intersection of data, digital technology and strategy. In her consulting role at <a href='https://www.thinkbiganalytics.com/'>Think Big Analytics</a> (the advisory and delivery arm of Teradata) she advises organisations on the most effective ways to derive value from their data. That could mean anything from optimising operational delivery through to sharper predictive capability and everything in between!"
+    },
+    {
         "featured": "false",
         "name": "Alex Fefegha",
         "image": "img/participants/alex-fefegha.png",
@@ -146,8 +157,8 @@
         "featured": "false",
         "name": "Ashley Patricks",
         "image": "img/participants/ashley-patricks.png",
-        "item": "",
-        "item_description": "",
+        "item": "TALK: The Truth About Technoculture",
+        "item_description": "'The Truth About Technoculture' aims to highlight some interesting topics gleaned from ongoing research into the space where technology meets culture. Come and find out how our behaviour, lifestyle, and future may be affected by the digital landscape being built up around us.",
         "twitter_handle": "@ash_patricks",
         "url_twitter": "https://twitter.com/ash_patricks",
         "short_bio": "Tech Lead, Lloyds Innovation Labs",
@@ -276,7 +287,7 @@
         "long_bio": "Cecil Phillip is teacher, podcaster and a Cloud Developer Advocate at Microsoft where he focuses on the .NET experience in Azure. He has a passion for software architecture, software testing and web technologies. Prior to joining Microsoft, he spent many years building software for various industries such as healthcare, finance, education and human resources. Cecil co-hosts, <a href='http://awayfromthekeyboard.com/'>Away from the Keyboard</a>, a weekly podcast which talks to people in technology and tells their stories."
     },
     {
-        "featured": "false",
+        "featured": "true",
         "name": "Andy Ayim",
         "image": "img/participants/andy-ayim.png",
         "item": "PANEL: YSYS Founders Stories",
@@ -287,7 +298,7 @@
         "long_bio": "Andy has experience as both an intrapreneur and an entrepreneur. Currently a Product Manager and startup advisor, he started his career in Management Consulting. Beyond his job as a Product Manager, Andy coaches startups on how to build inclusive cultures and develop products customers love. He also co-founded <a href='http://www.mixtapemadness.com/'>Mixtape Madness</a>, a music discovery, streaming and distribution platform with over half a billion streams to date."
     },
     {
-        "featured": "false",
+        "featured": "true",
         "name": "Urenna Okonkwo",
         "image": "img/participants/urenna-okonkwo.png",
         "item": "PANEL: YSYS Founders Stories",
@@ -405,7 +416,7 @@
         "twitter_handle": "@lilasoul_ctl",
         "url_twitter": "https://twitter.com/lilasoul_ctl",
         "short_bio": "Art Lead, Runaway",
-        "long_bio": "Clàudia T. Lopes is a game artist with a great enthusiasm for arts and crafts. Currently a lead game artist at game developer and publisher Runway, she has previously worked on TV commercials, independent films and with the children’s gaming industry."
+        "long_bio": "Clàudia T. Lopes is a game artist with a great enthusiasm for arts and crafts. Currently a lead game artist at game developer and publisher <a href='http://www.runawayplay.com/'>Runaway</a>, she has previously worked on TV commercials, independent films and with the children’s gaming industry."
     },
     {
         "featured": "false",
@@ -417,5 +428,16 @@
         "url_twitter": "https://twitter.com/LondonLabrish",
         "short_bio": "Wikipedia contributor",
         "long_bio": "Kelly Foster is a public historian specialising in community and digital history. She is a founding member of TRANSMISSION, a collective of archivists and historians of African descent working towards. Kelly is the UK organiser for <a href='http://www.afrocrowd.org/'>AfroCROWD</a> an initiative that increases the number of people of African Descent who contribute to Wikimedia and the open movement. She was named 2017 UK Wikimedian of the Year."
+    },
+    {
+        "featured": "false",
+        "name": "Joseph Nwosu",
+        "image": "img/participants/joseph-nwosu.png",
+        "item": "Talk: How simple technology can deliver life-changing solutions",
+        "item_description": "This talk will look at how simple technology, used in a very specific context, can deliver life-changing solutions to millions of people. We’ll also look at the ways in which we are cultivating and supporting African tech talent from education to seed funding and commercial support.",
+        "twitter_handle": "",
+        "url_twitter": "https://twitter.com/",
+        "short_bio": "Corporate Partnerships Officer, Amref Health Africa",
+        "long_bio": "Joseph is the Corporate Partnerships Officer at <a href='http://amrefuk.org'/>Amref Health Africa</a>, one of the leading healthcare development agencies on the continent. He develops, manages and negotiates strategic funding partnerships between businesses and Amref in the UK. He is passionate about technology and its application to Africa, as well as its ability to transform the lives and opportunities of people in Africa and the African diaspora."
     }
 ]

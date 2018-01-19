@@ -39,10 +39,10 @@
                 "time": "4:00pm – 5:00pm",
                 "events": [
                     {
-                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
-                        "event_name": "Keynote: To be announced",
-                        "event_description": "",
-                        "event_participants": "",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>",
+                        "event_name": "Self-love with p5.js",
+                        "event_description": "An introduction to p5.js (which is a javascript library) and using p5.js to make a random quote generator with quotes and affirmations based on self love/mental health. By the the end of the workshop attendees will become more aware of mental health issues, what self love is and have a broader understanding of p5.js",
+                        "event_participants": "Perola Da Cruz, Erica dos Santos",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
@@ -158,8 +158,8 @@
                     {
                         "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_name": "Closing poem",
-                        "event_description": "",
-                        "event_participants": "Nikky Norton",
+                        "event_description": "Nikky will also be filling herself with all the words in the air at the festival to create a plenary poem to close the day.",
+                        "event_participants": "Nikky Norton Shafau",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Engagement</span>"
                     }
                 ]
@@ -213,9 +213,10 @@
                 "time": "10:30am – 11:30am",
                 "events": [
                     {
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
-                        ,
-                        "event_name": "Keynote: To be announced",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>",
+                        "event_name": "Keynote: Responsible Disruption",
+                        "event_description": "Africa’s potential for technological leapfrogging – the digital hubs, investors and tech practitioners – is exciting. But, even with African 'techpreneurs' in the lead, a truly equitable version of this future might not happen. Today we question the sustainability, societal cost and workings of the disruptive technologies powering the ‘sharing economy’. How might the replication of such models play in contexts without legacy institutions that protect the citizenry if this technologically enabled disruption is given free rein? Ade asks what, if any, responsibility technologists bear in shaping the technological disruption but also the systems that underpin it.",
+                        "event_participants": "Ade Adewunmi",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     },
                     {
@@ -280,7 +281,7 @@
                         "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
                         ,
                         "event_description": "<b>African Women who are #Bossing in Tech:</b> Black female founders receive less than 1% of global venture capital. Despite this, African women are defying the odds to build successful businesses and make an impact in tech. For my book Founding Women, I interviewed 20 female tech entrepreneurs originating from 13 African countries. In this talk I will share some of their inspiring stories and why I believe it is important  to celebrate and highlight these role models for young women everywhere. <br><br><b>Consenting to what? And how much is it work?:</b> This talk will be a short introduction into the ethical issue surrounding giving permission to your personal data and where it goes and for how long. It also proposes whether we should consider personal data boundary and where should it start or end.",
-                        "event_participants": "Eunice Bagoma Ball, Abi Mohamed",
+                        "event_participants": "Eunice Baguma Ball, Abi Mohamed",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 ]
@@ -390,7 +391,7 @@
                     {
                         "event_name": "Lightning Talks",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>",
-                        "event_description": "<b>Tinker Tailor Coder Spy - Breaking The Dev Down Into... Less Pretentious Roles:</b> In this talk, Wales uses code samples and other content to help listeners identify where they’re plumbers, first responders, legislators, and repair-people. This way they can approach programming with more humility and/or few feelings of intimidation!<br><br><b>Data Science In Government: Algorithms And Diversity:</b> Around the world, governments are getting ready to use data science, AI and algorithms to support decision-making and improve efficiency. With the rise of algorithms and AI, we need diversity in the government tech industry now more than ever.",
+                        "event_description": "<b>Tinker Tailor Coder Spy - Breaking The Dev Down Into... Less Pretentious Roles:</b> In this talk, Wales uses code samples and other content to help listeners identify where they’re plumbers, first responders, legislators, and repair-people. This way they can approach programming with more humility and/or few feelings of intimidation!<br><br><b>Data Science In Government: Algorithms And Diversity:</b> Around the world, governments are getting ready to use data science, AI and algorithms to support decision-making and improve efficiency. With the rise of algorithms and AI, we need diversity in the government tech industry now more than ever.<br><br><b>The Truth About Technoculture:</b> 'The Truth About Technoculture' aims to highlight some interesting topics gleaned from ongoing research into the space where technology meets culture. Come and find out how our behaviour, lifestyle, and future may be affected by the digital landscape being built up around us.",
                         "event_participants": "Wale Ogundipe, Dawn Duhaney, Ashley Patricks",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     },
@@ -499,8 +500,8 @@
                         "event_name": "Closing Poem",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
                         ,
-                        "event_description": "",
-                        "event_participants": "Nikky Norton",
+                        "event_description": "Nikky will also be filling herself with all the words in the air at the festival to create a plenary poem to close the day.",
+                        "event_participants": "Nikky Norton Shafau",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Engagement</span>"
                     }
                 ]

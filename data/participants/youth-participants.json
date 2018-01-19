@@ -48,5 +48,14 @@
         "image": "img/participants/bola-lasisi-agiri.png",
         "short_bio": "Designer",
         "long_bio": "Bola is a creative multi-disciplinary designer from South-East London. Whilst working as an architectural assistant, he and his business partner also run a multi-media design company entitled ‘Tamed Designs.’ Their aim is to help brand enterprises, large and small, improve their identity in the market, packaging their assets in the best image possible."
+    },
+    {
+        "featured": "true",
+        "name": "Jay Richards",
+        "twitter_handle": "@JayKRichards",
+        "url_twitter": "https://twitter.com/jaykrichards",
+        "image": "img/participants/jay-richards.png",
+        "short_bio": "Founder, DivInc",
+        "long_bio": "Jay is the founder of DivInc; a non-profit designed to increase founder diversity. Divinc helps disadvantaged students to found their own startups and possibly gain investment!"
     }
 ]
