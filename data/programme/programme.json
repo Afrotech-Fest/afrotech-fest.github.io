@@ -434,10 +434,10 @@
                 "time": "4:00pm – 4:20pm",
                 "events": [
                     {
-                        "event_name": "",
+                        "event_name": "Jack of all trades, Master of diversity",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>"
                         ,
-                        "event_description": "",
+                        "event_description": "This talk discusses the benefits of being 'a Jack (or Jill) of all trades' and how it naturally drives diversity in the creative industry.",
                         "event_participants": "Clàudia T. Lopes",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
