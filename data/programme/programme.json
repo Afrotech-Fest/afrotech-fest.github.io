@@ -189,7 +189,7 @@
                         "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_name": "Interactive dance party",
                         "event_description": "The Friday opening party showcases visual and sound artists who have created special pieces for the festival.",
-                        "event_participants": "Hayden Anyasi, Lula Mebrahtu",
+                        "event_participants": "Hayden Anyasi, Lula Mebrahtu, Mwen",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Performance</span>"
                     }
                 ]
@@ -430,13 +430,6 @@
                         "event_description": "<b>Data Science In Government: Algorithms And Diversity:</b> Around the world, governments are getting ready to use data science, AI and algorithms to support decision-making and improve efficiency. With the rise of algorithms and AI, we need diversity in the government tech industry now more than ever.<br><br><b>Anti-social Media</b> Facebook's unparalleled ability to reach millions of people make it an attractive way to spread the word about protests, actions, and events. But whose rights to free speech and assembly are protected on this massive, privately run platform? Story after story has emerged about Facebook disproportionately censoring POC activists. This talk will examine the current state of social media censorship and put forward simple to advanced solutions.",
                         "event_participants": "Dawn Duhaney, Erin Burns",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
-                    },
-                    {
-                        "event_name": "Youth Programme closes",
-                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
-                        "event_description": "",
-                        "event_participants": "",
-                        "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     }
                 ]
             },
