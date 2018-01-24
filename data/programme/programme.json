@@ -43,7 +43,14 @@
                         "event_name": "Self-love with p5.js",
                         "event_description": "An introduction to p5.js (which is a javascript library) and using p5.js to make a random quote generator with quotes and affirmations based on self love/mental health. By the the end of the workshop attendees will become more aware of mental health issues, what self love is and have a broader understanding of p5.js",
                         "event_participants": "Perola Da Cruz, Erica dos Santos",
-                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
+                    },
+                    {
+                        "event_venue": "<span data-programme-label class='event-label'>Main space</span>",
+                        "event_name": "The Showcase Hour",
+                        "event_description": "An informal hour in our programme where we invite attendees to show their upcoming projects, present ideas and abstracts on papers they are working on. This is a chance for attendees to connect further at the festival and perhaps collaborate on future projects. <br><br>We'll have a laptop on stage for you to show any slides, images or videos. Spotlights in the showcase are a maximum of 5 minutes",
+                        "event_participants": "Open to all",
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Engagement</span>"
                     }
                 ]
             },
@@ -84,8 +91,7 @@
                 "time": "5:45pm – 6:05pm",
                 "events": [
                     {
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
-                        ,
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>",
                         "event_name": "How simple technology can deliver life-changing solutions",
                         "event_description": "This talk will look at how simple technology, used in a very specific context, can deliver life-changing solutions to millions of people.  We’ll also look at the ways in which we are cultivating and supporting African tech talent from education to seed funding and commercial support.",
                         "event_participants": "Joseph Nwosu",
@@ -141,7 +147,7 @@
                 ]
             },
             {
-                "time": "7:15pm – 8:00pm",
+                "time": "7:00pm – 7:45pm",
                 "events": [
                     {
                         "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
@@ -153,7 +159,7 @@
                 ]
             },
             {
-                "time": "8:15pm – 8:30pm",
+                "time": "8:00pm – 8:15pm",
                 "events": [
                     {
                         "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
@@ -229,7 +235,7 @@
                 ]
             },
             {
-                "time": "11:30am – 12:30pm",
+                "time": "11:00am – 12:00pm",
                 "events": [
                     {
                         "event_name": "Text-based adventure games in Java",
@@ -268,7 +274,7 @@
                         "event_name": "An Introduction to Git and Github",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>",
                         "event_description": "A beginner's overview of how git and github work. I intend to show how to use github in the simplest use case (add, commit and push) and to show more advanced workshoppers how to use github pages.",
-                        "event_participants": "Olu Niyi-Owususi",
+                        "event_participants": "Olu Niyi-Awosusi",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
                 ]
@@ -294,6 +300,13 @@
                         "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
                         "event_description": "Momo will walk you through how to take a game idea from inside your head, onto paper, and into production. Age: 10+",
                         "event_participants": "Momo Pixel",
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
+                    },
+                    {
+                        "event_name": "Tech Fair Challenge",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
+                        "event_description": "Rise to the challenge! We have a number of head scratchers for young people to invent solutions for from cleaning up Londons air to building an app that helps them study. Prizes will be given out to the most daring and community driven ideas.",
+                        "event_participants": "Jay Richards",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     }
                 ]
@@ -343,7 +356,7 @@
             },
 
             {
-                "time": "2:30pm – 3:00pm",
+                "time": "2:30pm – 2:50pm",
                 "events": [
                     {
                         "event_name": "Democratising Venture Capital",
@@ -351,13 +364,18 @@
                         "event_description": "This talk examines how Block chain technology and the rise of ICO's presents a significant opportunity to disrupt traditional VC models and present a more inclusive, democratized model for financing startups within the community.",
                         "event_participants": "Paris Petgrave",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
-                    },
+                    }
+                
+                ]
+            },
+            {
+                "time": "2:30pm – 3:00pm",
+                "events": [
                     {
-                        "event_name": "Junior.next()",
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
-                        ,
-                        "event_description": "Life as a “junior” developer can be intense, overwhelming, but rewarding. How can juniors move on to the next level? And, what can employers, mentors and communities do to support the next generation of developers?",
-                        "event_participants": "Tara Ojo",
+                        "event_name": "Lightning Talks",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>",
+                        "event_description": "<b>Junior.next():</b> Life as a “junior” developer can be intense, overwhelming, but rewarding. How can juniors move on to the next level? And, what can employers, mentors and communities do to support the next generation of developers?<br><br><b>The Truth About Technoculture:</b> 'The Truth About Technoculture' aims to highlight some interesting topics gleaned from ongoing research into the space where technology meets culture. Come and find out how our behaviour, lifestyle, and future may be affected by the digital landscape being built up around us.",
+                        "event_participants": "Tara Ojo, Ashley Patricks",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     }
                 
@@ -375,8 +393,7 @@
                     },
                     {
                         "event_name": "New to Functional Programming? Meet Elixir!",
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
-                        ,
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>",
                         "event_description": "A short workshop introducing Elixir, the functional language that's taking the programming world by storm. Learn how to get started with thinking in terms of functions, and find out why Elixir is used by a growing number of companies around the world to build scalable, fault tolerant and concurrent web and mobile apps.<br><br>Bring your laptops and install Elixir before the workshop",
                         "event_participants": "Chi-chi Ekweozor",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
@@ -386,13 +403,13 @@
             },
 
             {
-                "time": "3:00pm – 3:45pm",
+                "time": "3:00pm – 3:20pm",
                 "events": [
                     {
-                        "event_name": "Lightning Talks",
+                        "event_name": "Tinker Tailor Coder Spy",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>",
-                        "event_description": "<b>Tinker Tailor Coder Spy - Breaking The Dev Down Into... Less Pretentious Roles:</b> In this talk, Wales uses code samples and other content to help listeners identify where they’re plumbers, first responders, legislators, and repair-people. This way they can approach programming with more humility and/or few feelings of intimidation!<br><br><b>Data Science In Government: Algorithms And Diversity:</b> Around the world, governments are getting ready to use data science, AI and algorithms to support decision-making and improve efficiency. With the rise of algorithms and AI, we need diversity in the government tech industry now more than ever.<br><br><b>The Truth About Technoculture:</b> 'The Truth About Technoculture' aims to highlight some interesting topics gleaned from ongoing research into the space where technology meets culture. Come and find out how our behaviour, lifestyle, and future may be affected by the digital landscape being built up around us.",
-                        "event_participants": "Wale Ogundipe, Dawn Duhaney, Ashley Patricks",
+                        "event_description": "In this talk, Wale uses code samples and other content to help listeners identify where they’re plumbers, first responders, legislators, and repair-people. This way they can approach programming with more humility and/or few feelings of intimidation!",
+                        "event_participants": "Wale Ogundipe",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
                     },
                     {
@@ -405,15 +422,21 @@
                 ]
             },
             {
-                "time": "3:15pm – 3:35pm",
+                "time": "3:20pm – 3:50pm",
                 "events": [
                     {
-                        "event_name": "Privacy Not Included: Marketing a Consumer Demand for Online Privacy & Security",
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
-                        ,
-                        "event_description": "'Privacy Not Included' is the latest campaign from Mozilla's Advocacy team in which a buyer's guide for connected devices was produced, based on their privacy and security. In this talk, Temi discusses how it's vitally important to educate and inform the general public, in order to drive demand for change by manufacturers, so that privacy is the new default in technology.",
-                        "event_participants": "Temi Lasade-anderson",
+                        "event_name": "Lightning Talks",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>",
+                        "event_description": "<b>Data Science In Government: Algorithms And Diversity:</b> Around the world, governments are getting ready to use data science, AI and algorithms to support decision-making and improve efficiency. With the rise of algorithms and AI, we need diversity in the government tech industry now more than ever.<br><br><b>Anti-social Media</b> Facebook's unparalleled ability to reach millions of people make it an attractive way to spread the word about protests, actions, and events. But whose rights to free speech and assembly are protected on this massive, privately run platform? Story after story has emerged about Facebook disproportionately censoring POC activists. This talk will examine the current state of social media censorship and put forward simple to advanced solutions.",
+                        "event_participants": "Dawn Duhaney, Erin Burns",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
+                    },
+                    {
+                        "event_name": "Youth Programme closes",
+                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
+                        "event_description": "",
+                        "event_participants": "",
+                        "event_label": "<span class='event-label' style='margin-right:5px'>Youth</span>"
                     }
                 ]
             },
