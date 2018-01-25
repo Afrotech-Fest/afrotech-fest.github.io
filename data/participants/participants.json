@@ -43,6 +43,17 @@
         "short_bio": "Public Sector Industry Consultant, Think Big Analytics",
         "long_bio": "Ade Adewunmi works at the increasingly complex intersection of data, digital technology and strategy. In her consulting role at <a href='https://www.thinkbiganalytics.com/'>Think Big Analytics</a> (the advisory and delivery arm of Teradata) she advises organisations on the most effective ways to derive value from their data. That could mean anything from optimising operational delivery through to sharper predictive capability and everything in between!"
     },
+        {
+        "featured": "false",
+        "name": "Lula Mebrahtu",
+        "image": "img/participants/lula.png",
+        "item": "Performance",
+        "item_description": "'Stories dictate the medium through which they are best told', Using her voice to liberate truth and facilitate transcendence, Lula sings about a lived experience of the past, present and future. Her soulful tombra, which carries the weight of her heritage, enables intergalactic travel; with the support of cutting edge technology MiMu Gloves, she makes levitation through sound waves possible.",
+        "twitter_handle": "",
+        "url_twitter": "",
+        "short_bio": "Performer",
+        "long_bio": "Sub-Saharan Eritrean by way of London, Lula Mebrahtu is a creative enigma, who is carving out a career for herself as a multidisciplinary Artist, an approach, which has led Lula to garner support and success across multiple fields."
+    },
     {
         "featured": "false",
         "name": "Dre Ferdinand",
