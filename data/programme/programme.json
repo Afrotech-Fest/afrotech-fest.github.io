@@ -437,11 +437,11 @@
                 "time": "3:45pm – 4:45pm",
                 "events": [
                     {
-                        "event_name": "Practical Cryptocurrency 101",
+                        "event_name": "An introduction to cryptocurrency",
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
-                        "event_description": "This workshop involves a walkthrough of everything needed to be able to play with cryptocurrencies (Bitcoin, Ethereum, NEO). We'll gift some crypto to each of the participants so by the end of the event people leave with the skills and tools needed to keep learning, and perhaps teach their friends.",
-                        "event_participants": "Dre Ferdinand",
+                        "event_description": "This workshop is a beginner’s introduction to the concept of cryptocurrency. We will teach you how to engage securely with the internet by using a password manager and how to send and receive crypto-tokens from your own personal private wallet.",
+                        "event_participants": "Dre Ferdinand, Lynette Lalero, Kieran Gibb",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
                 ]

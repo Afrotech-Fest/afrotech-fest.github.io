@@ -45,6 +45,28 @@
     },
     {
         "featured": "false",
+        "name": "Dre Ferdinand",
+        "image": "img/participants/dre-ferdinand.png",
+        "item": "Workshop: An introduction to cryptocurrency",
+        "item_description": "This workshop is a beginner’s introduction to the concept of cryptocurrency. We will teach you how to engage securely with the internet by using a password manager and how to send and receive crypto-tokens from your own personal private wallet",
+        "twitter_handle": "",
+        "url_twitter": "",
+        "short_bio": "Facilitator",
+        "long_bio": "Dre is a facilitator and yoga instructor coming from the field of social work. She is interested in understanding how marginalised communities can benefit from developments in cryptocurrency. Dre is also passionate about addressing social inequities based around food sovereignty as well as financial literacy amongst marginalised groups."
+    },
+    {
+        "featured": "false",
+        "name": "Lynette Lalero",
+        "image": "img/participants/holding-image.png",
+        "item": "Workshop: An introduction to cryptocurrency",
+        "item_description": "This workshop is a beginner’s introduction to the concept of cryptocurrency. We will teach you how to engage securely with the internet by using a password manager and how to send and receive crypto-tokens from your own personal private wallet.",
+        "twitter_handle": "",
+        "url_twitter": "",
+        "short_bio": "Facilitator",
+        "long_bio": "Lynette spent many years working in the Department of International Development (DFID) as part of the Global HIV and AIDS policy team, working to design and implement the UK government’s response to the HIV/AIDS crisis. She then went on to teach science in secondary schools across South and East London."
+    },
+    {
+        "featured": "false",
         "name": "Alex Fefegha",
         "image": "img/participants/alex-fefegha.png",
         "item": "",
