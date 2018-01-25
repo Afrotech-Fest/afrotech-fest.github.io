@@ -58,13 +58,6 @@
                 "time": "5:15pm – 5:35pm",
                 "events": [
                     {
-                        "event_venue": "<span data-programme-label class='event-label'>Main Space</span>",
-                        "event_name": "Designing Internet Culture into Artificial Intelligence",
-                        "event_description": "",
-                        "event_participants": "Natalie Nzeyimana",
-                        "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
-                    },
-                    {
                         "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
                         ,
                         "event_name": "Literary Activisim: Archiving for the future",
