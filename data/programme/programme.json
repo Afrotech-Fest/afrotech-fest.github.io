@@ -272,6 +272,7 @@
                     }
                 ]
             },
+
             {
                 "time": "11:45am – 12:15pm",
                 "events": [
@@ -366,7 +367,7 @@
                 "events": [
                     {
                         "event_name": "Lightning Talks",
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>",
+                        "event_venue": "<span data-programme-label class='event-label'>Venue 1</span>",
                         "event_description": "<b>Junior.next():</b> Life as a “junior” developer can be intense, overwhelming, but rewarding. How can juniors move on to the next level? And, what can employers, mentors and communities do to support the next generation of developers?<br><br><b>The Truth About Technoculture:</b> 'The Truth About Technoculture' aims to highlight some interesting topics gleaned from ongoing research into the space where technology meets culture. Come and find out how our behaviour, lifestyle, and future may be affected by the digital landscape being built up around us.",
                         "event_participants": "Tara Ojo, Ashley Patricks",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Talk</span>"
@@ -426,19 +427,7 @@
                     }
                 ]
             },
-            {
-                "time": "3:45pm – 4:45pm",
-                "events": [
-                    {
-                        "event_name": "An introduction to cryptocurrency",
-                        "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
-                        ,
-                        "event_description": "This workshop is a beginner’s introduction to the concept of cryptocurrency. We will teach you how to engage securely with the internet by using a password manager and how to send and receive crypto-tokens from your own personal private wallet.",
-                        "event_participants": "Dre Ferdinand, Lynette Lalero, Kieran Gibb",
-                        "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
-                    }
-                ]
-            },
+
             {
                 "time": "4:00pm – 4:20pm",
                 "events": [
@@ -463,6 +452,16 @@
                         "event_description": "There has been some discussion in the media recently about bias or deficiencies in machine learning algorithms. For example, facial recognition software being unable to process darker skin tones or chatbots which can be trained to spout racist tweets (Microsoft’s Tay). This panel discusses, in beginner-friendly terms, why this is occurring and in particular how biased algorithms can have a negative impact on the quality of life for people of colour.",
                         "event_participants": "Brian Akperi, Dawn Duhaney, Abi Mohamed",
                         "event_label": "<span class='event-label' style='margin-right:5px'>Panel</span>"
+                    },
+                    {
+     
+            
+                                "event_name": "An introduction to cryptocurrency",
+                                "event_venue": "<span data-programme-label class='event-label'>Venue 2</span>"
+                                ,
+                                "event_description": "This workshop is a beginner’s introduction to the concept of cryptocurrency. We will teach you how to engage securely with the internet by using a password manager and how to send and receive crypto-tokens from your own personal private wallet.",
+                                "event_participants": "Dre Ferdinand, Lynette Lalero, Kieran Gibb",
+                                "event_label": "<span class='event-label' style='margin-right:5px'>Workshop</span>"
                     }
                 ]
             },
