@@ -8,8 +8,8 @@
                     <div class="row">
                         <div class="col-xs-12 col-md-3">
                             <ul>
-                                    <li class="footer-links"><a href="{{ .Site.BaseURL }}coc">CODE OF CONDUCT</a></li>
-                                    <li class="footer-links"><a href="{{ .Site.BaseURL }}accessibility">ACCESSIBILITY AND INCLUSION</a></li>
+                                <li class="footer-links"><a href="{{ .Site.BaseURL }}coc">CODE OF CONDUCT</a></li>
+                                <li class="footer-links"><a href="{{ .Site.BaseURL }}accessibility">ACCESSIBILITY AND INCLUSION</a></li>
                             </ul>
                         </div>
 
@@ -17,9 +17,9 @@
                             <ul>
 
                                 <li class="footer-links"><a href="{{ .Site.BaseURL }}faqs">FAQs</a></li>
-                                <li class="footer-links"><a href="{{ .Site.BaseURL }}press">PRESS KIT</a></li>                                
+                                <li class="footer-links"><a href="{{ .Site.BaseURL }}press">PRESS KIT</a></li>
                                 <li class="footer-links"><a href="{{ .Site.BaseURL }}privacy">PRIVACY POLICY</a></li>
-                                
+
                             </ul>
                         </div>
 
@@ -56,16 +56,16 @@
                                     position: relative;
                                     height: 48px;
                                 }
-
+                                
                                 #mc_embed_signup_scroll .mc-field-group {
                                     flex-grow: 1;
                                 }
-
+                                
                                 #mc_embed_signup {
                                     margin-top: 20px;
                                     color: #ffffff;
                                 }
-
+                                
                                 #mc_embed_signup input.email {
                                     border-radius: 0px;
                                     height: 37px;
@@ -74,31 +74,30 @@
                                     border: 1px solid #ffffff;
                                     color: #ffffff;
                                 }
-
+                                
                                 #mc_embed_signup #mce-success-response {
                                     color: #ffffff;
                                     font-weight: lighter;
                                     padding-top: 0px;
                                     margin-top: 0px;
                                 }
-
-
+                                
                                 #mc_embed_signup div.mce_inline_error,
                                 #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
                                     background-color: transparent;
                                 }
-
+                                
                                 #mc-embedded-subscribe-form {
                                     padding: 10px 0px !important;
                                 }
-
+                                
                                 #mc_embed_signup input {
                                     border: none;
                                     border-radius: 0px;
                                     margin-top: 0;
                                     margin-left: 10px;
                                 }
-
+                                
                                 .subscribe-form #mce-success-response {
                                     position: absolute;
                                     top: 100%;
@@ -110,9 +109,7 @@
                             <h4>SIGN UP FOR UPDATES</h4>
 
                             <div id="mc_embed_signup">
-                                <form action="//afrotechfest.us16.list-manage.com/subscribe/post?u=8d533bb8d6b8b1bf2cbb6c8af&amp;id=eacce53198" method="post"
-                                    id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
-                                    novalidate>
+                                <form action="//afrotechfest.us16.list-manage.com/subscribe/post?u=8d533bb8d6b8b1bf2cbb6c8af&amp;id=eacce53198" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                                     <div id="mc_embed_signup_scroll">
 
                                         <div class="mc-field-group">
@@ -121,8 +118,7 @@
                                         </div>
 
 
-                                        <div class="clear"><input type="submit" value="SUBSCRIBE" name="subscribe" id="mc-embedded-subscribe"
-                                                class="btn-template-main"></div>
+                                        <div class="clear"><input type="submit" value="SUBSCRIBE" name="subscribe" id="mc-embedded-subscribe" class="btn-template-main"></div>
 
                                     </div>
 
@@ -136,7 +132,17 @@
                             </div>
                             <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
                             <script type="text/javascript">
-                                (function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);
+                                (function($) {
+                                    window.fnames = new Array();
+                                    window.ftypes = new Array();
+                                    fnames[0] = 'EMAIL';
+                                    ftypes[0] = 'email';
+                                    fnames[1] = 'FNAME';
+                                    ftypes[1] = 'text';
+                                    fnames[2] = 'LNAME';
+                                    ftypes[2] = 'text';
+                                }(jQuery));
+                                var $mcj = jQuery.noConflict(true);
                             </script>
                             <!--End mc_embed_signup-->
                         </div>
@@ -166,10 +172,4 @@
     <!-- /#copyright -->
 
     <!-- *** COPYRIGHT END *** -->
-</div>
-
-<div class="buy-tickets__btn-container--mobile">
-    <a href="{{ .Site.Params.buy.url }}" target="_blank" class="buy-tickets__btn--mobile buy-tickets__btn-shared">
-        Buy Tickets
-    </a>
 </div>
